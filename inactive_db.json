@@ -367,9 +367,7 @@
             "ads.asia1.com.sg",
             "ads.asp.net",
             "ads.associatedcontent.com",
-            "ads.atlantamotorspeedway.com"
-        ],
-        "to_test": [
+            "ads.atlantamotorspeedway.com",
             "ads.augusta.com",
             "ads.aversion2.com",
             "ads.aws.sitepoint.com",
@@ -631,7 +629,9 @@
             "ads.tiscali.fr",
             "ads.tnt.tv",
             "ads.top-banners.com",
-            "ads.top500.org",
+            "ads.top500.org"
+        ],
+        "to_test": [
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
