@@ -629,9 +629,7 @@
             "ads.tiscali.fr",
             "ads.tnt.tv",
             "ads.top-banners.com",
-            "ads.top500.org"
-        ],
-        "to_test": [
+            "ads.top500.org",
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
@@ -960,7 +958,9 @@
             "adtech.panthercustomer.com",
             "adtech.sabitreklam.com",
             "adtology3.com",
-            "adult.foxcounter.com",
+            "adult.foxcounter.com"
+        ],
+        "to_test": [
             "adv.440net.com",
             "adv.adtotal.pl",
             "adv.bookclubservices.ca",
