@@ -672,9 +672,7 @@
             "ads.x10.net",
             "ads.xbox-scene.com",
             "ads.xboxic.com",
-            "ads.xposed.com"
-        ],
-        "to_test": [
+            "ads.xposed.com",
             "ads.xtramsn.co.nz",
             "ads.youporn.com",
             "ads.zap2it.com",
@@ -943,7 +941,6 @@
             "adsintl.starwave.com",
             "adsm.soush.com",
             "adsnew.userfriendly.org",
-            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -988,7 +985,9 @@
             "adx.gainesvillesun.com",
             "adx.heraldtribune.com",
             "adz.afterdawn.net",
-            "adzone.stltoday.com",
+            "adzone.stltoday.com"
+        ],
+        "to_test": [
             "adzservice.theday.com",
             "afantispy.com",
             "afdbande.cn",
