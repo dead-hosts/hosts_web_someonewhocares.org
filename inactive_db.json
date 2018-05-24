@@ -383,9 +383,7 @@
             "ads.bigcitytools.com",
             "ads.bitsonthewire.com",
             "ads.blp.calueclick.net",
-            "ads.blp.valueclick.net"
-        ],
-        "to_test": [
+            "ads.blp.valueclick.net",
             "ads.box.sk",
             "ads.britishexpats.com",
             "ads.calgarysun.com",
@@ -484,6 +482,7 @@
             "ads.insidehighered.com",
             "ads.intellicast.com",
             "ads.ireport.com",
+            "ads.isat-tech.com",
             "ads.isum.de",
             "ads.jacksonville.com",
             "ads.jeneauempire.com",
@@ -673,7 +672,9 @@
             "ads.x10.net",
             "ads.xbox-scene.com",
             "ads.xboxic.com",
-            "ads.xposed.com",
+            "ads.xposed.com"
+        ],
+        "to_test": [
             "ads.xtramsn.co.nz",
             "ads.youporn.com",
             "ads.zap2it.com",
