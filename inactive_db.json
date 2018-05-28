@@ -2767,9 +2767,7 @@
             "mobile-antivirus.club",
             "mobileanalytics.us-east-2.amazonaws.com",
             "mobileanalytics.us-west-1.amazonaws.com",
-            "mobileanalytics.us-west-2.amazonaws.com"
-        ],
-        "to_test": [
+            "mobileanalytics.us-west-2.amazonaws.com",
             "moc.silk.com",
             "monstersandcritics.advertserve.com",
             "morefastermac.trade",
@@ -2843,6 +2841,7 @@
             "netads.sohu.com",
             "netadsrv.iworld.com",
             "netflix.apple-green.net",
+            "nethit-free.nl",
             "network-ca.247realmedia.com",
             "network.leadpub.com",
             "network.realmedia.com",
@@ -2991,7 +2990,9 @@
             "oascentral.thenation.com",
             "oascentral.thephoenix.com",
             "oascentral.thesmokinggun.com",
-            "oascentral.thespark.com",
+            "oascentral.thespark.com"
+        ],
+        "to_test": [
             "oascentral.townhall.com",
             "oascentral.tribe.net",
             "oascentral.urbanspoon.com",
