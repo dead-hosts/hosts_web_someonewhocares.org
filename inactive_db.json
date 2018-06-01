@@ -1324,9 +1324,7 @@
             "click.go2net.com",
             "click.investopedia.com",
             "click.pulse360.com",
-            "click1.rbc.magna.ru"
-        ],
-        "to_test": [
+            "click1.rbc.magna.ru",
             "click2.rbc.magna.ru",
             "click3.rbc.magna.ru",
             "click4.rbc.magna.ru",
@@ -1419,7 +1417,6 @@
             "counter.netmore.net",
             "counter.pcgames.de",
             "counter.sexhound.nl",
-            "counter.times.lv",
             "counter.uq.edu.au",
             "counter.webcom.com",
             "counter.webtrends.com",
@@ -1522,7 +1519,9 @@
             "documents-signature.com",
             "domwpm.stream",
             "donnez-votre-avis.org",
-            "doodle.oewabox.at",
+            "doodle.oewabox.at"
+        ],
+        "to_test": [
             "downloadapps.tech",
             "dqs001.adtech.de",
             "dra.iesnare.com",
