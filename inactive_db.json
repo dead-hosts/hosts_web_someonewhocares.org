@@ -186,9 +186,7 @@
             "ads.asia1.com.sg",
             "ads.asp.net",
             "ads.associatedcontent.com",
-            "ads.atlantamotorspeedway.com"
-        ],
-        "to_test": [
+            "ads.atlantamotorspeedway.com",
             "ads.augusta.com",
             "ads.aversion2.com",
             "ads.aws.sitepoint.com",
@@ -327,6 +325,7 @@
             "ads.localnow.com",
             "ads.lubbockonline.com",
             "ads.lucidmedia.com.gslb.com",
+            "ads.lycos-europe.com",
             "ads.lycos.com",
             "ads.macnews.de",
             "ads.macupdate.com",
@@ -443,7 +442,9 @@
             "ads.theawl.com",
             "ads.thebugs.ws",
             "ads.thefrisky.com",
-            "ads.theglobeandmail.com",
+            "ads.theglobeandmail.com"
+        ],
+        "to_test": [
             "ads.thesmokinggun.com",
             "ads.thestranger.com",
             "ads.thewebfreaks.com",
