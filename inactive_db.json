@@ -3251,9 +3251,7 @@
             "s1.thecounter.com",
             "s2.buysellads.com",
             "s2.youtube.com",
-            "s3.adbers.com"
-        ],
-        "to_test": [
+            "s3.adbers.com",
             "s32.bilsay.com",
             "s4d.in",
             "sa.jumptap.com",
@@ -3279,6 +3277,7 @@
             "scripts.verticalacuity.com",
             "scrooge.channelcincinnati.com",
             "scrooge.channeloklahoma.com",
+            "scrooge.click10.com",
             "scrooge.clickondetroit.com",
             "scrooge.nbc4columbus.com",
             "scrooge.thebostonchannel.com",
@@ -3464,7 +3463,9 @@
             "starchat.oewabox.at",
             "starlix.ql.st",
             "stast2.gq.com",
-            "stat-counter.tass-online.ru",
+            "stat-counter.tass-online.ru"
+        ],
+        "to_test": [
             "stat.alibaba.com",
             "stat.ringier.cz",
             "stat.tudou.com",
