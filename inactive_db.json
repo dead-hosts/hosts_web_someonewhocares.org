@@ -334,9 +334,7 @@
             "ads.nerve.com",
             "ads.nethaber.com",
             "ads.netmechanic.com",
-            "ads.networldmedia.net"
-        ],
-        "to_test": [
+            "ads.networldmedia.net",
             "ads.newcity.com",
             "ads.newcitynet.com",
             "ads.newsbtc.com",
@@ -468,7 +466,6 @@
             "ads.wunderground.com",
             "ads.x10.com",
             "ads.x10.net",
-            "ads.x17online.com",
             "ads.xbox-scene.com",
             "ads.xboxic.com",
             "ads.xposed.com",
@@ -663,7 +660,9 @@
             "adserver.ign.com",
             "adserver.ilounge.com",
             "adserver.infinit.net",
-            "adserver.ixm.co.uk",
+            "adserver.ixm.co.uk"
+        ],
+        "to_test": [
             "adserver.jolt.co.uk",
             "adserver.journalinteractive.com",
             "adserver.kcilink.com",
