@@ -2991,9 +2991,7 @@
             "phorm.nom.es",
             "phorm.org.es",
             "phorm.tv.tr",
-            "phorm.web.tr"
-        ],
-        "to_test": [
+            "phorm.web.tr",
             "phormdev.com",
             "phormdiscover.com",
             "phormkorea.com",
@@ -3005,6 +3003,7 @@
             "photos.daily-deals.analoganalytics.com",
             "phox2ey.bid",
             "php.fark.com",
+            "phpads.astalavista.us",
             "phpads.cnpapers.com",
             "phpads.flipcorp.com",
             "phpads.i-merge.net",
@@ -3252,7 +3251,9 @@
             "s1.thecounter.com",
             "s2.buysellads.com",
             "s2.youtube.com",
-            "s3.adbers.com",
+            "s3.adbers.com"
+        ],
+        "to_test": [
             "s32.bilsay.com",
             "s4d.in",
             "sa.jumptap.com",
