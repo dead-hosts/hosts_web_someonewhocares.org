@@ -2771,9 +2771,7 @@
             "mn.5.p2l.info",
             "mo.5.p2l.info",
             "mob.adwhirl.com",
-            "mobile-antivirus.club"
-        ],
-        "to_test": [
+            "mobile-antivirus.club",
             "mobileanalytics.us-east-2.amazonaws.com",
             "mobileanalytics.us-west-1.amazonaws.com",
             "mobileanalytics.us-west-2.amazonaws.com",
@@ -2997,7 +2995,9 @@
             "oascentral.thenation.com",
             "oascentral.thephoenix.com",
             "oascentral.thesmokinggun.com",
-            "oascentral.thespark.com",
+            "oascentral.thespark.com"
+        ],
+        "to_test": [
             "oascentral.townhall.com",
             "oascentral.tribe.net",
             "oascentral.urbanspoon.com",
