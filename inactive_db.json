@@ -3738,9 +3738,7 @@
             "stats1.in",
             "stats2.dooyoo.com",
             "stats2.rte.ie",
-            "stats2.unrulymedia.com"
-        ],
-        "to_test": [
+            "stats2.unrulymedia.com",
             "stats5.lightningcast.com",
             "stats6.lightningcast.net",
             "status.addthis.com",
@@ -3967,7 +3965,9 @@
             "track.msadcenter.xzwy.com",
             "track.msadcenter.yaz.com",
             "track.msadcenter.ytbp.com",
-            "track.msadcenter.zhv.com",
+            "track.msadcenter.zhv.com"
+        ],
+        "to_test": [
             "track.msadcenter.zlx.com",
             "track.msadcenter.zun.com",
             "track.mybloglog.com",
