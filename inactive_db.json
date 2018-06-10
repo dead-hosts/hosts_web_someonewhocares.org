@@ -619,9 +619,7 @@
             "ads.stupid.com",
             "ads.sumotorrent.com",
             "ads.switchboard.com",
-            "ads.tbs.com"
-        ],
-        "to_test": [
+            "ads.tbs.com",
             "ads.techvibes.com",
             "ads.techweb.com",
             "ads.telegraaf.nl",
@@ -900,6 +898,7 @@
             "adserver.scmp.com",
             "adserver.securityfocus.com",
             "adserver.singnet.com",
+            "adserver.sl.kharkov.ua",
             "adserver.smashtv.com",
             "adserver.synergetic.de",
             "adserver.telalink.net",
@@ -947,6 +946,7 @@
             "adsm.soush.com",
             "adsnew.userfriendly.org",
             "adspace.zaman.com.tr",
+            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -960,7 +960,9 @@
             "adssl02.adtech.de",
             "adsspace.net",
             "adsweb.tiscali.cz",
-            "adsyndication.yelldirect.com",
+            "adsyndication.yelldirect.com"
+        ],
+        "to_test": [
             "adtcp.ru",
             "adtech.panthercustomer.com",
             "adtech.sabitreklam.com",
