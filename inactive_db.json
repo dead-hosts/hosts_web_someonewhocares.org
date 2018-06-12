@@ -364,9 +364,7 @@
             "ads.appleinsider.com",
             "ads.arcadechain.com",
             "ads.arkitera.net",
-            "ads.as4x.tmcs.ticketmaster.ca"
-        ],
-        "to_test": [
+            "ads.as4x.tmcs.ticketmaster.ca",
             "ads.asia1.com",
             "ads.asia1.com.sg",
             "ads.asp.net",
@@ -636,7 +634,9 @@
             "ads.tiscali.fr",
             "ads.tnt.tv",
             "ads.top-banners.com",
-            "ads.top500.org",
+            "ads.top500.org"
+        ],
+        "to_test": [
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
