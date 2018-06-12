@@ -634,9 +634,7 @@
             "ads.tiscali.fr",
             "ads.tnt.tv",
             "ads.top-banners.com",
-            "ads.top500.org"
-        ],
-        "to_test": [
+            "ads.top500.org",
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
@@ -899,7 +897,6 @@
             "adserver.scmp.com",
             "adserver.securityfocus.com",
             "adserver.singnet.com",
-            "adserver.sl.kharkov.ua",
             "adserver.smashtv.com",
             "adserver.synergetic.de",
             "adserver.telalink.net",
@@ -961,7 +958,9 @@
             "adssl02.adtech.de",
             "adsspace.net",
             "adsweb.tiscali.cz",
-            "adsyndication.yelldirect.com",
+            "adsyndication.yelldirect.com"
+        ],
+        "to_test": [
             "adtcp.ru",
             "adtech.panthercustomer.com",
             "adtech.sabitreklam.com",
