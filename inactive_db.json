@@ -635,9 +635,7 @@
             "ads.tiscali.fr",
             "ads.tnt.tv",
             "ads.top-banners.com",
-            "ads.top500.org"
-        ],
-        "to_test": [
+            "ads.top500.org",
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
@@ -973,7 +971,9 @@
             "adv.federalpost.ru",
             "adv.lampsplus.com",
             "adv.merlin.co.il",
-            "adv.netshelter.net",
+            "adv.netshelter.net"
+        ],
+        "to_test": [
             "adv.surinter.net",
             "adv0005.247realmedia.com",
             "adv0035.247realmedia.com",
