@@ -378,9 +378,7 @@
             "ads.barnonedrinks.com",
             "ads.battle.net",
             "ads.baventures.com",
-            "ads.beeb.com"
-        ],
-        "to_test": [
+            "ads.beeb.com",
             "ads.beta.itravel2000.com",
             "ads.bfast.com",
             "ads.bfm.valueclick.net",
@@ -554,6 +552,7 @@
             "ads.ngenuity.com",
             "ads.npr.valueclick.net",
             "ads.ntadvice.com",
+            "ads.nudecards.com",
             "ads.nyjournalnews.com",
             "ads.nypost.com",
             "ads.onlineathens.com",
@@ -636,7 +635,9 @@
             "ads.tiscali.fr",
             "ads.tnt.tv",
             "ads.top-banners.com",
-            "ads.top500.org",
+            "ads.top500.org"
+        ],
+        "to_test": [
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
