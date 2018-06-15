@@ -555,9 +555,7 @@
             "ads.ntadvice.com",
             "ads.nudecards.com",
             "ads.nyjournalnews.com",
-            "ads.nypost.com"
-        ],
-        "to_test": [
+            "ads.nypost.com",
             "ads.onlineathens.com",
             "ads.onlinevenditatio.space",
             "ads.ookla.com",
@@ -882,7 +880,9 @@
             "adserver.m2kcore.com",
             "adserver.monster.com",
             "adserver.monstersandcritics.com",
-            "adserver.motonews.pl",
+            "adserver.motonews.pl"
+        ],
+        "to_test": [
             "adserver.netshelter.net",
             "adserver.newdigitalgroup.com",
             "adserver.newmassmedia.net",
