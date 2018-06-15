@@ -2439,9 +2439,7 @@
             "m5.ca.2mdn.net",
             "m5.cn.2mdn.net",
             "m5.de.2mdn.net",
-            "m5.dk.2mdn.net"
-        ],
-        "to_test": [
+            "m5.dk.2mdn.net",
             "m5.doubleclick.net",
             "m5.es.2mdn.net",
             "m5.fi.2mdn.net",
@@ -2835,7 +2833,9 @@
             "nanocluster.reklamz.com",
             "narwhal.hitbox.com",
             "nasacort.1.p2l.info",
-            "nasonex.1.p2l.info",
+            "nasonex.1.p2l.info"
+        ],
+        "to_test": [
             "nativead.tech",
             "nb.5.p2l.info",
             "nb.netbreak.com.au",
