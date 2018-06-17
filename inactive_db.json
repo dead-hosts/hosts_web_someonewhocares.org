@@ -624,9 +624,7 @@
             "ads.techvibes.com",
             "ads.techweb.com",
             "ads.telegraaf.nl",
-            "ads.the15thinternet.com"
-        ],
-        "to_test": [
+            "ads.the15thinternet.com",
             "ads.theawl.com",
             "ads.thebugs.ws",
             "ads.thefrisky.com",
@@ -866,7 +864,6 @@
             "adserver.hi-m.de",
             "adserver.hispavista.com",
             "adserver.hk.outblaze.com",
-            "adserver.hostinteractive.com",
             "adserver.ifmagazine.com",
             "adserver.ign.com",
             "adserver.ilounge.com",
@@ -965,7 +962,9 @@
             "adsyndication.yelldirect.com",
             "adtcp.ru",
             "adtech.panthercustomer.com",
-            "adtech.sabitreklam.com",
+            "adtech.sabitreklam.com"
+        ],
+        "to_test": [
             "adtology3.com",
             "adult.foxcounter.com",
             "adv.440net.com",
