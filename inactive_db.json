@@ -3731,9 +3731,7 @@
             "stats.telegraph.co.uk",
             "stats.tudou.com",
             "stats.video.search.yahoo.com",
-            "stats.yourminis.com"
-        ],
-        "to_test": [
+            "stats.yourminis.com",
             "stats1.in",
             "stats2.dooyoo.com",
             "stats2.rte.ie",
@@ -3974,7 +3972,9 @@
             "track.promosvc.com",
             "track.promovalue.us",
             "track.publeadmedia.com",
-            "track.real2come.com",
+            "track.real2come.com"
+        ],
+        "to_test": [
             "track.roiservice.com",
             "track.specialdailydeals4u.com",
             "track.statesend.co.in",
