@@ -3335,9 +3335,7 @@
             "proxy.or4.marketscore.com",
             "proxy.sj3.marketscore.com",
             "proxy.sj4.marketscore.com",
-            "proxycfg.marketscore.com"
-        ],
-        "to_test": [
+            "proxycfg.marketscore.com",
             "ptreklam.com",
             "ptreklam.com.tr",
             "ptreklam.net",
@@ -3524,7 +3522,9 @@
             "securityandroidupdate.dinamikaprinting.com",
             "securityscan.us",
             "sedesol.sedesol.gob.mx",
-            "seduction-zone.com",
+            "seduction-zone.com"
+        ],
+        "to_test": [
             "seeques.com",
             "seibli.oewabox.at",
             "sekel.ch",
