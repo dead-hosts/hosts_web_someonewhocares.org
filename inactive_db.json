@@ -3553,9 +3553,7 @@
             "server.popads.net",
             "server.zoiets.be",
             "server01.popupmoney.com",
-            "server1.adpolestar.net"
-        ],
-        "to_test": [
+            "server1.adpolestar.net",
             "server12.opentracker.net",
             "server13.opentracker.net",
             "server14.opentracker.net",
@@ -3669,6 +3667,7 @@
             "ssl-msn.oewabox.at",
             "st.marketgid.com",
             "st.valueclick.com",
+            "st.videojam.tv",
             "st.vq.ku6.cn",
             "stackoverflow.hex1.ru",
             "stacksee.lastestapk.com",
@@ -3742,7 +3741,9 @@
             "stats.yourminis.com",
             "stats1.in",
             "stats2.dooyoo.com",
-            "stats2.rte.ie",
+            "stats2.rte.ie"
+        ],
+        "to_test": [
             "stats2.unrulymedia.com",
             "stats5.lightningcast.com",
             "stats6.lightningcast.net",
