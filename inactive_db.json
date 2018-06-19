@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
-        "1529200662": [
+        "1529373501": [
             "06272002-dbase.hitcountz.net",
             "09killspyware.com",
             "0qizz.super-promo.hoxo.info",
@@ -116,6 +116,7 @@
             "ad.directrev.com",
             "ad.download.net",
             "ad.espn.starwave.com",
+            "ad.eurosport.com",
             "ad.favod.net",
             "ad.fnnews.com",
             "ad.ghfusion.com",
@@ -182,7 +183,9 @@
             "ad1.lbn.ru",
             "ad1.peel.com",
             "ad1.yomiuri.co.jp",
-            "ad101com.adbureau.net",
+            "ad101com.adbureau.net"
+        ],
+        "to_test": [
             "ad2.adecn.com",
             "ad2.bbmedia.cz",
             "ad2.hotel.com",
@@ -5050,9 +5053,7 @@
             "zyrtec.3.p2l.info",
             "zyrtec.4.p2l.info",
             "zzzrtrcm2.com",
-            "ɢoogle.com"
-        ],
-        "to_test": [
+            "ɢoogle.com",
             "006.freecounters.co.uk"
         ]
     }
