@@ -640,9 +640,7 @@
             "ads.top500.org",
             "ads.treehugger.com",
             "ads.tricityherald.com",
-            "ads.trinitymirror.co.uk"
-        ],
-        "to_test": [
+            "ads.trinitymirror.co.uk",
             "ads.trutv.com",
             "ads.tucows.com",
             "ads.turkticaret.net",
@@ -979,7 +977,9 @@
             "adv0005.247realmedia.com",
             "adv0035.247realmedia.com",
             "adveraction.pl",
-            "advert.gameranger.com",
+            "advert.gameranger.com"
+        ],
+        "to_test": [
             "advert.istanbul.net",
             "advert.uzmantv.com",
             "advertising.zenit.org",
