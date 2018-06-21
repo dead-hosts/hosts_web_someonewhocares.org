@@ -380,9 +380,7 @@
             "ads.battle.net",
             "ads.baventures.com",
             "ads.beeb.com",
-            "ads.beta.itravel2000.com"
-        ],
-        "to_test": [
+            "ads.beta.itravel2000.com",
             "ads.bfast.com",
             "ads.bfm.valueclick.net",
             "ads.bigcitytools.com",
@@ -642,7 +640,9 @@
             "ads.top500.org",
             "ads.treehugger.com",
             "ads.tricityherald.com",
-            "ads.trinitymirror.co.uk",
+            "ads.trinitymirror.co.uk"
+        ],
+        "to_test": [
             "ads.trutv.com",
             "ads.tucows.com",
             "ads.turkticaret.net",
