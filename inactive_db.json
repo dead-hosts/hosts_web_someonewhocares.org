@@ -353,9 +353,7 @@
             "ads.adsag.com",
             "ads.adsrvr.org",
             "ads.adultswim.com",
-            "ads.advolume.com"
-        ],
-        "to_test": [
+            "ads.advolume.com",
             "ads.adx.nu",
             "ads.adxpose.mpire.akadns.net",
             "ads.ah-ha.com",
@@ -625,7 +623,9 @@
             "ads.specificclick.com",
             "ads.specificpop.com",
             "ads.stupid.com",
-            "ads.sumotorrent.com",
+            "ads.sumotorrent.com"
+        ],
+        "to_test": [
             "ads.switchboard.com",
             "ads.tbs.com",
             "ads.techvibes.com",
