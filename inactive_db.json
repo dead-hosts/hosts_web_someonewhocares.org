@@ -1215,9 +1215,7 @@
             "banners.looksmart.com",
             "banners.netcraft.com",
             "banners.newsru.com",
-            "banners.primaryclick.com"
-        ],
-        "to_test": [
+            "banners.primaryclick.com",
             "banners.spiceworks.com",
             "banners.thegridwebmaster.com",
             "banners.thestranger.com",
@@ -1361,6 +1359,7 @@
             "buyviagra.polybuild.ru",
             "buzzbox.buzzfeed.com",
             "bx6.blrf.net",
+            "c.adroll.com",
             "c.am10.ru",
             "c.as-us.falkag.net",
             "c.baidu.com",
@@ -1413,6 +1412,7 @@
             "cdn.bestssaker.com",
             "cdn.directrev.com",
             "cdn.dustyorate.com",
+            "cdn.employchannel.info",
             "cdn.eyewonder.com",
             "cdn.freefaits.com",
             "cdn.freehas.com",
@@ -1509,7 +1509,9 @@
             "click3.rbc.magna.ru",
             "click4.rbc.magna.ru",
             "clickarrows.com",
-            "clickit.go2net.com",
+            "clickit.go2net.com"
+        ],
+        "to_test": [
             "clicks.emarketmakers.com",
             "clicks.m4n.nl",
             "clickstatsview.chooseonlinecasino.com",
