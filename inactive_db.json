@@ -960,9 +960,7 @@
             "adssl02.adtech.de",
             "adsspace.net",
             "adsweb.tiscali.cz",
-            "adsyndication.yelldirect.com"
-        ],
-        "to_test": [
+            "adsyndication.yelldirect.com",
             "adtcp.ru",
             "adtech.panthercustomer.com",
             "adtech.sabitreklam.com",
@@ -1217,7 +1215,9 @@
             "banners.looksmart.com",
             "banners.netcraft.com",
             "banners.newsru.com",
-            "banners.primaryclick.com",
+            "banners.primaryclick.com"
+        ],
+        "to_test": [
             "banners.spiceworks.com",
             "banners.thegridwebmaster.com",
             "banners.thestranger.com",
