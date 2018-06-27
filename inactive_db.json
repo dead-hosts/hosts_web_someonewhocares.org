@@ -3562,9 +3562,7 @@
             "server6.opentracker.net",
             "server7.opentracker.net",
             "server8.opentracker.net",
-            "server821.com"
-        ],
-        "to_test": [
+            "server821.com",
             "server9.opentracker.net",
             "service.adtech.de",
             "service.mm-r-prop-11-16-2.com",
@@ -3751,7 +3749,9 @@
             "subtracts.userplane.com",
             "successful-marketing-now.com",
             "sunny.oewabox.at",
-            "super.oewabox.at",
+            "super.oewabox.at"
+        ],
+        "to_test": [
             "superegler.net",
             "supermed.oewabox.at",
             "superprotection10.com",
