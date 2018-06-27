@@ -630,9 +630,7 @@
             "ads.theawl.com",
             "ads.thebugs.ws",
             "ads.thefrisky.com",
-            "ads.theglobeandmail.com"
-        ],
-        "to_test": [
+            "ads.theglobeandmail.com",
             "ads.thesmokinggun.com",
             "ads.thestranger.com",
             "ads.thewebfreaks.com",
@@ -962,7 +960,9 @@
             "adssl02.adtech.de",
             "adsspace.net",
             "adsweb.tiscali.cz",
-            "adsyndication.yelldirect.com",
+            "adsyndication.yelldirect.com"
+        ],
+        "to_test": [
             "adtcp.ru",
             "adtech.panthercustomer.com",
             "adtech.sabitreklam.com",
