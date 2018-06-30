@@ -2850,9 +2850,7 @@
             "netads.sohu.com",
             "netadsrv.iworld.com",
             "netflix.apple-green.net",
-            "network-ca.247realmedia.com"
-        ],
-        "to_test": [
+            "network-ca.247realmedia.com",
             "network.realmedia.com",
             "network.realtechnetwork.net",
             "networkads.net",
@@ -3031,6 +3029,7 @@
             "oh.5.p2l.info",
             "oi.webnavegador.com.br",
             "oidiscover.com",
+            "oik.mactechinfo.info",
             "oinadserve.com",
             "oix-rubyem.net",
             "oix-rubytest.net",
@@ -3147,7 +3146,9 @@
             "p.reuters.com",
             "p.twitter.com",
             "p1.adhitzads.com",
-            "p3p.alibaba.com",
+            "p3p.alibaba.com"
+        ],
+        "to_test": [
             "pa.5.p2l.info",
             "pacific-poker.e-online-poker-4u.net",
             "pacificnet.host",
