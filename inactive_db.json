@@ -2331,9 +2331,7 @@
             "m.de.2mdn.net",
             "m.fr.2mdn.net",
             "m.uk.2mdn.net",
-            "m0-s.san.ru"
-        ],
-        "to_test": [
+            "m0-s.san.ru",
             "m01.webwise.com",
             "m02.webwise.com",
             "m1.ae.2mdn.net",
@@ -2852,7 +2850,9 @@
             "netads.sohu.com",
             "netadsrv.iworld.com",
             "netflix.apple-green.net",
-            "network-ca.247realmedia.com",
+            "network-ca.247realmedia.com"
+        ],
+        "to_test": [
             "network.realmedia.com",
             "network.realtechnetwork.net",
             "networkads.net",
