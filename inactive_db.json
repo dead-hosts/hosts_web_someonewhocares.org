@@ -3743,11 +3743,7 @@
             "stats1.in",
             "stats2.dooyoo.com",
             "stats2.rte.ie",
-            "stats2.unrulymedia.com"
-        ],
-        "to_test": [
-            "x8x.trickip.net",
-            "serv.ad-rotator.com",
+            "stats2.unrulymedia.com",
             "stats5.lightningcast.com",
             "stats6.lightningcast.net",
             "status.addthis.com",
@@ -3962,7 +3958,6 @@
             "track.msadcenter.pwpn.com",
             "track.msadcenter.qpz.com",
             "track.msadcenter.qymv.com",
-            "track.msadcenter.rfjq.com",
             "track.msadcenter.ruum.com",
             "track.msadcenter.scz.com",
             "track.msadcenter.sfq.com",
@@ -4001,7 +3996,11 @@
             "track.traffcdn.com",
             "track.whitespace57.com",
             "track.yourmedicalpurchase.ru",
-            "track.zapromotions.com",
+            "track.zapromotions.com"
+        ],
+        "to_test": [
+            "x8x.trickip.net",
+            "serv.ad-rotator.com",
             "track1.offers2004.com",
             "track2.mybloglog.com",
             "track2.ultimateinternetoffers.com",
