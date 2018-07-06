@@ -3405,11 +3405,7 @@
             "red03.as-us.falkag.net",
             "red04.as-eu.falkag.net",
             "red04.as-us.falkag.net",
-            "redherring.ngadcenter.net"
-        ],
-        "to_test": [
-            "serv.ad-rotator.com",
-            "www.youcanoptout.com",
+            "redherring.ngadcenter.net",
             "regio.adlink.de",
             "reklam-1.com",
             "reklam-one.com",
@@ -3545,6 +3541,7 @@
             "select002.adtech.de",
             "select003.adtech.de",
             "select004.adtech.de",
+            "serv.ad-rotator.com",
             "serv2.ad-rotator.com",
             "servads.aip.org",
             "serve.mediayan.com",
@@ -3602,7 +3599,10 @@
             "shoptosaveenergy.com",
             "show.targead.com",
             "signup.advance.net",
-            "single-online.petrovka.info",
+            "single-online.petrovka.info"
+        ],
+        "to_test": [
+            "www.youcanoptout.com",
             "sixapart.adbureau.net",
             "sjguild.com",
             "sk.5.p2l.info",
