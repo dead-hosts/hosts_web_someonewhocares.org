@@ -373,11 +373,7 @@
             "ads.asp.net",
             "ads.associatedcontent.com",
             "ads.astalavista.us",
-            "ads.atlantamotorspeedway.com"
-        ],
-        "to_test": [
-            "serv.ad-rotator.com",
-            "www.youcanoptout.com",
+            "ads.atlantamotorspeedway.com",
             "ads.augusta.com",
             "ads.aversion2.com",
             "ads.aws.sitepoint.com",
@@ -492,7 +488,6 @@
             "ads.insidehighered.com",
             "ads.intellicast.com",
             "ads.ireport.com",
-            "ads.isat-tech.com",
             "ads.isum.de",
             "ads.jacksonville.com",
             "ads.jeneauempire.com",
@@ -635,7 +630,6 @@
             "ads.the15thinternet.com",
             "ads.theawl.com",
             "ads.thebugs.ws",
-            "ads.thefrisky.com",
             "ads.theglobeandmail.com",
             "ads.thesmokinggun.com",
             "ads.thestranger.com",
@@ -647,7 +641,11 @@
             "ads.top500.org",
             "ads.treehugger.com",
             "ads.tricityherald.com",
-            "ads.trinitymirror.co.uk",
+            "ads.trinitymirror.co.uk"
+        ],
+        "to_test": [
+            "serv.ad-rotator.com",
+            "www.youcanoptout.com",
             "ads.trutv.com",
             "ads.tucows.com",
             "ads.turkticaret.net",
