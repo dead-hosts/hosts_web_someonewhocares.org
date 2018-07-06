@@ -185,11 +185,7 @@
             "ad1.lbn.ru",
             "ad1.peel.com",
             "ad1.yomiuri.co.jp",
-            "ad101com.adbureau.net"
-        ],
-        "to_test": [
-            "serv.ad-rotator.com",
-            "www.youcanoptout.com",
+            "ad101com.adbureau.net",
             "ad2.adecn.com",
             "ad2.bbmedia.cz",
             "ad2.hotel.com",
@@ -377,7 +373,11 @@
             "ads.asp.net",
             "ads.associatedcontent.com",
             "ads.astalavista.us",
-            "ads.atlantamotorspeedway.com",
+            "ads.atlantamotorspeedway.com"
+        ],
+        "to_test": [
+            "serv.ad-rotator.com",
+            "www.youcanoptout.com",
             "ads.augusta.com",
             "ads.aversion2.com",
             "ads.aws.sitepoint.com",
