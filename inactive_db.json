@@ -641,11 +641,7 @@
             "ads.top500.org",
             "ads.treehugger.com",
             "ads.tricityherald.com",
-            "ads.trinitymirror.co.uk"
-        ],
-        "to_test": [
-            "serv.ad-rotator.com",
-            "www.youcanoptout.com",
+            "ads.trinitymirror.co.uk",
             "ads.trutv.com",
             "ads.tucows.com",
             "ads.turkticaret.net",
@@ -898,6 +894,7 @@
             "adserver.plhb.com",
             "adserver.pollstar.com",
             "adserver.prodigy.net",
+            "adserver.ratestar.net",
             "adserver.revver.com",
             "adserver.sabc.co.za",
             "adserver.sabcnews.co.za",
@@ -951,6 +948,7 @@
             "adsm.soush.com",
             "adsnew.userfriendly.org",
             "adspace.zaman.com.tr",
+            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -968,7 +966,11 @@
             "adtcp.ru",
             "adtech.panthercustomer.com",
             "adtech.sabitreklam.com",
-            "adtology3.com",
+            "adtology3.com"
+        ],
+        "to_test": [
+            "serv.ad-rotator.com",
+            "www.youcanoptout.com",
             "adult.foxcounter.com",
             "adv.440net.com",
             "adv.adtotal.pl",
