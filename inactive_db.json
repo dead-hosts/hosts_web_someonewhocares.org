@@ -379,10 +379,7 @@
             "ads.aws.sitepoint.com",
             "ads.banner.t-online.de",
             "ads.barnonedrinks.com",
-            "ads.battle.net"
-        ],
-        "to_test": [
-            "sixapart.adbureau.net",
+            "ads.battle.net",
             "ads.baventures.com",
             "ads.beeb.com",
             "ads.beta.itravel2000.com",
@@ -644,7 +641,10 @@
             "ads.top500.org",
             "ads.treehugger.com",
             "ads.tricityherald.com",
-            "ads.trinitymirror.co.uk",
+            "ads.trinitymirror.co.uk"
+        ],
+        "to_test": [
+            "sixapart.adbureau.net",
             "ads.trutv.com",
             "ads.tucows.com",
             "ads.turkticaret.net",
