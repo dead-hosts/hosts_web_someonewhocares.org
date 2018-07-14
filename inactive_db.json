@@ -363,9 +363,7 @@
             "ads.airamericaradio.com",
             "ads.ak.facebook.com",
             "ads.amarillo.com",
-            "ads.amazingmedia.com"
-        ],
-        "to_test": [
+            "ads.amazingmedia.com",
             "ads.anm.co.uk",
             "ads.anvato.com",
             "ads.aol.com",
@@ -377,7 +375,6 @@
             "ads.asia1.com.sg",
             "ads.asp.net",
             "ads.associatedcontent.com",
-            "ads.astalavista.us",
             "ads.atlantamotorspeedway.com",
             "ads.augusta.com",
             "ads.aversion2.com",
@@ -628,7 +625,9 @@
             "ads.stupid.com",
             "ads.sumotorrent.com",
             "ads.switchboard.com",
-            "ads.tbs.com",
+            "ads.tbs.com"
+        ],
+        "to_test": [
             "ads.techvibes.com",
             "ads.techweb.com",
             "ads.telegraaf.nl",
