@@ -3555,10 +3555,7 @@
             "servedby.netshelter.net",
             "servedby.precisionclick.com",
             "servedby.valuead.com",
-            "server-ca.imrworldwide.com"
-        ],
-        "to_test": [
-            "www2.kampanyatakip.net",
+            "server-ca.imrworldwide.com",
             "server-ssl.yieldmanaged.com",
             "server-za.imrworldwide.com",
             "server.popads.net",
@@ -3736,7 +3733,10 @@
             "stats.klsoft.com",
             "stats.macworld.com",
             "stats.millanusa.com",
-            "stats.nowpublic.com",
+            "stats.nowpublic.com"
+        ],
+        "to_test": [
+            "www2.kampanyatakip.net",
             "stats.reinvigorate.net",
             "stats.revenue.net",
             "stats.searchles.com",
