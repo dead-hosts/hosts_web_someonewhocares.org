@@ -609,10 +609,7 @@
             "ads.schwabtrader.com",
             "ads.shoppingads.com",
             "ads.shoutfile.com",
-            "ads.shovtvnet.com"
-        ],
-        "to_test": [
-            "www2.kampanyatakip.net",
+            "ads.shovtvnet.com",
             "ads.sify.com",
             "ads.simtel.com",
             "ads.simtel.net",
@@ -962,7 +959,10 @@
             "adsrv.emporis.com",
             "adsrv.heraldtribune.com",
             "adsrv.news.com.au",
-            "adssl01.adtech.de",
+            "adssl01.adtech.de"
+        ],
+        "to_test": [
+            "www2.kampanyatakip.net",
             "adssl02.adtech.de",
             "adsspace.net",
             "adsweb.tiscali.cz",
