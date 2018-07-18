@@ -360,9 +360,7 @@
             "ads.ah-ha.com",
             "ads.aintitcool.com",
             "ads.airamericaradio.com",
-            "ads.ak.facebook.com"
-        ],
-        "to_test": [
+            "ads.ak.facebook.com",
             "ads.amarillo.com",
             "ads.amazingmedia.com",
             "ads.anm.co.uk",
@@ -453,6 +451,7 @@
             "ads.freebannertrade.com",
             "ads.fresnobee.com",
             "ads.gamblinghit.com",
+            "ads.gamecity.net",
             "ads.gameinformer.com",
             "ads.gamelink.com",
             "ads.gamespy.com",
@@ -526,6 +525,7 @@
             "ads.mail3x.com",
             "ads.maksimum.net",
             "ads.mambocommunities.com",
+            "ads.mediaturf.net",
             "ads.meropar.jp",
             "ads.mindsetnetwork.com",
             "ads.miniclip.com",
@@ -607,7 +607,9 @@
             "ads.rottentomatoes.com",
             "ads.rp-online.de",
             "ads.savannahnow.com",
-            "ads.schwabtrader.com",
+            "ads.schwabtrader.com"
+        ],
+        "to_test": [
             "ads.shoppingads.com",
             "ads.shoutfile.com",
             "ads.shovtvnet.com",
