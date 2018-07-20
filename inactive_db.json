@@ -362,9 +362,7 @@
             "ads.airamericaradio.com",
             "ads.ak.facebook.com",
             "ads.amarillo.com",
-            "ads.amazingmedia.com"
-        ],
-        "to_test": [
+            "ads.amazingmedia.com",
             "ads.anm.co.uk",
             "ads.anvato.com",
             "ads.aol.com",
@@ -418,7 +416,6 @@
             "ads.comediagroup.hu",
             "ads.comicbookresources.com",
             "ads.coopson.com",
-            "ads.cpsgsoftware.com",
             "ads.crapville.com",
             "ads.currantbun.com",
             "ads.cyberfight.ru",
@@ -453,7 +450,6 @@
             "ads.freebannertrade.com",
             "ads.fresnobee.com",
             "ads.gamblinghit.com",
-            "ads.gamecity.net",
             "ads.gameinformer.com",
             "ads.gamelink.com",
             "ads.gamespy.com",
@@ -527,7 +523,6 @@
             "ads.mail3x.com",
             "ads.maksimum.net",
             "ads.mambocommunities.com",
-            "ads.mediaturf.net",
             "ads.meropar.jp",
             "ads.mindsetnetwork.com",
             "ads.miniclip.com",
@@ -626,7 +621,9 @@
             "ads.specificclick.com",
             "ads.specificpop.com",
             "ads.stupid.com",
-            "ads.sumotorrent.com",
+            "ads.sumotorrent.com"
+        ],
+        "to_test": [
             "ads.switchboard.com",
             "ads.tbs.com",
             "ads.techvibes.com",
