@@ -621,9 +621,7 @@
             "ads.specificclick.com",
             "ads.specificpop.com",
             "ads.stupid.com",
-            "ads.sumotorrent.com"
-        ],
-        "to_test": [
+            "ads.sumotorrent.com",
             "ads.switchboard.com",
             "ads.tbs.com",
             "ads.techvibes.com",
@@ -963,7 +961,9 @@
             "adssl01.adtech.de",
             "adssl02.adtech.de",
             "adsspace.net",
-            "adsweb.tiscali.cz",
+            "adsweb.tiscali.cz"
+        ],
+        "to_test": [
             "adsyndication.yelldirect.com",
             "adtcp.ru",
             "adtech.panthercustomer.com",
