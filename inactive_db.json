@@ -630,9 +630,7 @@
             "ads.the15thinternet.com",
             "ads.theawl.com",
             "ads.thebugs.ws",
-            "ads.theglobeandmail.com"
-        ],
-        "to_test": [
+            "ads.theglobeandmail.com",
             "ads.thesmokinggun.com",
             "ads.thestranger.com",
             "ads.thewebfreaks.com",
@@ -962,7 +960,9 @@
             "adsrv.news.com.au",
             "adssl01.adtech.de",
             "adssl02.adtech.de",
-            "adsspace.net",
+            "adsspace.net"
+        ],
+        "to_test": [
             "adsweb.tiscali.cz",
             "adsyndication.yelldirect.com",
             "adtcp.ru",
