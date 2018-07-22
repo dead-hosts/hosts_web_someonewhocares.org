@@ -365,9 +365,7 @@
             "ads.amazingmedia.com",
             "ads.anm.co.uk",
             "ads.anvato.com",
-            "ads.aol.com"
-        ],
-        "to_test": [
+            "ads.aol.com",
             "ads.appleinsider.com",
             "ads.arcadechain.com",
             "ads.arkitera.net",
@@ -632,7 +630,9 @@
             "ads.the15thinternet.com",
             "ads.theawl.com",
             "ads.thebugs.ws",
-            "ads.theglobeandmail.com",
+            "ads.theglobeandmail.com"
+        ],
+        "to_test": [
             "ads.thesmokinggun.com",
             "ads.thestranger.com",
             "ads.thewebfreaks.com",
