@@ -347,9 +347,7 @@
             "ads.adbrite.com",
             "ads.addesktop.com",
             "ads.adhearus.com",
-            "ads.adhostingsolutions.com"
-        ],
-        "to_test": [
+            "ads.adhostingsolutions.com",
             "ads.admonitor.net",
             "ads.adn.com",
             "ads.adroar.com",
@@ -602,7 +600,9 @@
             "ads.revenue.net",
             "ads.rockstargames.com",
             "ads.rodale.com",
-            "ads.roiserver.com",
+            "ads.roiserver.com"
+        ],
+        "to_test": [
             "ads.rottentomatoes.com",
             "ads.rp-online.de",
             "ads.savannahnow.com",
