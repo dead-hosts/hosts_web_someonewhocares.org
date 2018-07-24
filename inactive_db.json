@@ -600,9 +600,7 @@
             "ads.revenue.net",
             "ads.rockstargames.com",
             "ads.rodale.com",
-            "ads.roiserver.com"
-        ],
-        "to_test": [
+            "ads.roiserver.com",
             "ads.rottentomatoes.com",
             "ads.rp-online.de",
             "ads.savannahnow.com",
@@ -629,6 +627,7 @@
             "ads.techvibes.com",
             "ads.techweb.com",
             "ads.telegraaf.nl",
+            "ads.telegraph.co.uk",
             "ads.the15thinternet.com",
             "ads.theawl.com",
             "ads.thebugs.ws",
@@ -949,7 +948,9 @@
             "adshufffle.com",
             "adsintl.starwave.com",
             "adsm.soush.com",
-            "adsnew.userfriendly.org",
+            "adsnew.userfriendly.org"
+        ],
+        "to_test": [
             "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
