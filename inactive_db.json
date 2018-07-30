@@ -623,10 +623,7 @@
             "ads.specificclick.com",
             "ads.specificpop.com",
             "ads.stupid.com",
-            "ads.sumotorrent.com"
-        ],
-        "to_test": [
-            "server9.opentracker.net",
+            "ads.sumotorrent.com",
             "ads.switchboard.com",
             "ads.tbs.com",
             "ads.techvibes.com",
@@ -707,7 +704,6 @@
             "ads1.advertwizard.com",
             "ads1.destructoid.com",
             "ads1.globeandmail.com",
-            "ads1.itadnetwork.co.uk",
             "ads1.jev.co.za",
             "ads1.perfadbrite.com.akadns.net",
             "ads1.performancingads.com",
@@ -954,6 +950,7 @@
             "adsintl.starwave.com",
             "adsm.soush.com",
             "adsnew.userfriendly.org",
+            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -972,7 +969,10 @@
             "adtech.panthercustomer.com",
             "adtech.sabitreklam.com",
             "adtology3.com",
-            "adult.foxcounter.com",
+            "adult.foxcounter.com"
+        ],
+        "to_test": [
+            "server9.opentracker.net",
             "adv.440net.com",
             "adv.adtotal.pl",
             "adv.bookclubservices.ca",
