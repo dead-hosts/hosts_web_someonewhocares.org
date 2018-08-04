@@ -3981,10 +3981,7 @@
             "track.msadcenter.vava.com",
             "track.msadcenter.vyp.com",
             "track.msadcenter.wmd.com",
-            "track.msadcenter.won.com"
-        ],
-        "to_test": [
-            "securedliveuploads.com",
+            "track.msadcenter.won.com",
             "track.msadcenter.xpp.com",
             "track.msadcenter.xzh.com",
             "track.msadcenter.xzwy.com",
@@ -4097,7 +4094,6 @@
             "twnads.weather.ca",
             "twoj-bon.pl",
             "twoj-macbook.pl",
-            "twoj-typ.pl",
             "twoje-nagrody.com.pl",
             "twoje-nagrody.pl",
             "twx.2mdn.net",
@@ -4267,7 +4263,10 @@
             "w116.am15.net",
             "w117.am15.net",
             "w118.am15.net",
-            "w119.am15.net",
+            "w119.am15.net"
+        ],
+        "to_test": [
+            "securedliveuploads.com",
             "w12.am15.net",
             "w13.am15.net",
             "w14.am15.net",
