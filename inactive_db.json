@@ -3729,10 +3729,7 @@
             "stats.big-boards.com",
             "stats.bonzaii.no",
             "stats.cts-bv.nl",
-            "stats.darkbluesea.com"
-        ],
-        "to_test": [
-            "securedliveuploads.com",
+            "stats.darkbluesea.com",
             "stats.f-secure.com",
             "stats.foxcounter.com",
             "stats.free-rein.net",
@@ -3984,7 +3981,10 @@
             "track.msadcenter.vava.com",
             "track.msadcenter.vyp.com",
             "track.msadcenter.wmd.com",
-            "track.msadcenter.won.com",
+            "track.msadcenter.won.com"
+        ],
+        "to_test": [
+            "securedliveuploads.com",
             "track.msadcenter.xpp.com",
             "track.msadcenter.xzh.com",
             "track.msadcenter.xzwy.com",
