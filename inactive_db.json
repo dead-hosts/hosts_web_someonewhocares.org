@@ -626,10 +626,7 @@
             "ads.stupid.com",
             "ads.sumotorrent.com",
             "ads.switchboard.com",
-            "ads.tbs.com"
-        ],
-        "to_test": [
-            "securedliveuploads.com",
+            "ads.tbs.com",
             "ads.techvibes.com",
             "ads.techweb.com",
             "ads.telegraaf.nl",
@@ -744,7 +741,6 @@
             "ads2.advertwizard.com",
             "ads2.canoe.ca",
             "ads2.clickad.com",
-            "ads2.collegclub.com",
             "ads2.collegeclub.com",
             "ads2.drivelinemedia.com",
             "ads2.emeraldcoast.com",
@@ -954,7 +950,6 @@
             "adsintl.starwave.com",
             "adsm.soush.com",
             "adsnew.userfriendly.org",
-            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -966,7 +961,10 @@
             "adsrv.news.com.au",
             "adssl01.adtech.de",
             "adssl02.adtech.de",
-            "adsspace.net",
+            "adsspace.net"
+        ],
+        "to_test": [
+            "securedliveuploads.com",
             "adsweb.tiscali.cz",
             "adsyndication.yelldirect.com",
             "adtcp.ru",
