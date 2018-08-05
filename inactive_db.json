@@ -364,10 +364,7 @@
             "ads.airamericaradio.com",
             "ads.ak.facebook.com",
             "ads.amarillo.com",
-            "ads.amazingmedia.com"
-        ],
-        "to_test": [
-            "securedliveuploads.com",
+            "ads.amazingmedia.com",
             "ads.anm.co.uk",
             "ads.anvato.com",
             "ads.aol.com",
@@ -416,7 +413,6 @@
             "ads.cmg.valueclick.net",
             "ads.cnn.com",
             "ads.cnngo.com",
-            "ads.collegclub.com",
             "ads.collegehumor.com",
             "ads.comediagroup.hu",
             "ads.comicbookresources.com",
@@ -561,6 +557,7 @@
             "ads.newtention.net",
             "ads.newtimes.com",
             "ads.ngenuity.com",
+            "ads.nowrunning.com",
             "ads.npr.valueclick.net",
             "ads.ntadvice.com",
             "ads.nyjournalnews.com",
@@ -629,7 +626,10 @@
             "ads.stupid.com",
             "ads.sumotorrent.com",
             "ads.switchboard.com",
-            "ads.tbs.com",
+            "ads.tbs.com"
+        ],
+        "to_test": [
+            "securedliveuploads.com",
             "ads.techvibes.com",
             "ads.techweb.com",
             "ads.telegraaf.nl",
