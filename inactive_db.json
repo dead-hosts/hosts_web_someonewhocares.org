@@ -3970,9 +3970,7 @@
             "track.msadcenter.pszn.com",
             "track.msadcenter.pwpn.com",
             "track.msadcenter.qpz.com",
-            "track.msadcenter.qymv.com"
-        ],
-        "to_test": [
+            "track.msadcenter.qymv.com",
             "track.msadcenter.ruum.com",
             "track.msadcenter.scz.com",
             "track.msadcenter.sfq.com",
@@ -4095,6 +4093,7 @@
             "twnads.weather.ca",
             "twoj-bon.pl",
             "twoj-macbook.pl",
+            "twoj-typ.pl",
             "twoje-nagrody.com.pl",
             "twoje-nagrody.pl",
             "twx.2mdn.net",
@@ -4255,7 +4254,9 @@
             "w108.am15.net",
             "w109.am15.net",
             "w11.am15.net",
-            "w11.centralmediaserver.com",
+            "w11.centralmediaserver.com"
+        ],
+        "to_test": [
             "w111.am15.net",
             "w112.am15.net",
             "w113.am15.net",
