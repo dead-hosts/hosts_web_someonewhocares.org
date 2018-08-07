@@ -353,9 +353,7 @@
             "ads.admonitor.net",
             "ads.adn.com",
             "ads.adroar.com",
-            "ads.adsag.com"
-        ],
-        "to_test": [
+            "ads.adsag.com",
             "ads.adsrvr.org",
             "ads.adultswim.com",
             "ads.advolume.com",
@@ -577,6 +575,7 @@
             "ads.pcper.com",
             "ads.pdxguide.com",
             "ads.peninsulaclarion.com",
+            "ads.penny-arcade.com",
             "ads.pennyweb.com",
             "ads.pg.valueclick.net",
             "ads.pheedo.com",
@@ -615,7 +614,9 @@
             "ads.shovtvnet.com",
             "ads.sify.com",
             "ads.simtel.com",
-            "ads.simtel.net",
+            "ads.simtel.net"
+        ],
+        "to_test": [
             "ads.sixapart.com",
             "ads.sl.interpals.net",
             "ads.smartclicks.net",
