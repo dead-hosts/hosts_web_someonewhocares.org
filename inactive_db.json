@@ -3705,9 +3705,7 @@
             "stat1.888.ku6.com",
             "stat2.888.ku6.com",
             "stat3.888.ku6.com",
-            "stat3.cybermonitor.com"
-        ],
-        "to_test": [
+            "stat3.cybermonitor.com",
             "static-ssl.exoclick.com",
             "static.adsonar.com",
             "static.adtaily.pl",
@@ -3896,7 +3894,9 @@
             "toads.osdn.com",
             "toolbar.adperium.com",
             "toolbarpartner.com",
-            "top-application-web-online.site",
+            "top-application-web-online.site"
+        ],
+        "to_test": [
             "topbrandrewards.com",
             "topdemaroc.com",
             "topica.advertserve.com",
