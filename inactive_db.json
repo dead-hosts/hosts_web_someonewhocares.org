@@ -3516,9 +3516,7 @@
             "scrooge.thekansascitychannel.com",
             "scrooge.themilwaukeechannel.com",
             "scrooge.theomahachannel.com",
-            "scrooge.wftv.com"
-        ],
-        "to_test": [
+            "scrooge.wftv.com",
             "scrooge.wsoctv.com",
             "scrooge.wtov9.com",
             "sd.5.p2l.info",
@@ -3721,7 +3719,9 @@
             "static.pulse360.com",
             "static.smni.com",
             "static.tags.yield-atx.com",
-            "static1.influads.com",
+            "static1.influads.com"
+        ],
+        "to_test": [
             "statique.secureguards.eu",
             "statistics.dynamicsitestats.com",
             "statistics.reedbusiness.nl",
