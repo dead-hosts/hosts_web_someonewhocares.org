@@ -960,9 +960,7 @@
             "adsrv.bankrate.com",
             "adsrv.emporis.com",
             "adsrv.heraldtribune.com",
-            "adsrv.news.com.au"
-        ],
-        "to_test": [
+            "adsrv.news.com.au",
             "adssl01.adtech.de",
             "adssl02.adtech.de",
             "adsspace.net",
@@ -992,7 +990,6 @@
             "adverts.ecn.co.uk",
             "adverts.im4ges.com",
             "advicepl.adocean.pl",
-            "adviva.net",
             "advplace.nuggad.net",
             "adware.kogaryu.com",
             "adwords.google.lloymlincs.com",
@@ -1203,7 +1200,9 @@
             "banner.betroyalaffiliates.com",
             "banner.betwwts.com",
             "banner.free6.com",
-            "banner.joylandcasino.com",
+            "banner.joylandcasino.com"
+        ],
+        "to_test": [
             "banner.prestigecasino.com",
             "banner.publisher.to",
             "banner.tattomedia.com",
