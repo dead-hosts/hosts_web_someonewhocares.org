@@ -625,9 +625,7 @@
             "ads.somethingawful.com",
             "ads.songs.pk",
             "ads.specificclick.com",
-            "ads.specificpop.com"
-        ],
-        "to_test": [
+            "ads.specificpop.com",
             "ads.stupid.com",
             "ads.sumotorrent.com",
             "ads.switchboard.com",
@@ -969,7 +967,9 @@
             "adssl02.adtech.de",
             "adsspace.net",
             "adsweb.tiscali.cz",
-            "adsyndication.yelldirect.com",
+            "adsyndication.yelldirect.com"
+        ],
+        "to_test": [
             "adtcp.ru",
             "adtech.panthercustomer.com",
             "adtech.sabitreklam.com",
