@@ -356,9 +356,7 @@
             "ads.adn.com",
             "ads.adroar.com",
             "ads.adsag.com",
-            "ads.adsrvr.org"
-        ],
-        "to_test": [
+            "ads.adsrvr.org",
             "ads.adultswim.com",
             "ads.advolume.com",
             "ads.adx.nu",
@@ -627,7 +625,9 @@
             "ads.somethingawful.com",
             "ads.songs.pk",
             "ads.specificclick.com",
-            "ads.specificpop.com",
+            "ads.specificpop.com"
+        ],
+        "to_test": [
             "ads.stupid.com",
             "ads.sumotorrent.com",
             "ads.switchboard.com",
