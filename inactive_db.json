@@ -1329,9 +1329,7 @@
             "metrics.premiere.com",
             "metrics.technologyreview.com",
             "metrics2.pricegrabber.com",
-            "metropol.oewabox.at"
-        ],
-        "to_test": [
+            "metropol.oewabox.at",
             "mi.5.p2l.info",
             "micardiss.ql.st",
             "micraamber.net",
@@ -1356,6 +1354,7 @@
             "mm1.vip.sc1.admob.com",
             "mmv.admob.com",
             "mn.5.p2l.info",
+            "mn.mn.co.cu",
             "mo.5.p2l.info",
             "mob.adwhirl.com",
             "mobile-antivirus.club",
@@ -1564,7 +1563,9 @@
             "oascentral.princetonreview.com",
             "oascentral.publicradio.org",
             "oascentral.radaronline.com",
-            "oascentral.redherring.com",
+            "oascentral.redherring.com"
+        ],
+        "to_test": [
             "oascentral.redorbit.com",
             "oascentral.reference.com",
             "oascentral.regalinterative.com",
