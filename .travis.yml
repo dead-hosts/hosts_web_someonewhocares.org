@@ -1,6 +1,6 @@
 env:
   global:
-    - secure: BgOuHLks7W90//l1wQCNtUbDXFZY9JqZQusNORQDrJwcIam2DBBtYHAkCbfqmsyjCjn9mEdmQtJaj4O83Afa6rFbjJyg5JlTL82ujuCV2/LtfIssfJRtq8uYZVHiXNQJB4dxOjtdQqnjWQ31vhGbuBGjgJvgiK4rJeA0obwCV/0koQ4GzZEq11aztXcBU3FvKRbnX1I3Q/ILKFSz0S7jjyCTHkGlkCsBycAa7W9gxs9SRVExs/R9xVBIO1HJ/xAJcUOyCSV4Ku+ufGX3kmDH98qGTX4F18P04SrbxYh32CVOtwon7jPd2oc1Ysl/jj/yP3ro6WtRHPB7lT4daus+pjolihSwAz7zwiyUjyYw57eDuRBj93Fnm49pfuFDLH5fJMjo2v37bLlWYeu9ixGeV6l4rsNZ4hXVIRl2DqxRLPf5P82SywEFvV+33i82cmai7MF1bClsbNSa17WIAzkX85dSJFFpMaYTQD9twM4wJk6dvl3NaB3JamUOLKMG0Z2pTcARTdKR5ZggCdzrIoZYLyhNjZ7hQn//emNdJR4jYPnibXam5X14V6zUwZ+qynh56WK8h0YAVaRSFQZ1nJCMOzsDplgRtEEARFaGtI7LBd7yIp7jZV8XyheKTvRfhS812SQNQjN+VqskQgmWL2DdRcW7Qlhs2aK0y2WO6WyUQ1w=
+    - secure: ECiCM7EawGVoQskdQiMZ2j/EagysG01No5FHJ2gHAPtrQ2khtLlwUaNB+a9aO/KJPK5/YXATF3noDOoWE8yYE/BlkCxYXb3NvhkHYvHR1rus8H/KCxt71axtWep1DjvoDkllQO4pxJGFLbGg5nOYm5HKpCG70ywqMqBcibGklJ3SE6RCCfanKEtLLgAaEsnBVqtrOGi/GzlM/xJbX7CJsIpDCReOtkbFxFq6XM3Rz50F6bzWMMq7wpJEX5AAXK0K58tlkVD3wbOeq/ubVoda5L8nRtAKKyEv9Aj55dr4wp5yArq2miJ4VggAqjfUkL4jyMOeQZgHhwZvsxVx60HjhY3L/732mQk0C+QaZcnhZHfj4hXtvHD2zCTiU+xyaSx+5uaOoGk6klwA8dgaBX4qf9E6Al8EjGdKm6eH/8J83DnosVoLGGyF5NSBhbCaePSeWMjNqakLZjQXRabdD2qqaCnsimpF5oAs3kAK3TA7z/r9hmEYDF5p9/zMXX1V2sxpVJg86nSvdZVMGJ4n+Cbh2AsayB5t/Sx3ozHgt+EOa9P+E+EhLSzorzuQiNLW44wqQSupU8OUf4Ixzmrnf5HzNx3FQPcYTsLfpW38j6NWzkjXblCk/wVM+ScUS3XEbsrMTGOab2UdlrpuZDrAokQ0Fg3sfP3WEFeE/p3nEu9plvk=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/hosts_web_someonewhocares.org
@@ -9,7 +9,7 @@ env:
 language: python
 
 python:
-  - "3.6"
+  - "3.6.6"
 
 matrix:
   fast_finish: true
