@@ -4445,6 +4445,11 @@
             "expiration_date": "05-oct-2019",
             "state": "future"
         },
+        "miercuri.gq": {
+            "epoch": "1769212800",
+            "expiration_date": "24-jan-2026",
+            "state": "future"
+        },
         "mightymagoo.com": {
             "epoch": "1557532800",
             "expiration_date": "11-may-2019",
@@ -4676,9 +4681,9 @@
             "state": "future"
         },
         "mycamptrack.com": {
-            "epoch": "1534118400",
-            "expiration_date": "13-aug-2018",
-            "state": "past"
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
         },
         "mychoicerewards.com": {
             "epoch": "1542758400",
@@ -4798,6 +4803,11 @@
         "nbads.com": {
             "epoch": "1569024000",
             "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "nbriskerry.com": {
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "nctracking.com": {
