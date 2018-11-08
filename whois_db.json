@@ -325,6 +325,11 @@
             "expiration_date": "13-jun-2019",
             "state": "future"
         },
+        "ad-delivery.net": {
+            "epoch": "1556841600",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
         "ad-feeds.com": {
             "epoch": "1571011200",
             "expiration_date": "14-oct-2019",
@@ -423,6 +428,11 @@
         "ad6media.fr": {
             "epoch": "1555718400",
             "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "addenly.info": {
+            "epoch": "1567900800",
+            "expiration_date": "08-sep-2019",
             "state": "future"
         },
         "addfreestats.com": {
@@ -556,9 +566,9 @@
             "state": "future"
         },
         "admarsx.com": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
-            "state": "past"
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
         },
         "admedia.com": {
             "epoch": "1619481600",
