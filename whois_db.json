@@ -1440,6 +1440,11 @@
             "expiration_date": "10-jul-2019",
             "state": "future"
         },
+        "bestmmo2018.com": {
+            "epoch": "1568505600",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
         "bestshockers.com": {
             "epoch": "1569628800",
             "expiration_date": "28-sep-2019",
@@ -1786,9 +1791,9 @@
             "state": "future"
         },
         "cahoots.com": {
-            "epoch": "1542931200",
-            "expiration_date": "23-nov-2018",
-            "state": "past"
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
         },
         "cambonanza.com": {
             "epoch": "1550793600",
