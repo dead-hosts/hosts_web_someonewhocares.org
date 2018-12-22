@@ -7160,6 +7160,11 @@
             "expiration_date": "15-jun-2019",
             "state": "future"
         },
+        "twoje-nagrody.pl": {
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
+        },
         "twojszczesliwydzien.com": {
             "epoch": "1571356800",
             "expiration_date": "18-oct-2019",
@@ -7373,7 +7378,7 @@
         "vq91811.com": {
             "epoch": "1545436800",
             "expiration_date": "22-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "vzarabotke.ru": {
             "epoch": "1571097600",
