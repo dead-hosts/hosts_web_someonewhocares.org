@@ -3666,8 +3666,8 @@
             "state": "future"
         },
         "hebdotop.com": {
-            "epoch": "1545955200",
-            "expiration_date": "28-dec-2018",
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
             "state": "future"
         },
         "hellwert.biz": {
@@ -3678,7 +3678,7 @@
         "helpmymacfaster.club": {
             "epoch": "1545868800",
             "expiration_date": "27-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "hg8dc7bm.com": {
             "epoch": "1554163200",
@@ -3993,6 +3993,11 @@
         "iplogger.org": {
             "epoch": "1554249600",
             "expiration_date": "03-apr-2019",
+            "state": "future"
+        },
+        "irony.world": {
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
             "state": "future"
         },
         "irs01.net": {
