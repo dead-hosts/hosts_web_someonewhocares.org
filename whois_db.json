@@ -5333,7 +5333,7 @@
         "pchealthcheckup.net": {
             "epoch": "1545868800",
             "expiration_date": "27-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "performanceadexchange.com": {
             "epoch": "1556323200",
@@ -5826,9 +5826,9 @@
             "state": "future"
         },
         "resanium.com": {
-            "epoch": "1545782400",
-            "expiration_date": "26-dec-2018",
-            "state": "past"
+            "epoch": "1577318400",
+            "expiration_date": "26-dec-2019",
+            "state": "future"
         },
         "resolvingserver.com": {
             "epoch": "1575763200",
@@ -5928,6 +5928,11 @@
         "rovion.com": {
             "epoch": "1570752000",
             "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "rpgmasterleague.com": {
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
             "state": "future"
         },
         "ru4.com": {
