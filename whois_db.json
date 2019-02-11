@@ -8300,6 +8300,11 @@
             "expiration_date": "01-mar-2019",
             "state": "future"
         },
+        "xxlargepop.com": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
         "xxxcounter.com": {
             "epoch": "1575676800",
             "expiration_date": "07-dec-2019",
@@ -8366,8 +8371,8 @@
             "state": "future"
         },
         "yourgiftrewards.com": {
-            "epoch": "1549584000",
-            "expiration_date": "08-feb-2019",
+            "epoch": "1581120000",
+            "expiration_date": "08-feb-2020",
             "state": "future"
         },
         "yourgiftzone.com": {
@@ -8393,7 +8398,7 @@
         "yoursmartrewards.com": {
             "epoch": "1549843200",
             "expiration_date": "11-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "yt-adblocker.com": {
             "epoch": "1654041600",
