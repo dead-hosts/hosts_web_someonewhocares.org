@@ -5675,6 +5675,11 @@
             "expiration_date": "12-jun-2019",
             "state": "future"
         },
+        "oopt.fr": {
+            "epoch": "1555545600",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
         "opencandy.com": {
             "epoch": "1579651200",
             "expiration_date": "22-jan-2020",
@@ -5693,6 +5698,11 @@
         "openload.info": {
             "epoch": "1575417600",
             "expiration_date": "04-dec-2019",
+            "state": "future"
+        },
+        "oplaca-sie.pl": {
+            "epoch": "1564790400",
+            "expiration_date": "03-aug-2019",
             "state": "future"
         },
         "oralse.cx": {
@@ -6401,9 +6411,9 @@
             "state": "future"
         },
         "rivalo.network": {
-            "epoch": "1549843200",
-            "expiration_date": "11-feb-2019",
-            "state": "past"
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
         },
         "rmbn.ru": {
             "epoch": "1561766400",
