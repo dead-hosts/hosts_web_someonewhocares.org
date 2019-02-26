@@ -8140,6 +8140,11 @@
             "expiration_date": "03-dec-2019",
             "state": "future"
         },
+        "twoj-bon.pl": {
+            "epoch": "1558137600",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
         "twoj-typ.pl": {
             "epoch": "1566950400",
             "expiration_date": "28-aug-2019",
@@ -8148,6 +8153,11 @@
         "twoj-voucher.com": {
             "epoch": "1560556800",
             "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "twoje-nagrody.com.pl": {
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "twoje-nagrody.pl": {
@@ -8171,8 +8181,8 @@
             "state": "future"
         },
         "u85foldero.com": {
-            "epoch": "1551139200",
-            "expiration_date": "26-feb-2019",
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
             "state": "future"
         },
         "udarem.com": {
