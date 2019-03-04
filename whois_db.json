@@ -1786,8 +1786,8 @@
             "state": "future"
         },
         "bkrtx.com": {
-            "epoch": "1551657600",
-            "expiration_date": "04-mar-2019",
+            "epoch": "1583280000",
+            "expiration_date": "04-mar-2020",
             "state": "future"
         },
         "bleachbit.com": {
@@ -2388,7 +2388,7 @@
         "clktrk.com": {
             "epoch": "1551657600",
             "expiration_date": "04-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "clonezilla.fr": {
             "epoch": "1580169600",
