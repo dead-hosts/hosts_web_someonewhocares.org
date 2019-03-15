@@ -7516,8 +7516,8 @@
             "state": "future"
         },
         "sudokuwhiz.com": {
-            "epoch": "1552608000",
-            "expiration_date": "15-mar-2019",
+            "epoch": "1584230400",
+            "expiration_date": "15-mar-2020",
             "state": "future"
         },
         "sugoicounter.com": {
@@ -7695,6 +7695,11 @@
             "expiration_date": "04-may-2019",
             "state": "future"
         },
+        "technicalconsumerreports.com": {
+            "epoch": "1615593600",
+            "expiration_date": "13-mar-2021",
+            "state": "future"
+        },
         "technicserv.com": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
@@ -7863,7 +7868,7 @@
         "tiltott.net": {
             "epoch": "1552608000",
             "expiration_date": "15-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "timelywebsitehostesses.com": {
             "epoch": "1565827200",
