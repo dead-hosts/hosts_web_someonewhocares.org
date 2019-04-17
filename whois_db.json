@@ -1778,7 +1778,7 @@
         "bigfreelotto.com": {
             "epoch": "1555459200",
             "expiration_date": "17-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "bighow.net": {
             "epoch": "1584662400",
@@ -2136,8 +2136,8 @@
             "state": "future"
         },
         "carmuffler.net": {
-            "epoch": "1555459200",
-            "expiration_date": "17-apr-2019",
+            "epoch": "1587081600",
+            "expiration_date": "17-apr-2020",
             "state": "future"
         },
         "casalemedia.com": {
@@ -2576,9 +2576,9 @@
             "state": "future"
         },
         "coldcertainchannel.com": {
-            "epoch": "1555200000",
-            "expiration_date": "14-apr-2019",
-            "state": "past"
+            "epoch": "1586822400",
+            "expiration_date": "14-apr-2020",
+            "state": "future"
         },
         "collectiveads.net": {
             "epoch": "1624406400",
