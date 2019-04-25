@@ -1908,7 +1908,7 @@
         "books-media-edu-rewardempire.com": {
             "epoch": "1556150400",
             "expiration_date": "25-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "bopstermedia56.com": {
             "epoch": "1587340800",
@@ -1978,7 +1978,7 @@
         "browser-notifications.bid": {
             "epoch": "1556150400",
             "expiration_date": "25-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "browser-tools.systems": {
             "epoch": "1559606400",
@@ -1988,6 +1988,11 @@
         "browsergames2018.com": {
             "epoch": "1565913600",
             "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "browsergames2019.com": {
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
             "state": "future"
         },
         "browserprotecter.com": {
@@ -2566,9 +2571,9 @@
             "state": "future"
         },
         "coinurl.com": {
-            "epoch": "1555977600",
-            "expiration_date": "23-apr-2019",
-            "state": "past"
+            "epoch": "1587600000",
+            "expiration_date": "23-apr-2020",
+            "state": "future"
         },
         "coinverti.com": {
             "epoch": "1584662400",
