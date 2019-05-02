@@ -4853,7 +4853,7 @@
         "kepzavar.info": {
             "epoch": "1556755200",
             "expiration_date": "02-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "kergaukr.com": {
             "epoch": "1572739200",
@@ -5161,14 +5161,14 @@
             "state": "future"
         },
         "lolshock.com": {
-            "epoch": "1556496000",
-            "expiration_date": "29-apr-2019",
-            "state": "past"
+            "epoch": "1588118400",
+            "expiration_date": "29-apr-2020",
+            "state": "future"
         },
         "loltrain.com": {
-            "epoch": "1556496000",
-            "expiration_date": "29-apr-2019",
-            "state": "past"
+            "epoch": "1588118400",
+            "expiration_date": "29-apr-2020",
+            "state": "future"
         },
         "lpg02.com": {
             "epoch": "1573257600",
@@ -5273,7 +5273,7 @@
         "mai-hirek.net": {
             "epoch": "1556755200",
             "expiration_date": "02-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "mailforfreedom.com": {
             "epoch": "1586563200",
@@ -5713,6 +5713,11 @@
         "mp3red.cc": {
             "epoch": "1570492800",
             "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "mplayerdownloader.com": {
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "msn1.com": {
