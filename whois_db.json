@@ -2656,8 +2656,8 @@
             "state": "future"
         },
         "contextad.pl": {
-            "epoch": "1556928000",
-            "expiration_date": "04-may-2019",
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
             "state": "future"
         },
         "contextweb.com": {
@@ -2828,7 +2828,7 @@
         "customerscreensavers.com": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "customtrck.com": {
             "epoch": "1578182400",
@@ -2873,7 +2873,7 @@
         "dadparty.com": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "daily-saver.com": {
             "epoch": "1582588800",
@@ -3025,6 +3025,11 @@
             "expiration_date": "06-feb-2020",
             "state": "future"
         },
+        "discoverdemo.com": {
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
+            "state": "future"
+        },
         "diskager.com": {
             "epoch": "1580860800",
             "expiration_date": "05-feb-2020",
@@ -3128,7 +3133,7 @@
         "downloadmpplayer.com": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "downloadplayer.xyz": {
             "epoch": "1584748800",
