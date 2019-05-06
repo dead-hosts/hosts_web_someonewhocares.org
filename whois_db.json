@@ -3458,7 +3458,7 @@
         "fervortracer.com": {
             "epoch": "1557100800",
             "expiration_date": "06-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "ffxitrack.com": {
             "epoch": "1557705600",
@@ -3651,14 +3651,14 @@
             "state": "future"
         },
         "freefuelcard.com": {
-            "epoch": "1556928000",
-            "expiration_date": "04-may-2019",
-            "state": "past"
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
+            "state": "future"
         },
         "freefuelcoupon.com": {
-            "epoch": "1556928000",
-            "expiration_date": "04-may-2019",
-            "state": "past"
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
+            "state": "future"
         },
         "freegasonus.com": {
             "epoch": "1563840000",
