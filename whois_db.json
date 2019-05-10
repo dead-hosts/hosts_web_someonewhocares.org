@@ -5175,6 +5175,11 @@
             "expiration_date": "29-apr-2020",
             "state": "future"
         },
+        "lpcloudsvr302.com": {
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
+            "state": "future"
+        },
         "lpg02.com": {
             "epoch": "1573257600",
             "expiration_date": "09-nov-2019",
@@ -5248,6 +5253,11 @@
         "madadsmedia.com": {
             "epoch": "1708387200",
             "expiration_date": "20-feb-2024",
+            "state": "future"
+        },
+        "magento-analytics.com": {
+            "epoch": "1589241600",
+            "expiration_date": "12-may-2020",
             "state": "future"
         },
         "magyar-media.com": {
