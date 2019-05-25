@@ -7940,9 +7940,9 @@
         "state": "future"
     },
     "tanieaukcje.com": {
-        "epoch": "1558742400",
+        "epoch": 1558742400,
         "expiration_date": "25-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "taniezakupy.pl": {
         "epoch": "1569110400",
@@ -8175,8 +8175,8 @@
         "state": "future"
     },
     "tipsurf.com": {
-        "epoch": "1558742400",
-        "expiration_date": "25-may-2019",
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
         "state": "future"
     },
     "titan-gel-extra.com": {
