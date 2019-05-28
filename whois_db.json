@@ -3105,8 +3105,8 @@
         "state": "future"
     },
     "doubleclick.com": {
-        "epoch": "1559001600",
-        "expiration_date": "28-may-2019",
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
         "state": "future"
     },
     "doubleclick.net": {
@@ -3120,9 +3120,9 @@
         "state": "future"
     },
     "downads.com": {
-        "epoch": 1558742400,
-        "expiration_date": "25-may-2019",
-        "state": "past"
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
+        "state": "future"
     },
     "downloadcdn.com": {
         "epoch": "1569456000",
