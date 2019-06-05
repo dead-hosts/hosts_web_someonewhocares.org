@@ -4970,8 +4970,8 @@
         "state": "future"
     },
     "kuhdi.com": {
-        "epoch": "1559606400",
-        "expiration_date": "04-jun-2019",
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
         "state": "future"
     },
     "lacableshaw.com": {
@@ -5145,9 +5145,9 @@
         "state": "future"
     },
     "linknext.pro": {
-        "epoch": "1559692800",
+        "epoch": 1559692800,
         "expiration_date": "05-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "linknotification.com": {
         "epoch": "1614643200",
