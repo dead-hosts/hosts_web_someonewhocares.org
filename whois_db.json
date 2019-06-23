@@ -2020,8 +2020,8 @@
         "state": "future"
     },
     "brxfinance.com": {
-        "epoch": "1561161600",
-        "expiration_date": "22-jun-2019",
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "btlsurvey.com": {
@@ -2370,9 +2370,9 @@
         "state": "future"
     },
     "clevernt.com": {
-        "epoch": "1561161600",
+        "epoch": 1561161600,
         "expiration_date": "22-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "clhctrk.com": {
         "epoch": "1586908800",
