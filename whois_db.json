@@ -4745,9 +4745,9 @@
         "state": "future"
     },
     "jahisope45.bid": {
-        "epoch": "1561420800",
+        "epoch": 1561420800,
         "expiration_date": "25-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "jambocast.com": {
         "epoch": "1574985600",
@@ -5095,9 +5095,9 @@
         "state": "future"
     },
     "letslowbefast.site": {
-        "epoch": "1550102400",
-        "expiration_date": "14-feb-2019",
-        "state": "past"
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
     },
     "letssearch.com": {
         "epoch": "1581206400",
