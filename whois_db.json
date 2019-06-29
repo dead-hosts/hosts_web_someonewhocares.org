@@ -6000,8 +6000,8 @@
         "state": "future"
     },
     "nationalsurveypanel.com": {
-        "epoch": "1561680000",
-        "expiration_date": "28-jun-2019",
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "naturahirek.com": {
@@ -6464,6 +6464,11 @@
         "expiration_date": "04-mar-2020",
         "state": "future"
     },
+    "parronnotandone.info": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "parserworld.info": {
         "epoch": "1569542400",
         "expiration_date": "27-sep-2019",
@@ -6645,9 +6650,9 @@
         "state": "future"
     },
     "popadscdn.net": {
-        "epoch": 1561593600,
-        "expiration_date": "27-jun-2019",
-        "state": "past"
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
+        "state": "future"
     },
     "popcash.net": {
         "epoch": "1660348800",
@@ -6800,9 +6805,9 @@
         "state": "future"
     },
     "producttestpanel.com": {
-        "epoch": "1561766400",
+        "epoch": 1561766400,
         "expiration_date": "29-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "profitboosterapp.com": {
         "epoch": "1581465600",
