@@ -8645,8 +8645,8 @@
         "state": "future"
     },
     "udarem.com": {
-        "epoch": "1561766400",
-        "expiration_date": "29-jun-2019",
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "ufpcdn.com": {
@@ -8797,6 +8797,11 @@
     "vidnline.com": {
         "epoch": "1585526400",
         "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "vidroll.ru": {
+        "epoch": 1583712000,
+        "expiration_date": "09-mar-2020",
         "state": "future"
     },
     "viewtools.com": {
