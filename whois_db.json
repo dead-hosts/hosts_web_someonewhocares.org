@@ -5270,9 +5270,9 @@
         "state": "future"
     },
     "macaxpower.com.br": {
-        "epoch": "1561680000",
+        "epoch": 1561680000,
         "expiration_date": "28-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "maccleanersecurity.com": {
         "epoch": "1562630400",
@@ -5460,9 +5460,9 @@
         "state": "future"
     },
     "mediavadasz.info": {
-        "epoch": "1561766400",
+        "epoch": 1561766400,
         "expiration_date": "29-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "mediawhirl.net": {
         "epoch": "1562976000",
