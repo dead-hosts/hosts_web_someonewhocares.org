@@ -800,9 +800,9 @@
         "state": "future"
     },
     "ads.dk": {
-        "epoch": "1561852800",
+        "epoch": 1561852800,
         "expiration_date": "30-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "ads.gold": {
         "epoch": "1582070400",
