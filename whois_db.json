@@ -3290,9 +3290,9 @@
         "state": "future"
     },
     "erdekeshirek.club": {
-        "epoch": "1562630400",
+        "epoch": 1562630400,
         "expiration_date": "09-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "erdekeshirek.info": {
         "epoch": "1574899200",
@@ -3800,8 +3800,8 @@
         "state": "future"
     },
     "fuck.org": {
-        "epoch": "1562544000",
-        "expiration_date": "08-jul-2019",
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "fukkad.com": {
