@@ -3780,9 +3780,9 @@
         "state": "future"
     },
     "frissvilag.com": {
-        "epoch": "1562976000",
+        "epoch": 1562976000,
         "expiration_date": "13-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "fromru.su": {
         "epoch": "1578528000",
@@ -4370,9 +4370,9 @@
         "state": "future"
     },
     "hirozon.info": {
-        "epoch": 1562803200,
-        "expiration_date": "11-jul-2019",
-        "state": "past"
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
     },
     "hirportal.info": {
         "epoch": "1574380800",
