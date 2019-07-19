@@ -6195,8 +6195,8 @@
         "state": "future"
     },
     "noticias.life": {
-        "epoch": "1563494400",
-        "expiration_date": "19-jul-2019",
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
         "state": "future"
     },
     "noticiasftpsrv.com": {
@@ -6270,9 +6270,9 @@
         "state": "future"
     },
     "offerreality.com": {
-        "epoch": "1563494400",
+        "epoch": 1563494400,
         "expiration_date": "19-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "offertrakking.info": {
         "epoch": "1579219200",
@@ -6850,9 +6850,9 @@
         "state": "future"
     },
     "protect-your-privacy.net": {
-        "epoch": "1563494400",
+        "epoch": 1563494400,
         "expiration_date": "19-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "provenfeedback.com": {
         "epoch": "1574121600",
