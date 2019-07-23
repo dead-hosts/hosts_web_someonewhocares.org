@@ -5895,14 +5895,14 @@
         "state": "future"
     },
     "myexclusiverewards.com": {
-        "epoch": "1563840000",
-        "expiration_date": "23-jul-2019",
+        "epoch": 1595462400,
+        "expiration_date": "23-jul-2020",
         "state": "future"
     },
     "myfreedinner.com": {
-        "epoch": "1563840000",
+        "epoch": 1563840000,
         "expiration_date": "23-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "myfreemp3player.com": {
         "epoch": "1566432000",
@@ -5955,8 +5955,8 @@
         "state": "future"
     },
     "mystats.com": {
-        "epoch": "1563753600",
-        "expiration_date": "22-jul-2019",
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "mytimerpro.com": {
@@ -6305,8 +6305,8 @@
         "state": "future"
     },
     "omtrdc.net": {
-        "epoch": "1563753600",
-        "expiration_date": "22-jul-2019",
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "onclickads.net": {
@@ -6445,9 +6445,9 @@
         "state": "future"
     },
     "paclitor.com": {
-        "epoch": "1563753600",
+        "epoch": 1563753600,
         "expiration_date": "22-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "pagesense.com": {
         "epoch": "1573862400",
