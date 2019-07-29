@@ -565,8 +565,8 @@
         "state": "future"
     },
     "ademails.com": {
-        "epoch": "1564358400",
-        "expiration_date": "29-jul-2019",
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "adexc.net": {
@@ -827,7 +827,7 @@
     "ads24.net": {
         "epoch": 1564358400,
         "expiration_date": "29-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "ads2ads.net": {
         "epoch": 1588464000,
