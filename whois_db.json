@@ -7355,9 +7355,9 @@
         "state": "future"
     },
     "secondchancecoaching.com": {
-        "epoch": "1564704000",
+        "epoch": 1564704000,
         "expiration_date": "02-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "secretlanguage.co": {
         "epoch": 1557619200,
@@ -7400,9 +7400,9 @@
         "state": "future"
     },
     "segob.gob.mx": {
-        "epoch": "1564617600",
+        "epoch": 1564617600,
         "expiration_date": "01-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "seks-partner.com": {
         "epoch": "1599091200",
@@ -7640,8 +7640,8 @@
         "state": "future"
     },
     "smartcontext.pl": {
-        "epoch": "1564617600",
-        "expiration_date": "01-aug-2019",
+        "epoch": 1567209600,
+        "expiration_date": "31-aug-2019",
         "state": "future"
     },
     "smartlifeguides.com": {
