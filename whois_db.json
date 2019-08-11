@@ -4915,9 +4915,9 @@
         "state": "future"
     },
     "keepyoungphone.bid": {
-        "epoch": "1565222400",
+        "epoch": 1565222400,
         "expiration_date": "08-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "kepzavar.info": {
         "epoch": "1588377600",
@@ -4975,9 +4975,9 @@
         "state": "future"
     },
     "klikasz-i-masz.com": {
-        "epoch": 1564790400,
-        "expiration_date": "03-aug-2019",
-        "state": "past"
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
+        "state": "future"
     },
     "kliksaya.com": {
         "epoch": "1586390400",
@@ -4990,8 +4990,8 @@
         "state": "future"
     },
     "kozszolgalat.com": {
-        "epoch": "1565049600",
-        "expiration_date": "06-aug-2019",
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
         "state": "future"
     },
     "kpremium.com": {
