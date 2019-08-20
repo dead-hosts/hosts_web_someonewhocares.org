@@ -3645,14 +3645,14 @@
         "state": "future"
     },
     "freecameraprovider.com": {
-        "epoch": "1566259200",
+        "epoch": 1566259200,
         "expiration_date": "20-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "freecamerasource.com": {
-        "epoch": "1566259200",
+        "epoch": 1566259200,
         "expiration_date": "20-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "freecamsexposed.com": {
         "epoch": "1571961600",
@@ -3700,9 +3700,9 @@
         "state": "future"
     },
     "freegasprovider.com": {
-        "epoch": "1566259200",
+        "epoch": 1566259200,
         "expiration_date": "20-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "freegiftcardsource.com": {
         "epoch": "1534723200",
