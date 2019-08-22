@@ -3415,8 +3415,8 @@
         "state": "future"
     },
     "farmius.org": {
-        "epoch": "1566432000",
-        "expiration_date": "22-aug-2019",
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "fast-mac-upp.com": {
@@ -3645,14 +3645,14 @@
         "state": "future"
     },
     "freecameraprovider.com": {
-        "epoch": 1566259200,
-        "expiration_date": "20-aug-2019",
-        "state": "past"
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
     },
     "freecamerasource.com": {
-        "epoch": 1566259200,
-        "expiration_date": "20-aug-2019",
-        "state": "past"
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
     },
     "freecamsexposed.com": {
         "epoch": "1571961600",
@@ -3700,9 +3700,9 @@
         "state": "future"
     },
     "freegasprovider.com": {
-        "epoch": 1566259200,
-        "expiration_date": "20-aug-2019",
-        "state": "past"
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
     },
     "freegiftcardsource.com": {
         "epoch": "1534723200",
