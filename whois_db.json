@@ -4515,14 +4515,14 @@
         "state": "future"
     },
     "hub.com.pl": {
-        "epoch": "1566777600",
-        "expiration_date": "26-aug-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "hungaryexpres.com": {
-        "epoch": "1566950400",
+        "epoch": 1566950400,
         "expiration_date": "28-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "i4track.net": {
         "epoch": "1583971200",
