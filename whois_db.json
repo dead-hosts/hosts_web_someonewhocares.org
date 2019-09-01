@@ -6395,8 +6395,8 @@
         "state": "future"
     },
     "openinternetexchange.net": {
-        "epoch": "1567209600",
-        "expiration_date": "31-aug-2019",
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
         "state": "future"
     },
     "openload.info": {
@@ -6835,9 +6835,9 @@
         "state": "future"
     },
     "productresearchpanel.com": {
-        "epoch": "1567296000",
+        "epoch": 1567296000,
         "expiration_date": "01-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "producttestpanel.com": {
         "epoch": 1593388800,
