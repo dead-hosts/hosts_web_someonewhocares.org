@@ -4655,9 +4655,9 @@
         "state": "future"
     },
     "infos-bourses.com": {
-        "epoch": "1567814400",
+        "epoch": 1567814400,
         "expiration_date": "07-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "inklineglobal.com": {
         "epoch": "1675382400",
@@ -4835,9 +4835,9 @@
         "state": "future"
     },
     "journal-des-bourses.com": {
-        "epoch": "1567814400",
+        "epoch": 1567814400,
         "expiration_date": "07-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "jqueryscript.net": {
         "epoch": "1573084800",
