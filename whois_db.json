@@ -1540,8 +1540,8 @@
         "state": "future"
     },
     "aussiemethod.com": {
-        "epoch": "1567728000",
-        "expiration_date": "06-sep-2019",
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "aussieroadtosuccess.com": {
@@ -1700,9 +1700,9 @@
         "state": "future"
     },
     "best2017games.com": {
-        "epoch": "1567814400",
+        "epoch": 1567814400,
         "expiration_date": "07-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "best2019-games-web1.com": {
         "epoch": 1592611200,
@@ -1905,9 +1905,9 @@
         "state": "future"
     },
     "blw4-1.com": {
-        "epoch": "1567728000",
+        "epoch": 1567728000,
         "expiration_date": "06-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "bodelen.com": {
         "epoch": "1571702400",
