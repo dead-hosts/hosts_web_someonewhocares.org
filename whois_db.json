@@ -2230,9 +2230,9 @@
         "state": "future"
     },
     "cecash.com": {
-        "epoch": "1568073600",
+        "epoch": 1568073600,
         "expiration_date": "10-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "celebwelove.com": {
         "epoch": "1585440000",
@@ -2305,9 +2305,9 @@
         "state": "future"
     },
     "christianbusinessadvertising.com": {
-        "epoch": "1568073600",
+        "epoch": 1568073600,
         "expiration_date": "10-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "cig-arrete.com": {
         "epoch": "1579996800",
