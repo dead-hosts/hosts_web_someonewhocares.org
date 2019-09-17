@@ -6225,9 +6225,9 @@
         "state": "future"
     },
     "notification-browser.com": {
-        "epoch": "1568678400",
+        "epoch": 1568678400,
         "expiration_date": "17-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "notification-system.tools": {
         "epoch": 1591228800,
