@@ -5425,8 +5425,8 @@
         "state": "future"
     },
     "maxbounty.com": {
-        "epoch": "1569196800",
-        "expiration_date": "23-sep-2019",
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "maxmusics.com": {
@@ -5577,6 +5577,11 @@
     "micmusik.com": {
         "epoch": "1570233600",
         "expiration_date": "05-oct-2019",
+        "state": "future"
+    },
+    "microsoftsecurity-experts7565.xyz": {
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "miercuri.gq": {
