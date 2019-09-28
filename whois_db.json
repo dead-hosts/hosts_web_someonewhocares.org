@@ -6500,9 +6500,9 @@
         "state": "future"
     },
     "painolympics.org": {
-        "epoch": "1569628800",
+        "epoch": 1569628800,
         "expiration_date": "28-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "paintnet.fr": {
         "epoch": "1580169600",
@@ -6525,8 +6525,8 @@
         "state": "future"
     },
     "parserworld.info": {
-        "epoch": "1569542400",
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "parskabab.com": {
@@ -6770,8 +6770,8 @@
         "state": "future"
     },
     "ppoi.org": {
-        "epoch": "1569542400",
-        "expiration_date": "27-sep-2019",
+        "epoch": 1576281600,
+        "expiration_date": "14-dec-2019",
         "state": "future"
     },
     "precisioncounter.com": {
