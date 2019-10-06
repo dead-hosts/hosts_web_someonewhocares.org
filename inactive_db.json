@@ -132,7 +132,6 @@
             "ad.xtendmedia.com": "INACTIVE",
             "ad.zaman.com": "INACTIVE",
             "ad.zaman.com.tr": "INACTIVE",
-            "ad1.clickhype.com": "INACTIVE",
             "ad1.gamezone.com": "INACTIVE",
             "ad1.hotel.com": "INACTIVE",
             "ad1.lbn.ru": "INACTIVE",
@@ -5745,6 +5744,9 @@
             "ad001.ru": "INACTIVE",
             "ad01.adonspot.com": "INACTIVE",
             "ad101com.adbureau.net": "INACTIVE"
+        },
+        "1570397272": {
+            "ad1.clickhype.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
