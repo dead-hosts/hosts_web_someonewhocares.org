@@ -44,7 +44,6 @@
             "ad-servicestats.net": "INACTIVE",
             "ad-uk.tiscali.com": "INACTIVE",
             "ad-yt-bfp.doubleclick.net": "INACTIVE",
-            "ad.23blogs.com": "INACTIVE",
             "ad.3au.doubleclick.net": "INACTIVE",
             "ad.accessmediaproductions.com": "INACTIVE",
             "ad.adfunky.com": "INACTIVE",
@@ -145,7 +144,6 @@
             "ad2.smni.com": "INACTIVE",
             "ad2.tr.mediainter.net": "INACTIVE",
             "ad2.zapmedya.com": "INACTIVE",
-            "ad234.prbn.ru": "INACTIVE",
             "ad3.l3go.com": "INACTIVE",
             "ad3.lbn.ru": "INACTIVE",
             "ad3.nationalreview.com": "INACTIVE",
@@ -5740,13 +5738,15 @@
             "ad101com.adbureau.net": "INACTIVE"
         },
         "1570397272": {
+            "ad.23blogs.com": "INACTIVE",
             "ad1.clickhype.com": "INACTIVE",
             "ad1.gamezone.com": "INACTIVE",
             "ad1.hotel.com": "INACTIVE",
             "ad1.lbn.ru": "INACTIVE",
             "ad1.nownews.com": "INACTIVE",
             "ad1.peel.com": "INACTIVE",
-            "ad1.yomiuri.co.jp": "INACTIVE"
+            "ad1.yomiuri.co.jp": "INACTIVE",
+            "ad234.prbn.ru": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
