@@ -132,7 +132,6 @@
             "ad.xtendmedia.com": "INACTIVE",
             "ad.zaman.com": "INACTIVE",
             "ad.zaman.com.tr": "INACTIVE",
-            "ad1.yomiuri.co.jp": "INACTIVE",
             "ad2.adecn.com": "INACTIVE",
             "ad2.bbmedia.cz": "INACTIVE",
             "ad2.hotel.com": "INACTIVE",
@@ -5746,7 +5745,8 @@
             "ad1.hotel.com": "INACTIVE",
             "ad1.lbn.ru": "INACTIVE",
             "ad1.nownews.com": "INACTIVE",
-            "ad1.peel.com": "INACTIVE"
+            "ad1.peel.com": "INACTIVE",
+            "ad1.yomiuri.co.jp": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
