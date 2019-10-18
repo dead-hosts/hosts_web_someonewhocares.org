@@ -8490,8 +8490,8 @@
         "state": "future"
     },
     "tradem.com": {
-        "epoch": "1571097600",
-        "expiration_date": "15-oct-2019",
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "tradetracker.net": {
@@ -8522,6 +8522,11 @@
     "traffictraders.com": {
         "epoch": "1586995200",
         "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
+    "traffprofit.com": {
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "trafmag.com": {
@@ -8710,9 +8715,9 @@
         "state": "future"
     },
     "twojszczesliwydzien.com": {
-        "epoch": "1571356800",
+        "epoch": 1571356800,
         "expiration_date": "18-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "tynt.com": {
         "epoch": 1599955200,
@@ -8740,8 +8745,8 @@
         "state": "future"
     },
     "ukrpts.net": {
-        "epoch": "1570320000",
-        "expiration_date": "06-oct-2019",
+        "epoch": 1601942400,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "ultimatecounter.com": {
