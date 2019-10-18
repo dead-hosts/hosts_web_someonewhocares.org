@@ -6215,8 +6215,8 @@
         "state": "past"
     },
     "nofreezingmac.work": {
-        "epoch": "1570320000",
-        "expiration_date": "06-oct-2019",
+        "epoch": 1601942400,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "nospartenaires.com": {
@@ -6427,6 +6427,11 @@
     "openload.info": {
         "epoch": "1575417600",
         "expiration_date": "04-dec-2019",
+        "state": "future"
+    },
+    "openoverflow.com": {
+        "epoch": 1634083200,
+        "expiration_date": "13-oct-2021",
         "state": "future"
     },
     "oplaca-sie.pl": {
