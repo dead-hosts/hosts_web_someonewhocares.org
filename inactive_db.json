@@ -1,927 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/domains.list": {
-        "1571654575": {
-            "log.btopenworld.com": "INACTIVE"
-        },
-        "1571654576": {
-            "logc252.xiti.com": "INACTIVE"
-        },
-        "1571654577": {
-            "logc25.xiti.com": "INACTIVE"
-        },
-        "1571654578": {
-            "log.clickstream.co.za": "INACTIVE"
-        },
-        "1571654579": {
-            "log.feedjit.com": "INACTIVE"
-        },
-        "1571654580": {
-            "logger.virgul.com": "INACTIVE"
-        },
-        "1571654588": {
-            "login.linkpulse.com": "INACTIVE"
-        },
-        "1571654591": {
-            "log.pladform.ru": "INACTIVE",
-            "logs.comics.com": "INACTIVE"
-        },
-        "1571654592": {
-            "logs.eresmas.com": "INACTIVE"
-        },
-        "1571654598": {
-            "logs.eresmas.net": "INACTIVE"
-        },
-        "1571654599": {
-            "log.statistici.ro": "INACTIVE"
-        },
-        "1571654601": {
-            "log.tagcade.com": "INACTIVE"
-        },
-        "1571654604": {
-            "logv.xiti.com": "INACTIVE"
-        },
-        "1571654607": {
-            "lo.ljkeefeco.com": "INACTIVE"
-        },
-        "1571654608": {
-            "looksmartcollect.247realmedia.com": "INACTIVE",
-            "lookup2.hitbox.com": "INACTIVE"
-        },
-        "1571654615": {
-            "lookup.hitbox.com": "INACTIVE"
-        },
-        "1571654616": {
-            "loseweight.asdjiiw.com": "INACTIVE"
-        },
-        "1571654622": {
-            "louisvil.app.ur.gcion.com": "INACTIVE"
-        },
-        "1571654623": {
-            "lp1.linkpulse.com": "INACTIVE"
-        },
-        "1571654624": {
-            "lp4.linkpulse.com": "INACTIVE"
-        },
-        "1571654625": {
-            "lp.cleanmymac.online": "INACTIVE"
-        },
-        "1571654627": {
-            "lpcloudsvr405.com": "INACTIVE"
-        },
-        "1571654628": {
-            "lp.jeux-lk.com": "INACTIVE",
-            "lp.maccleanuptools.com": "INACTIVE"
-        },
-        "1571654633": {
-            "lstats.qip.ru": "INACTIVE"
-        },
-        "1571654641": {
-            "lucibad.home.ro": "INACTIVE"
-        },
-        "1571654642": {
-            "luxcart.ro": "INACTIVE"
-        },
-        "1571654643": {
-            "lw1.gamecopyworld.com": "INACTIVE",
-            "lw2.gamecopyworld.com": "INACTIVE",
-            "lycos.247realmedia.com": "INACTIVE"
-        },
-        "1571654644": {
-            "lycoscollect.247realmedia.com": "INACTIVE"
-        },
-        "1571654660": {
-            "lycoscollect.realmedia.com": "INACTIVE"
-        },
-        "1571654661": {
-            "m01.webwise.com": "INACTIVE",
-            "m01.webwise.net": "INACTIVE"
-        },
-        "1571654662": {
-            "m02.webwise.com": "INACTIVE",
-            "m02.webwise.net": "INACTIVE"
-        },
-        "1571654663": {
-            "m0-s.san.ru": "INACTIVE"
-        },
-        "1571654664": {
-            "m1.2mdn.net": "INACTIVE",
-            "m1.ae.2mdn.net": "INACTIVE",
-            "m1.au.2mdn.net": "INACTIVE",
-            "m1.be.2mdn.net": "INACTIVE"
-        },
-        "1571654665": {
-            "m1.br.2mdn.net": "INACTIVE",
-            "m1.ca.2mdn.net": "INACTIVE",
-            "m1.cn.2mdn.net": "INACTIVE",
-            "m1.de.2mdn.net": "INACTIVE"
-        },
-        "1571654666": {
-            "m1.dk.2mdn.net": "INACTIVE",
-            "m1.doubleclick.net": "INACTIVE",
-            "m1.emea.2mdn.net": "INACTIVE"
-        },
-        "1571654667": {
-            "m1.emea.2mdn.net.edgesuite.net": "INACTIVE",
-            "m1.es.2mdn.net": "INACTIVE",
-            "m1.fi.2mdn.net": "INACTIVE"
-        },
-        "1571654668": {
-            "m1.fr.2mdn.net": "INACTIVE",
-            "m1.it.2mdn.net": "INACTIVE",
-            "m1.jp.2mdn.net": "INACTIVE"
-        },
-        "1571654675": {
-            "m1.nedstatbasic.net": "INACTIVE",
-            "m1.nl.2mdn.net": "INACTIVE",
-            "m1.no.2mdn.net": "INACTIVE"
-        },
-        "1571654676": {
-            "m1.nz.2mdn.net": "INACTIVE",
-            "m1.pl.2mdn.net": "INACTIVE",
-            "m1.se.2mdn.net": "INACTIVE",
-            "m1.sg.2mdn.net": "INACTIVE"
-        },
-        "1571654677": {
-            "m1.uk.2mdn.net": "INACTIVE",
-            "m1.ve.2mdn.net": "INACTIVE",
-            "m1.za.2mdn.net": "INACTIVE"
-        },
-        "1571654678": {
-            "m2.ae.2mdn.net": "INACTIVE",
-            "m2.au.2mdn.net": "INACTIVE",
-            "m2.be.2mdn.net": "INACTIVE",
-            "m2.br.2mdn.net": "INACTIVE"
-        },
-        "1571654679": {
-            "m2.ca.2mdn.net": "INACTIVE",
-            "m2.cn.2mdn.net": "INACTIVE",
-            "m2.cn.doubleclick.net": "INACTIVE",
-            "m2.de.2mdn.net": "INACTIVE"
-        },
-        "1571654680": {
-            "m2.dk.2mdn.net": "INACTIVE",
-            "m2.doubleclick.net": "INACTIVE",
-            "m2.es.2mdn.net": "INACTIVE",
-            "m2.fi.2mdn.net": "INACTIVE"
-        },
-        "1571654681": {
-            "m.2mdn.net": "INACTIVE",
-            "m2.fr.2mdn.net": "INACTIVE",
-            "m2.it.2mdn.net": "INACTIVE",
-            "m2.jp.2mdn.net": "INACTIVE"
-        },
-        "1571654682": {
-            "m2.nl.2mdn.net": "INACTIVE",
-            "m2.no.2mdn.net": "INACTIVE",
-            "m2.nz.2mdn.net": "INACTIVE"
-        },
-        "1571654683": {
-            "m2.pl.2mdn.net": "INACTIVE",
-            "m2.se.2mdn.net": "INACTIVE",
-            "m2.sexgarantie.nl": "INACTIVE"
-        },
-        "1571654684": {
-            "m2.sg.2mdn.net": "INACTIVE",
-            "m2.uk.2mdn.net": "INACTIVE",
-            "m2.ve.2mdn.net": "INACTIVE",
-            "m2.za.2mdn.net": "INACTIVE"
-        },
-        "1571654685": {
-            "m3.2mdn.net": "INACTIVE",
-            "m3.ae.2mdn.net": "INACTIVE",
-            "m3.au.2mdn.net": "INACTIVE",
-            "m3.be.2mdn.net": "INACTIVE"
-        },
-        "1571658033": {
-            "m3.br.2mdn.net": "INACTIVE",
-            "m3.ca.2mdn.net": "INACTIVE",
-            "m3.cn.2mdn.net": "INACTIVE",
-            "m3.de.2mdn.net": "INACTIVE"
-        },
-        "1571658034": {
-            "m3.dk.2mdn.net": "INACTIVE",
-            "m3.doubleclick.net": "INACTIVE",
-            "m3.es.2mdn.net": "INACTIVE",
-            "m3.fi.2mdn.net": "INACTIVE"
-        },
-        "1571658035": {
-            "m3.fr.2mdn.net": "INACTIVE",
-            "m3.it.2mdn.net": "INACTIVE",
-            "m3.jp.2mdn.net": "INACTIVE",
-            "m3.nl.2mdn.net": "INACTIVE"
-        },
-        "1571658036": {
-            "m3.no.2mdn.net": "INACTIVE",
-            "m3.nz.2mdn.net": "INACTIVE",
-            "m3.pl.2mdn.net": "INACTIVE",
-            "m3.se.2mdn.net": "INACTIVE"
-        },
-        "1571658037": {
-            "m3.sg.2mdn.net": "INACTIVE",
-            "m3.uk.2mdn.net": "INACTIVE",
-            "m3.ve.2mdn.net": "INACTIVE"
-        },
-        "1571658038": {
-            "m3.za.2mdn.net": "INACTIVE",
-            "m4.ae.2mdn.net": "INACTIVE",
-            "m4.afs.googleadservices.com": "INACTIVE",
-            "m4.au.2mdn.net": "INACTIVE"
-        },
-        "1571658039": {
-            "m4.be.2mdn.net": "INACTIVE",
-            "m4.br.2mdn.net": "INACTIVE",
-            "m4.ca.2mdn.net": "INACTIVE",
-            "m4.cn.2mdn.net": "INACTIVE"
-        },
-        "1571658040": {
-            "m4.de.2mdn.net": "INACTIVE",
-            "m4.dk.2mdn.net": "INACTIVE",
-            "m4.doubleclick.net": "INACTIVE",
-            "m4.es.2mdn.net": "INACTIVE"
-        },
-        "1571658041": {
-            "m4.fi.2mdn.net": "INACTIVE",
-            "m4.fr.2mdn.net": "INACTIVE",
-            "m4.it.2mdn.net": "INACTIVE",
-            "m4.jp.2mdn.net": "INACTIVE"
-        },
-        "1571658042": {
-            "m4.nl.2mdn.net": "INACTIVE",
-            "m4.no.2mdn.net": "INACTIVE",
-            "m4.nz.2mdn.net": "INACTIVE"
-        },
-        "1571658043": {
-            "m4.pl.2mdn.net": "INACTIVE",
-            "m4.se.2mdn.net": "INACTIVE",
-            "m4.sg.2mdn.net": "INACTIVE",
-            "m4.uk.2mdn.net": "INACTIVE"
-        },
-        "1571658044": {
-            "m4.ve.2mdn.net": "INACTIVE"
-        },
-        "1571658050": {
-            "m4.za.2mdn.net": "INACTIVE",
-            "m4ymh0220.tech": "INACTIVE",
-            "m5.ae.2mdn.net": "INACTIVE"
-        },
-        "1571658051": {
-            "m5.au.2mdn.net": "INACTIVE",
-            "m5.be.2mdn.net": "INACTIVE",
-            "m5.br.2mdn.net": "INACTIVE"
-        },
-        "1571658052": {
-            "m5.ca.2mdn.net": "INACTIVE",
-            "m5.cn.2mdn.net": "INACTIVE",
-            "m5.de.2mdn.net": "INACTIVE",
-            "m5.dk.2mdn.net": "INACTIVE"
-        },
-        "1571658053": {
-            "m5.doubleclick.net": "INACTIVE",
-            "m5.es.2mdn.net": "INACTIVE",
-            "m5.fi.2mdn.net": "INACTIVE",
-            "m5.fr.2mdn.net": "INACTIVE"
-        },
-        "1571658054": {
-            "m5.it.2mdn.net": "INACTIVE",
-            "m5.jp.2mdn.net": "INACTIVE",
-            "m5.nl.2mdn.net": "INACTIVE",
-            "m5.no.2mdn.net": "INACTIVE"
-        },
-        "1571658055": {
-            "m5.nz.2mdn.net": "INACTIVE",
-            "m5.pl.2mdn.net": "INACTIVE",
-            "m5.se.2mdn.net": "INACTIVE"
-        },
-        "1571658056": {
-            "m5.sg.2mdn.net": "INACTIVE",
-            "m5.uk.2mdn.net": "INACTIVE",
-            "m5.ve.2mdn.net": "INACTIVE",
-            "m5.za.2mdn.net": "INACTIVE"
-        },
-        "1571658057": {
-            "m6.ae.2mdn.net": "INACTIVE",
-            "m6.au.2mdn.net": "INACTIVE",
-            "m6.be.2mdn.net": "INACTIVE",
-            "m6.br.2mdn.net": "INACTIVE"
-        },
-        "1571658058": {
-            "m6.ca.2mdn.net": "INACTIVE",
-            "m6.cn.2mdn.net": "INACTIVE",
-            "m6.de.2mdn.net": "INACTIVE",
-            "m6.dk.2mdn.net": "INACTIVE"
-        },
-        "1571658059": {
-            "m6.doubleclick.net": "INACTIVE",
-            "m6.es.2mdn.net": "INACTIVE",
-            "m6.fi.2mdn.net": "INACTIVE",
-            "m6.fr.2mdn.net": "INACTIVE"
-        },
-        "1571658060": {
-            "m6.it.2mdn.net": "INACTIVE",
-            "m6.jp.2mdn.net": "INACTIVE",
-            "m6.nl.2mdn.net": "INACTIVE"
-        },
-        "1571658061": {
-            "m6.no.2mdn.net": "INACTIVE",
-            "m6.nz.2mdn.net": "INACTIVE",
-            "m6.pl.2mdn.net": "INACTIVE",
-            "m6.se.2mdn.net": "INACTIVE"
-        },
-        "1571658062": {
-            "m6.sg.2mdn.net": "INACTIVE",
-            "m6.uk.2mdn.net": "INACTIVE",
-            "m6.ve.2mdn.net": "INACTIVE",
-            "m6.za.2mdn.net": "INACTIVE"
-        },
-        "1571658063": {
-            "m7.ae.2mdn.net": "INACTIVE",
-            "m7.au.2mdn.net": "INACTIVE",
-            "m7.be.2mdn.net": "INACTIVE",
-            "m7.br.2mdn.net": "INACTIVE"
-        },
-        "1571658064": {
-            "m7.ca.2mdn.net": "INACTIVE",
-            "m7.cn.2mdn.net": "INACTIVE",
-            "m7.de.2mdn.net": "INACTIVE"
-        },
-        "1571658065": {
-            "m7.dk.2mdn.net": "INACTIVE",
-            "m7.doubleclick.net": "INACTIVE",
-            "m7.es.2mdn.net": "INACTIVE",
-            "m7.fi.2mdn.net": "INACTIVE"
-        },
-        "1571658066": {
-            "m7.fr.2mdn.net": "INACTIVE",
-            "m7.it.2mdn.net": "INACTIVE",
-            "m7.jp.2mdn.net": "INACTIVE",
-            "m7.nl.2mdn.net": "INACTIVE"
-        },
-        "1571658067": {
-            "m7.no.2mdn.net": "INACTIVE",
-            "m7.nz.2mdn.net": "INACTIVE",
-            "m7.pl.2mdn.net": "INACTIVE",
-            "m7.se.2mdn.net": "INACTIVE"
-        },
-        "1571658068": {
-            "m7.sg.2mdn.net": "INACTIVE",
-            "m7.uk.2mdn.net": "INACTIVE",
-            "m7.ve.2mdn.net": "INACTIVE",
-            "m7.za.2mdn.net": "INACTIVE"
-        },
-        "1571658069": {
-            "m8.ae.2mdn.net": "INACTIVE",
-            "m8.au.2mdn.net": "INACTIVE",
-            "m8.be.2mdn.net": "INACTIVE"
-        },
-        "1571658070": {
-            "m8.br.2mdn.net": "INACTIVE",
-            "m8.ca.2mdn.net": "INACTIVE",
-            "m8.cn.2mdn.net": "INACTIVE",
-            "m8.de.2mdn.net": "INACTIVE"
-        },
-        "1571658071": {
-            "m8.dk.2mdn.net": "INACTIVE",
-            "m8.doubleclick.net": "INACTIVE",
-            "m8.es.2mdn.net": "INACTIVE",
-            "m8.fi.2mdn.net": "INACTIVE"
-        },
-        "1571658072": {
-            "m8.fr.2mdn.net": "INACTIVE",
-            "m8.it.2mdn.net": "INACTIVE",
-            "m8.jp.2mdn.net": "INACTIVE",
-            "m8.nl.2mdn.net": "INACTIVE"
-        },
-        "1571658073": {
-            "m8.no.2mdn.net": "INACTIVE",
-            "m8.nz.2mdn.net": "INACTIVE",
-            "m8.pl.2mdn.net": "INACTIVE",
-            "m8.se.2mdn.net": "INACTIVE"
-        },
-        "1571658074": {
-            "m8.sg.2mdn.net": "INACTIVE",
-            "m8.uk.2mdn.net": "INACTIVE",
-            "m8.ve.2mdn.net": "INACTIVE"
-        },
-        "1571658075": {
-            "m8.za.2mdn.net": "INACTIVE",
-            "m9.ae.2mdn.net": "INACTIVE",
-            "m9.au.2mdn.net": "INACTIVE",
-            "m9.be.2mdn.net": "INACTIVE"
-        },
-        "1571658076": {
-            "m9.br.2mdn.net": "INACTIVE",
-            "m9.ca.2mdn.net": "INACTIVE",
-            "m9.cn.2mdn.net": "INACTIVE",
-            "m9.de.2mdn.net": "INACTIVE"
-        },
-        "1571658077": {
-            "m9.dk.2mdn.net": "INACTIVE",
-            "m9.doubleclick.net": "INACTIVE",
-            "m9.es.2mdn.net": "INACTIVE",
-            "m9.fi.2mdn.net": "INACTIVE"
-        },
-        "1571658078": {
-            "m9.fr.2mdn.net": "INACTIVE",
-            "m9.it.2mdn.net": "INACTIVE",
-            "m9.jp.2mdn.net": "INACTIVE",
-            "m9.nl.2mdn.net": "INACTIVE"
-        },
-        "1571658079": {
-            "m9.no.2mdn.net": "INACTIVE",
-            "m9.nz.2mdn.net": "INACTIVE",
-            "m9.pl.2mdn.net": "INACTIVE",
-            "m9.se.2mdn.net": "INACTIVE"
-        },
-        "1571658080": {
-            "m9.sg.2mdn.net": "INACTIVE",
-            "m9.uk.2mdn.net": "INACTIVE",
-            "m9.ve.2mdn.net": "INACTIVE"
-        },
-        "1571658081": {
-            "m9.za.2mdn.net": "INACTIVE",
-            "ma.5.p2l.info": "INACTIVE",
-            "ma.baidu.com": "INACTIVE"
-        },
-        "1571658082": {
-            "macaddictads.snv.futurenet.com": "INACTIVE",
-            "maccity.it.intellitxt.com": "INACTIVE"
-        },
-        "1571658084": {
-            "macfix.life": "INACTIVE"
-        },
-        "1571658090": {
-            "mac-helper.site": "INACTIVE"
-        },
-        "1571658091": {
-            "macleaner.work": "INACTIVE"
-        },
-        "1571658092": {
-            "macmeasurmenthub.club": "INACTIVE",
-            "macmeasurmentpro.club": "INACTIVE",
-            "macnn.us.intellitxt.com": "INACTIVE"
-        },
-        "1571658093": {
-            "mac-protection.info": "INACTIVE"
-        },
-        "1571658100": {
-            "mac-safety-check.com.ppikkoyfug.db3irlfl8g2nrljgxnlsoqmvb1s.icu": "INACTIVE",
-            "macshield8.club": "INACTIVE",
-            "macskajaj.net": "INACTIVE"
-        },
-        "1571658101": {
-            "mac.system-alert1.com": "INACTIVE",
-            "macuser.uk.intellitxt.com": "INACTIVE",
-            "macworld.uk.intellitxt.com": "INACTIVE"
-        },
-        "1571658109": {
-            "mads.aol.com": "INACTIVE"
-        },
-        "1571658115": {
-            "mads.cnet.com": "INACTIVE"
-        },
-        "1571658117": {
-            "mai-friss.com": "INACTIVE"
-        },
-        "1571658120": {
-            "mailcheckisp.biz": "INACTIVE"
-        },
-        "1571658126": {
-            "mail.cyberh.fr": "INACTIVE"
-        },
-        "1571658127": {
-            "mail.edi.edu.cn": "INACTIVE"
-        },
-        "1571658144": {
-            "mail-gw.jbic.go.jp": "INACTIVE",
-            "mailgate.sbell.com.cn": "INACTIVE"
-        },
-        "1571658145": {
-            "mailgw.thtf.com.cn": "INACTIVE"
-        },
-        "1571658147": {
-            "mail.hangzhouit.gov.cn": "INACTIVE"
-        },
-        "1571658149": {
-            "mailhub.minaffet.gov.rw": "INACTIVE"
-        },
-        "1571658150": {
-            "mail.hz.zh.cn": "INACTIVE"
-        },
-        "1571658157": {
-            "mail.imamu.edu.sa": "INACTIVE",
-            "mail.interq.or.jp": "INACTIVE"
-        },
-        "1571658160": {
-            "mail.issas.ac.cn": "INACTIVE"
-        },
-        "1571658161": {
-            "mail.pmo.ac.cn": "INACTIVE"
-        },
-        "1571658164": {
-            "mails.cneic.com.cn": "INACTIVE",
-            "mailscan3.cau.ctm.net": "INACTIVE"
-        },
-        "1571658170": {
-            "mailsrv02.macau.ctm.net": "INACTIVE"
-        },
-        "1571658172": {
-            "mailsvra.macau.ctm.net": "INACTIVE",
-            "mailtrack1313.com": "INACTIVE"
-        },
-        "1571658175": {
-            "mail.youcanoptout.com": "INACTIVE",
-            "mail.youcanoptout.net": "INACTIVE",
-            "mail.youcanoptout.org": "INACTIVE"
-        },
-        "1571658176": {
-            "mail.zzu.edu.cn": "INACTIVE"
-        },
-        "1571658179": {
-            "malware-live-pro-scanv1.com": "INACTIVE",
-            "mama128.valuehost.ru": "INACTIVE"
-        },
-        "1571658180": {
-            "mamilade.oewabox.at": "INACTIVE",
-            "manage001.adtech.de": "INACTIVE"
-        },
-        "1571658188": {
-            "mangler10.generals.ea.com": "INACTIVE"
-        },
-        "1571658194": {
-            "mangler1.generals.ea.com": "INACTIVE"
-        },
-        "1571658200": {
-            "mangler2.generals.ea.com": "INACTIVE"
-        },
-        "1571658207": {
-            "mangler3.generals.ea.com": "INACTIVE"
-        },
-        "1571658213": {
-            "mangler4.generals.ea.com": "INACTIVE"
-        },
-        "1571658214": {
-            "mangler5.generals.ea.com": "INACTIVE",
-            "mangler6.generals.ea.com": "INACTIVE"
-        },
-        "1571658215": {
-            "mangler7.generals.ea.com": "INACTIVE",
-            "mangler8.generals.ea.com": "INACTIVE"
-        },
-        "1571658216": {
-            "mangler9.generals.ea.com": "INACTIVE"
-        },
-        "1571658222": {
-            "manntv.oewabox.at": "INACTIVE"
-        },
-        "1571658223": {
-            "maps-antivert58.eksuziv.net": "INACTIVE",
-            "maps-spyware251-300.eksuziv.net": "INACTIVE"
-        },
-        "1571658224": {
-            "marketing.beesearch.info": "INACTIVE"
-        },
-        "1571658231": {
-            "marketing-rewardpath.com": "INACTIVE",
-            "marketing.hearstmagazines.nl": "INACTIVE",
-            "marriottinternationa.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571658233": {
-            "mastertracks.be": "INACTIVE"
-        },
-        "1571658235": {
-            "matrix.mediavantage.de": "INACTIVE"
-        },
-        "1571658236": {
-            "ma.wp.pl": "INACTIVE"
-        },
-        "1571658242": {
-            "maxadserver.corusradionetwork.com": "INACTIVE"
-        },
-        "1571658248": {
-            "maxads.ruralpress.com": "INACTIVE"
-        },
-        "1571658249": {
-            "maxi4.firstvds.ru": "INACTIVE",
-            "maximumpcads.imaginemedia.com": "INACTIVE"
-        },
-        "1571658250": {
-            "maxmedia.sgaonline.com": "INACTIVE"
-        },
-        "1571658251": {
-            "mb.5.p2l.info": "INACTIVE",
-            "mba-online.petrovka.info": "INACTIVE"
-        },
-        "1571658252": {
-            "mbi3.kuicr.kyoto-u.ac.jp": "INACTIVE",
-            "mbox2.offermatica.com": "INACTIVE"
-        },
-        "1571658253": {
-            "mbox5.offermatica.com": "INACTIVE",
-            "mbox9.offermatica.com": "INACTIVE",
-            "mcagbtdcwklf.com": "INACTIVE"
-        },
-        "1571658254": {
-            "mcd-su-2.mos.ru": "INACTIVE"
-        },
-        "1571658256": {
-            "m.de.2mdn.net": "INACTIVE",
-            "md.5.p2l.info": "INACTIVE"
-        },
-        "1571658257": {
-            "me.5.p2l.info": "INACTIVE"
-        },
-        "1571658258": {
-            "media101.sitebrand.com": "INACTIVE"
-        },
-        "1571658259": {
-            "media10.fastclick.net": "INACTIVE"
-        },
-        "1571658265": {
-            "media10.popmarker.com": "INACTIVE",
-            "media11.fastclick.net": "INACTIVE"
-        },
-        "1571658266": {
-            "media12.fastclick.net": "INACTIVE",
-            "media13.fastclick.net": "INACTIVE",
-            "media14.fastclick.net": "INACTIVE"
-        },
-        "1571658267": {
-            "media15.fastclick.net": "INACTIVE",
-            "media16.fastclick.net": "INACTIVE"
-        },
-        "1571658268": {
-            "media17.fastclick.net": "INACTIVE",
-            "media18.fastclick.net": "INACTIVE"
-        },
-        "1571658269": {
-            "media19.fastclick.net": "INACTIVE"
-        },
-        "1571658270": {
-            "media1.fastclick.net": "INACTIVE"
-        },
-        "1571658276": {
-            "media1.popmarker.com": "INACTIVE"
-        },
-        "1571658277": {
-            "media20.fastclick.net": "INACTIVE"
-        },
-        "1571658278": {
-            "media21.fastclick.net": "INACTIVE",
-            "media22.fastclick.net": "INACTIVE",
-            "media23.fastclick.net": "INACTIVE"
-        },
-        "1571658279": {
-            "media24.fastclick.net": "INACTIVE",
-            "media25.fastclick.net": "INACTIVE",
-            "media26.fastclick.net": "INACTIVE"
-        },
-        "1571658280": {
-            "media27.fastclick.net": "INACTIVE",
-            "media28.fastclick.net": "INACTIVE",
-            "media29.fastclick.net": "INACTIVE"
-        },
-        "1571658281": {
-            "media2.adshuffle.com": "INACTIVE",
-            "media2.fastclick.net": "INACTIVE"
-        },
-        "1571658287": {
-            "media2.popmarker.com": "INACTIVE"
-        },
-        "1571658293": {
-            "media2.travelzoo.com": "INACTIVE"
-        },
-        "1571658294": {
-            "media30.fastclick.net": "INACTIVE",
-            "media31.fastclick.net": "INACTIVE",
-            "media32.fastclick.net": "INACTIVE"
-        },
-        "1571658295": {
-            "media33.fastclick.net": "INACTIVE",
-            "media34.fastclick.net": "INACTIVE"
-        },
-        "1571658296": {
-            "media35.fastclick.net": "INACTIVE",
-            "media36.fastclick.net": "INACTIVE"
-        },
-        "1571658297": {
-            "media37.fastclick.net": "INACTIVE",
-            "media38.fastclick.net": "INACTIVE"
-        },
-        "1571658298": {
-            "media3.fastclick.net": "INACTIVE",
-            "media39.fastclick.net": "INACTIVE"
-        },
-        "1571658304": {
-            "media3.popmarker.com": "INACTIVE"
-        },
-        "1571658305": {
-            "media40.fastclick.net": "INACTIVE"
-        },
-        "1571658306": {
-            "media41.fastclick.net": "INACTIVE",
-            "media42.fastclick.net": "INACTIVE"
-        },
-        "1571658307": {
-            "media43.fastclick.net": "INACTIVE",
-            "media44.fastclick.net": "INACTIVE"
-        },
-        "1571658308": {
-            "media45.fastclick.net": "INACTIVE",
-            "media46.fastclick.net": "INACTIVE"
-        },
-        "1571658309": {
-            "media47.fastclick.net": "INACTIVE",
-            "media48.fastclick.net": "INACTIVE"
-        },
-        "1571658310": {
-            "media4.fastclick.net": "INACTIVE",
-            "media49.fastclick.net": "INACTIVE"
-        },
-        "1571658316": {
-            "media4.popmarker.com": "INACTIVE"
-        },
-        "1571658317": {
-            "media50.fastclick.net": "INACTIVE",
-            "media51.fastclick.net": "INACTIVE"
-        },
-        "1571658318": {
-            "media52.fastclick.net": "INACTIVE",
-            "media53.fastclick.net": "INACTIVE",
-            "media54.fastclick.net": "INACTIVE"
-        },
-        "1571658319": {
-            "media55.fastclick.net": "INACTIVE",
-            "media56.fastclick.net": "INACTIVE",
-            "media57.fastclick.net": "INACTIVE"
-        },
-        "1571658320": {
-            "media58.fastclick.net": "INACTIVE",
-            "media59.fastclick.net": "INACTIVE"
-        },
-        "1571658321": {
-            "media5.fastclick.net": "INACTIVE"
-        },
-        "1571658327": {
-            "media5.popmarker.com": "INACTIVE",
-            "media60.fastclick.net": "INACTIVE"
-        },
-        "1571658328": {
-            "media61.fastclick.net": "INACTIVE",
-            "media62.fastclick.net": "INACTIVE",
-            "media63.fastclick.net": "INACTIVE"
-        },
-        "1571658329": {
-            "media64.fastclick.net": "INACTIVE",
-            "media65.fastclick.net": "INACTIVE"
-        },
-        "1571658330": {
-            "media66.fastclick.net": "INACTIVE",
-            "media67.fastclick.net": "INACTIVE"
-        },
-        "1571658331": {
-            "media68.fastclick.net": "INACTIVE",
-            "media69.fastclick.net": "INACTIVE"
-        },
-        "1571658332": {
-            "media6.fastclick.net": "INACTIVE"
-        },
-        "1571658338": {
-            "media6.popmarker.com": "INACTIVE",
-            "media6.sitebrand.com": "INACTIVE"
-        },
-        "1571658339": {
-            "media70.fastclick.net": "INACTIVE",
-            "media71.fastclick.net": "INACTIVE",
-            "media72.fastclick.net": "INACTIVE"
-        },
-        "1571658340": {
-            "media73.fastclick.net": "INACTIVE",
-            "media74.fastclick.net": "INACTIVE"
-        },
-        "1571658341": {
-            "media75.fastclick.net": "INACTIVE",
-            "media76.fastclick.net": "INACTIVE"
-        },
-        "1571658342": {
-            "media77.fastclick.net": "INACTIVE",
-            "media78.fastclick.net": "INACTIVE"
-        },
-        "1571658343": {
-            "media7.fastclick.net": "INACTIVE",
-            "media79.fastclick.net": "INACTIVE"
-        },
-        "1571658350": {
-            "media7.popmarker.com": "INACTIVE",
-            "media80.fastclick.net": "INACTIVE"
-        },
-        "1571658351": {
-            "media81.fastclick.net": "INACTIVE",
-            "media82.fastclick.net": "INACTIVE",
-            "media83.fastclick.net": "INACTIVE"
-        },
-        "1571658352": {
-            "media84.fastclick.net": "INACTIVE",
-            "media85.fastclick.net": "INACTIVE",
-            "media86.fastclick.net": "INACTIVE"
-        },
-        "1571658353": {
-            "media87.fastclick.net": "INACTIVE"
-        },
-        "1571658354": {
-            "media88.fastclick.net": "INACTIVE"
-        },
-        "1571658355": {
-            "media8.fastclick.net": "INACTIVE",
-            "media89.fastclick.net": "INACTIVE"
-        },
-        "1571658362": {
-            "media8.popmarker.com": "INACTIVE",
-            "media90.fastclick.net": "INACTIVE"
-        },
-        "1571658363": {
-            "media91.fastclick.net": "INACTIVE"
-        },
-        "1571658364": {
-            "media92.fastclick.net": "INACTIVE",
-            "media93.fastclick.net": "INACTIVE"
-        },
-        "1571658365": {
-            "media94.fastclick.net": "INACTIVE",
-            "media95.fastclick.net": "INACTIVE"
-        },
-        "1571658366": {
-            "media96.fastclick.net": "INACTIVE",
-            "media97.fastclick.net": "INACTIVE",
-            "media98.fastclick.net": "INACTIVE"
-        },
-        "1571658367": {
-            "media9.fastclick.net": "INACTIVE",
-            "media99.fastclick.net": "INACTIVE"
-        },
-        "1571658373": {
-            "media9.popmarker.com": "INACTIVE"
-        },
-        "1571658374": {
-            "media.adcentriconline.com": "INACTIVE"
-        },
-        "1571658375": {
-            "media.adrevolver.com": "INACTIVE"
-        },
-        "1571658376": {
-            "media.adshadow.net": "INACTIVE",
-            "media.b.lead.program3.com": "INACTIVE",
-            "media.betburdaaffiliates.com": "INACTIVE"
-        },
-        "1571658383": {
-            "media.bonnint.net": "INACTIVE"
-        },
-        "1571658384": {
-            "media.charter.com": "INACTIVE"
-        },
-        "1571658385": {
-            "media.elb-kind.de": "INACTIVE"
-        },
-        "1571658387": {
-            "media.hw.adxpansion.com": "INACTIVE",
-            "mediafr.247realmedia.com": "INACTIVE"
-        },
-        "1571658388": {
-            "media.markethealth.com": "INACTIVE"
-        },
-        "1571658395": {
-            "media.nk-net.pl": "INACTIVE"
-        },
-        "1571658401": {
-            "media.popmarker.com": "INACTIVE"
-        },
-        "1571658418": {
-            "mediapst.adbureau.net": "INACTIVE"
-        },
-        "1571658434": {
-            "mediapst-images.adbureau.net": "INACTIVE",
-            "medias.clicks4ads.com": "INACTIVE"
-        },
-        "1571658435": {
-            "medias.europacash.com": "INACTIVE"
-        },
-        "1571658436": {
-            "media.trafficfactory.biz": "INACTIVE",
-            "mediatrack.revenue.net": "INACTIVE",
-            "mediauk.247realmedia.com": "INACTIVE"
-        },
-        "1571658437": {
-            "mediaupdate41.com": "INACTIVE"
-        },
-        "1571658438": {
-            "media.viwii.net": "INACTIVE"
-        },
-        "1571658439": {
-            "media.xxxnavy.com": "INACTIVE"
-        },
-        "1571658452": {
-            "medical-rewardpath.com": "INACTIVE",
-            "medpop.oewabox.at": "INACTIVE"
-        },
         "1571658453": {
             "medrx.sensis.com.au": "INACTIVE"
         },
@@ -8659,48 +7737,6 @@
         },
         "1571669879": {
             "zzzrtrcm2.com": "INACTIVE"
-        },
-        "1571697344": {
-            "ad.funpic.de": "INACTIVE"
-        },
-        "1571697597": {
-            "ads.mail3x.com": "INACTIVE"
-        },
-        "1571697656": {
-            "ads.videoadvertising.com": "INACTIVE"
-        },
-        "1571697658": {
-            "ads.waframedia1.com": "INACTIVE"
-        },
-        "1571699760": {
-            "cdn.freefaits.com": "INACTIVE"
-        },
-        "1571699768": {
-            "cdn.westbaud.com": "INACTIVE"
-        },
-        "1571699784": {
-            "chechla.cnixon.com": "INACTIVE"
-        },
-        "1571699973": {
-            "creditburner.blueadvertise.com": "INACTIVE"
-        },
-        "1571699979": {
-            "credit-card-application.now-cash.com": "INACTIVE"
-        },
-        "1571700038": {
-            "desk.mspaceads.com": "INACTIVE"
-        },
-        "1571700116": {
-            "engine.cmmeglobal.com": "INACTIVE"
-        },
-        "1571701366": {
-            "fodder.qq.com": "INACTIVE"
-        },
-        "1571701374": {
-            "f.qstatic.com": "INACTIVE"
-        },
-        "1571701756": {
-            "latency.ttrraacckkrr.com": "INACTIVE"
         },
         "1571703283": {
             "prod-e.sprtad.com": "INACTIVE"
@@ -17191,6 +16227,956 @@
         },
         "1571773761": {
             "log999.goo.ne.jp": "INACTIVE"
+        },
+        "1572035934": {
+            "ads.mail3x.com": "INACTIVE"
+        },
+        "1572035951": {
+            "ads.waframedia1.com": "INACTIVE"
+        },
+        "1572035968": {
+            "cdn.westbaud.com": "INACTIVE"
+        },
+        "1572035985": {
+            "creditburner.blueadvertise.com": "INACTIVE"
+        },
+        "1572036001": {
+            "engine.cmmeglobal.com": "INACTIVE"
+        },
+        "1572036002": {
+            "fodder.qq.com": "INACTIVE"
+        },
+        "1572036003": {
+            "f.qstatic.com": "INACTIVE"
+        },
+        "1572036010": {
+            "log.btopenworld.com": "INACTIVE"
+        },
+        "1572036012": {
+            "logc252.xiti.com": "INACTIVE"
+        },
+        "1572036013": {
+            "logc25.xiti.com": "INACTIVE"
+        },
+        "1572036014": {
+            "log.clickstream.co.za": "INACTIVE",
+            "log.feedjit.com": "INACTIVE"
+        },
+        "1572036015": {
+            "logger.virgul.com": "INACTIVE"
+        },
+        "1572036023": {
+            "login.linkpulse.com": "INACTIVE"
+        },
+        "1572036024": {
+            "log.pladform.ru": "INACTIVE"
+        },
+        "1572036025": {
+            "logs.comics.com": "INACTIVE",
+            "logs.eresmas.com": "INACTIVE"
+        },
+        "1572036032": {
+            "logs.eresmas.net": "INACTIVE"
+        },
+        "1572036033": {
+            "log.statistici.ro": "INACTIVE"
+        },
+        "1572036034": {
+            "log.tagcade.com": "INACTIVE"
+        },
+        "1572036038": {
+            "logv.xiti.com": "INACTIVE"
+        },
+        "1572036039": {
+            "lo.ljkeefeco.com": "INACTIVE"
+        },
+        "1572036040": {
+            "looksmartcollect.247realmedia.com": "INACTIVE"
+        },
+        "1572036041": {
+            "lookup2.hitbox.com": "INACTIVE"
+        },
+        "1572036047": {
+            "lookup.hitbox.com": "INACTIVE"
+        },
+        "1572036048": {
+            "loseweight.asdjiiw.com": "INACTIVE"
+        },
+        "1572036054": {
+            "louisvil.app.ur.gcion.com": "INACTIVE"
+        },
+        "1572036055": {
+            "lp1.linkpulse.com": "INACTIVE"
+        },
+        "1572036056": {
+            "lp4.linkpulse.com": "INACTIVE"
+        },
+        "1572036057": {
+            "lp.cleanmymac.online": "INACTIVE"
+        },
+        "1572036065": {
+            "lpcloudsvr405.com": "INACTIVE"
+        },
+        "1572036066": {
+            "lp.jeux-lk.com": "INACTIVE"
+        },
+        "1572036067": {
+            "lp.maccleanuptools.com": "INACTIVE"
+        },
+        "1572036070": {
+            "lstats.qip.ru": "INACTIVE"
+        },
+        "1572036077": {
+            "lucibad.home.ro": "INACTIVE"
+        },
+        "1572036078": {
+            "luxcart.ro": "INACTIVE"
+        },
+        "1572036079": {
+            "lw1.gamecopyworld.com": "INACTIVE",
+            "lw2.gamecopyworld.com": "INACTIVE",
+            "lycos.247realmedia.com": "INACTIVE",
+            "lycoscollect.247realmedia.com": "INACTIVE"
+        },
+        "1572036096": {
+            "lycoscollect.realmedia.com": "INACTIVE",
+            "m01.oix.com": "INACTIVE"
+        },
+        "1572036097": {
+            "m01.oix.net": "INACTIVE",
+            "m01.webwise.com": "INACTIVE",
+            "m01.webwise.net": "INACTIVE"
+        },
+        "1572036100": {
+            "m02.oix.com": "INACTIVE",
+            "m02.oix.net": "INACTIVE"
+        },
+        "1572036101": {
+            "m02.webwise.com": "INACTIVE",
+            "m02.webwise.net": "INACTIVE"
+        },
+        "1572036102": {
+            "m0-s.san.ru": "INACTIVE",
+            "m1.2mdn.net": "INACTIVE",
+            "m1.ae.2mdn.net": "INACTIVE"
+        },
+        "1572036103": {
+            "m1.au.2mdn.net": "INACTIVE",
+            "m1.be.2mdn.net": "INACTIVE",
+            "m1.br.2mdn.net": "INACTIVE"
+        },
+        "1572036104": {
+            "m1.ca.2mdn.net": "INACTIVE",
+            "m1.cn.2mdn.net": "INACTIVE",
+            "m1.de.2mdn.net": "INACTIVE"
+        },
+        "1572036105": {
+            "m1.dk.2mdn.net": "INACTIVE",
+            "m1.doubleclick.net": "INACTIVE",
+            "m1.emea.2mdn.net": "INACTIVE",
+            "m1.emea.2mdn.net.edgesuite.net": "INACTIVE"
+        },
+        "1572036106": {
+            "m1.es.2mdn.net": "INACTIVE",
+            "m1.fi.2mdn.net": "INACTIVE",
+            "m1.fr.2mdn.net": "INACTIVE"
+        },
+        "1572036107": {
+            "m1.it.2mdn.net": "INACTIVE",
+            "m1.jp.2mdn.net": "INACTIVE"
+        },
+        "1572036113": {
+            "m1.nedstatbasic.net": "INACTIVE"
+        },
+        "1572036114": {
+            "m1.nl.2mdn.net": "INACTIVE",
+            "m1.no.2mdn.net": "INACTIVE",
+            "m1.nz.2mdn.net": "INACTIVE"
+        },
+        "1572036115": {
+            "m1.pl.2mdn.net": "INACTIVE",
+            "m1.se.2mdn.net": "INACTIVE",
+            "m1.sg.2mdn.net": "INACTIVE"
+        },
+        "1572036116": {
+            "m1.uk.2mdn.net": "INACTIVE",
+            "m1.ve.2mdn.net": "INACTIVE",
+            "m1.za.2mdn.net": "INACTIVE",
+            "m2.ae.2mdn.net": "INACTIVE"
+        },
+        "1572036117": {
+            "m2.au.2mdn.net": "INACTIVE",
+            "m2.be.2mdn.net": "INACTIVE",
+            "m2.br.2mdn.net": "INACTIVE"
+        },
+        "1572036118": {
+            "m2.ca.2mdn.net": "INACTIVE",
+            "m2.cn.2mdn.net": "INACTIVE",
+            "m2.cn.doubleclick.net": "INACTIVE",
+            "m2.de.2mdn.net": "INACTIVE"
+        },
+        "1572036119": {
+            "m2.dk.2mdn.net": "INACTIVE",
+            "m2.doubleclick.net": "INACTIVE",
+            "m2.es.2mdn.net": "INACTIVE",
+            "m2.fi.2mdn.net": "INACTIVE"
+        },
+        "1572036120": {
+            "m.2mdn.net": "INACTIVE",
+            "m2.fr.2mdn.net": "INACTIVE",
+            "m2.it.2mdn.net": "INACTIVE",
+            "m2.jp.2mdn.net": "INACTIVE"
+        },
+        "1572036121": {
+            "m2.nl.2mdn.net": "INACTIVE",
+            "m2.no.2mdn.net": "INACTIVE",
+            "m2.nz.2mdn.net": "INACTIVE"
+        },
+        "1572036122": {
+            "m2.pl.2mdn.net": "INACTIVE",
+            "m2.se.2mdn.net": "INACTIVE",
+            "m2.sexgarantie.nl": "INACTIVE"
+        },
+        "1572036123": {
+            "m2.sg.2mdn.net": "INACTIVE",
+            "m2.uk.2mdn.net": "INACTIVE",
+            "m2.ve.2mdn.net": "INACTIVE",
+            "m2.za.2mdn.net": "INACTIVE"
+        },
+        "1572036124": {
+            "m3.2mdn.net": "INACTIVE",
+            "m3.ae.2mdn.net": "INACTIVE",
+            "m3.au.2mdn.net": "INACTIVE"
+        },
+        "1572036125": {
+            "m3.be.2mdn.net": "INACTIVE",
+            "m3.br.2mdn.net": "INACTIVE",
+            "m3.ca.2mdn.net": "INACTIVE",
+            "m3.cn.2mdn.net": "INACTIVE"
+        },
+        "1572036126": {
+            "m3.de.2mdn.net": "INACTIVE",
+            "m3.dk.2mdn.net": "INACTIVE",
+            "m3.doubleclick.net": "INACTIVE"
+        },
+        "1572036127": {
+            "m3.es.2mdn.net": "INACTIVE",
+            "m3.fi.2mdn.net": "INACTIVE",
+            "m3.fr.2mdn.net": "INACTIVE",
+            "m3.it.2mdn.net": "INACTIVE"
+        },
+        "1572036128": {
+            "m3.jp.2mdn.net": "INACTIVE",
+            "m3.nl.2mdn.net": "INACTIVE",
+            "m3.no.2mdn.net": "INACTIVE"
+        },
+        "1572036129": {
+            "m3.nz.2mdn.net": "INACTIVE",
+            "m3.pl.2mdn.net": "INACTIVE",
+            "m3.se.2mdn.net": "INACTIVE"
+        },
+        "1572036130": {
+            "m3.sg.2mdn.net": "INACTIVE",
+            "m3.uk.2mdn.net": "INACTIVE",
+            "m3.ve.2mdn.net": "INACTIVE",
+            "m3.za.2mdn.net": "INACTIVE"
+        },
+        "1572036131": {
+            "m4.ae.2mdn.net": "INACTIVE",
+            "m4.afs.googleadservices.com": "INACTIVE",
+            "m4.au.2mdn.net": "INACTIVE",
+            "m4.be.2mdn.net": "INACTIVE"
+        },
+        "1572036132": {
+            "m4.br.2mdn.net": "INACTIVE",
+            "m4.ca.2mdn.net": "INACTIVE",
+            "m4.cn.2mdn.net": "INACTIVE"
+        },
+        "1572036133": {
+            "m4.de.2mdn.net": "INACTIVE",
+            "m4.dk.2mdn.net": "INACTIVE",
+            "m4.doubleclick.net": "INACTIVE",
+            "m4.es.2mdn.net": "INACTIVE"
+        },
+        "1572036134": {
+            "m4.fi.2mdn.net": "INACTIVE",
+            "m4.fr.2mdn.net": "INACTIVE",
+            "m4.it.2mdn.net": "INACTIVE"
+        },
+        "1572036135": {
+            "m4.jp.2mdn.net": "INACTIVE",
+            "m4.nl.2mdn.net": "INACTIVE",
+            "m4.no.2mdn.net": "INACTIVE",
+            "m4.nz.2mdn.net": "INACTIVE"
+        },
+        "1572036136": {
+            "m4.pl.2mdn.net": "INACTIVE",
+            "m4.se.2mdn.net": "INACTIVE",
+            "m4.sg.2mdn.net": "INACTIVE"
+        },
+        "1572036137": {
+            "m4.uk.2mdn.net": "INACTIVE",
+            "m4.ve.2mdn.net": "INACTIVE"
+        },
+        "1572036143": {
+            "m4.za.2mdn.net": "INACTIVE",
+            "m4ymh0220.tech": "INACTIVE"
+        },
+        "1572036144": {
+            "m5.ae.2mdn.net": "INACTIVE",
+            "m5.au.2mdn.net": "INACTIVE",
+            "m5.be.2mdn.net": "INACTIVE",
+            "m5.br.2mdn.net": "INACTIVE"
+        },
+        "1572036145": {
+            "m5.ca.2mdn.net": "INACTIVE",
+            "m5.cn.2mdn.net": "INACTIVE",
+            "m5.de.2mdn.net": "INACTIVE"
+        },
+        "1572036146": {
+            "m5.dk.2mdn.net": "INACTIVE",
+            "m5.doubleclick.net": "INACTIVE",
+            "m5.es.2mdn.net": "INACTIVE",
+            "m5.fi.2mdn.net": "INACTIVE"
+        },
+        "1572036147": {
+            "m5.fr.2mdn.net": "INACTIVE",
+            "m5.it.2mdn.net": "INACTIVE",
+            "m5.jp.2mdn.net": "INACTIVE"
+        },
+        "1572036148": {
+            "m5.nl.2mdn.net": "INACTIVE",
+            "m5.no.2mdn.net": "INACTIVE",
+            "m5.nz.2mdn.net": "INACTIVE",
+            "m5.pl.2mdn.net": "INACTIVE"
+        },
+        "1572036149": {
+            "m5.se.2mdn.net": "INACTIVE",
+            "m5.sg.2mdn.net": "INACTIVE",
+            "m5.uk.2mdn.net": "INACTIVE",
+            "m5.ve.2mdn.net": "INACTIVE"
+        },
+        "1572036150": {
+            "m5.za.2mdn.net": "INACTIVE",
+            "m6.ae.2mdn.net": "INACTIVE",
+            "m6.au.2mdn.net": "INACTIVE"
+        },
+        "1572036151": {
+            "m6.be.2mdn.net": "INACTIVE",
+            "m6.br.2mdn.net": "INACTIVE",
+            "m6.ca.2mdn.net": "INACTIVE",
+            "m6.cn.2mdn.net": "INACTIVE"
+        },
+        "1572036152": {
+            "m6.de.2mdn.net": "INACTIVE",
+            "m6.dk.2mdn.net": "INACTIVE",
+            "m6.doubleclick.net": "INACTIVE",
+            "m6.es.2mdn.net": "INACTIVE"
+        },
+        "1572036153": {
+            "m6.fi.2mdn.net": "INACTIVE",
+            "m6.fr.2mdn.net": "INACTIVE",
+            "m6.it.2mdn.net": "INACTIVE"
+        },
+        "1572036154": {
+            "m6.jp.2mdn.net": "INACTIVE",
+            "m6.nl.2mdn.net": "INACTIVE",
+            "m6.no.2mdn.net": "INACTIVE",
+            "m6.nz.2mdn.net": "INACTIVE"
+        },
+        "1572036155": {
+            "m6.pl.2mdn.net": "INACTIVE",
+            "m6.se.2mdn.net": "INACTIVE",
+            "m6.sg.2mdn.net": "INACTIVE"
+        },
+        "1572036156": {
+            "m6.uk.2mdn.net": "INACTIVE",
+            "m6.ve.2mdn.net": "INACTIVE",
+            "m6.za.2mdn.net": "INACTIVE",
+            "m7.ae.2mdn.net": "INACTIVE"
+        },
+        "1572036157": {
+            "m7.au.2mdn.net": "INACTIVE",
+            "m7.be.2mdn.net": "INACTIVE",
+            "m7.br.2mdn.net": "INACTIVE"
+        },
+        "1572036158": {
+            "m7.ca.2mdn.net": "INACTIVE",
+            "m7.cn.2mdn.net": "INACTIVE",
+            "m7.de.2mdn.net": "INACTIVE",
+            "m7.dk.2mdn.net": "INACTIVE"
+        },
+        "1572036159": {
+            "m7.doubleclick.net": "INACTIVE",
+            "m7.es.2mdn.net": "INACTIVE",
+            "m7.fi.2mdn.net": "INACTIVE"
+        },
+        "1572036160": {
+            "m7.fr.2mdn.net": "INACTIVE",
+            "m7.it.2mdn.net": "INACTIVE",
+            "m7.jp.2mdn.net": "INACTIVE",
+            "m7.nl.2mdn.net": "INACTIVE"
+        },
+        "1572036161": {
+            "m7.no.2mdn.net": "INACTIVE",
+            "m7.nz.2mdn.net": "INACTIVE",
+            "m7.pl.2mdn.net": "INACTIVE"
+        },
+        "1572036162": {
+            "m7.se.2mdn.net": "INACTIVE",
+            "m7.sg.2mdn.net": "INACTIVE",
+            "m7.uk.2mdn.net": "INACTIVE",
+            "m7.ve.2mdn.net": "INACTIVE"
+        },
+        "1572036163": {
+            "m7.za.2mdn.net": "INACTIVE",
+            "m8.ae.2mdn.net": "INACTIVE",
+            "m8.au.2mdn.net": "INACTIVE"
+        },
+        "1572036164": {
+            "m8.be.2mdn.net": "INACTIVE",
+            "m8.br.2mdn.net": "INACTIVE",
+            "m8.ca.2mdn.net": "INACTIVE",
+            "m8.cn.2mdn.net": "INACTIVE"
+        },
+        "1572036165": {
+            "m8.de.2mdn.net": "INACTIVE",
+            "m8.dk.2mdn.net": "INACTIVE",
+            "m8.doubleclick.net": "INACTIVE"
+        },
+        "1572036166": {
+            "m8.es.2mdn.net": "INACTIVE",
+            "m8.fi.2mdn.net": "INACTIVE",
+            "m8.fr.2mdn.net": "INACTIVE",
+            "m8.it.2mdn.net": "INACTIVE"
+        },
+        "1572036167": {
+            "m8.jp.2mdn.net": "INACTIVE",
+            "m8.nl.2mdn.net": "INACTIVE",
+            "m8.no.2mdn.net": "INACTIVE"
+        },
+        "1572036168": {
+            "m8.nz.2mdn.net": "INACTIVE",
+            "m8.pl.2mdn.net": "INACTIVE",
+            "m8.se.2mdn.net": "INACTIVE",
+            "m8.sg.2mdn.net": "INACTIVE"
+        },
+        "1572036169": {
+            "m8.uk.2mdn.net": "INACTIVE",
+            "m8.ve.2mdn.net": "INACTIVE",
+            "m8.za.2mdn.net": "INACTIVE",
+            "m9.ae.2mdn.net": "INACTIVE"
+        },
+        "1572036170": {
+            "m9.au.2mdn.net": "INACTIVE",
+            "m9.be.2mdn.net": "INACTIVE",
+            "m9.br.2mdn.net": "INACTIVE"
+        },
+        "1572036171": {
+            "m9.ca.2mdn.net": "INACTIVE",
+            "m9.cn.2mdn.net": "INACTIVE",
+            "m9.de.2mdn.net": "INACTIVE",
+            "m9.dk.2mdn.net": "INACTIVE"
+        },
+        "1572036172": {
+            "m9.doubleclick.net": "INACTIVE",
+            "m9.es.2mdn.net": "INACTIVE",
+            "m9.fi.2mdn.net": "INACTIVE",
+            "m9.fr.2mdn.net": "INACTIVE"
+        },
+        "1572036173": {
+            "m9.it.2mdn.net": "INACTIVE",
+            "m9.jp.2mdn.net": "INACTIVE",
+            "m9.nl.2mdn.net": "INACTIVE"
+        },
+        "1572036174": {
+            "m9.no.2mdn.net": "INACTIVE",
+            "m9.nz.2mdn.net": "INACTIVE",
+            "m9.pl.2mdn.net": "INACTIVE",
+            "m9.se.2mdn.net": "INACTIVE"
+        },
+        "1572036175": {
+            "m9.sg.2mdn.net": "INACTIVE",
+            "m9.uk.2mdn.net": "INACTIVE",
+            "m9.ve.2mdn.net": "INACTIVE"
+        },
+        "1572036176": {
+            "m9.za.2mdn.net": "INACTIVE",
+            "ma.5.p2l.info": "INACTIVE",
+            "ma.baidu.com": "INACTIVE"
+        },
+        "1572036177": {
+            "macaddictads.snv.futurenet.com": "INACTIVE"
+        },
+        "1572036178": {
+            "maccity.it.intellitxt.com": "INACTIVE"
+        },
+        "1572036179": {
+            "macfix.life": "INACTIVE"
+        },
+        "1572036185": {
+            "mac-helper.site": "INACTIVE"
+        },
+        "1572036187": {
+            "macleaner.work": "INACTIVE",
+            "macmeasurmenthub.club": "INACTIVE",
+            "macmeasurmentpro.club": "INACTIVE",
+            "macnn.us.intellitxt.com": "INACTIVE"
+        },
+        "1572036189": {
+            "mac-protection.info": "INACTIVE"
+        },
+        "1572036195": {
+            "mac-safety-check.com.ppikkoyfug.db3irlfl8g2nrljgxnlsoqmvb1s.icu": "INACTIVE",
+            "macshield8.club": "INACTIVE"
+        },
+        "1572036196": {
+            "mac.system-alert1.com": "INACTIVE",
+            "macskajaj.net": "INACTIVE",
+            "macuser.uk.intellitxt.com": "INACTIVE",
+            "macworld.uk.intellitxt.com": "INACTIVE"
+        },
+        "1572036199": {
+            "mads.aol.com": "INACTIVE"
+        },
+        "1572036205": {
+            "mads.cnet.com": "INACTIVE"
+        },
+        "1572036206": {
+            "mai-friss.com": "INACTIVE"
+        },
+        "1572036211": {
+            "mailcheckisp.biz": "INACTIVE"
+        },
+        "1572036217": {
+            "mail.cyberh.fr": "INACTIVE"
+        },
+        "1572036218": {
+            "mail.edi.edu.cn": "INACTIVE"
+        },
+        "1572036231": {
+            "mailgate.sbell.com.cn": "INACTIVE"
+        },
+        "1572036232": {
+            "mail-gw.jbic.go.jp": "INACTIVE"
+        },
+        "1572036233": {
+            "mailgw.thtf.com.cn": "INACTIVE"
+        },
+        "1572036235": {
+            "mail.hangzhouit.gov.cn": "INACTIVE"
+        },
+        "1572036237": {
+            "mailhub.minaffet.gov.rw": "INACTIVE"
+        },
+        "1572036238": {
+            "mail.hz.zh.cn": "INACTIVE"
+        },
+        "1572036245": {
+            "mail.imamu.edu.sa": "INACTIVE",
+            "mail.interq.or.jp": "INACTIVE"
+        },
+        "1572036247": {
+            "mail.issas.ac.cn": "INACTIVE"
+        },
+        "1572036248": {
+            "mail.pmo.ac.cn": "INACTIVE"
+        },
+        "1572036251": {
+            "mailscan3.cau.ctm.net": "INACTIVE"
+        },
+        "1572036252": {
+            "mails.cneic.com.cn": "INACTIVE"
+        },
+        "1572036256": {
+            "mailsrv02.macau.ctm.net": "INACTIVE"
+        },
+        "1572036257": {
+            "mailsvra.macau.ctm.net": "INACTIVE"
+        },
+        "1572036258": {
+            "mailtrack1313.com": "INACTIVE"
+        },
+        "1572036260": {
+            "mail.youcanoptout.com": "INACTIVE"
+        },
+        "1572036261": {
+            "mail.youcanoptout.net": "INACTIVE",
+            "mail.youcanoptout.org": "INACTIVE"
+        },
+        "1572036262": {
+            "mail.zzu.edu.cn": "INACTIVE"
+        },
+        "1572036264": {
+            "malware-live-pro-scanv1.com": "INACTIVE"
+        },
+        "1572036265": {
+            "mama128.valuehost.ru": "INACTIVE"
+        },
+        "1572036266": {
+            "mamilade.oewabox.at": "INACTIVE",
+            "manage001.adtech.de": "INACTIVE"
+        },
+        "1572036268": {
+            "mangler10.generals.ea.com": "INACTIVE"
+        },
+        "1572036274": {
+            "mangler1.generals.ea.com": "INACTIVE"
+        },
+        "1572036280": {
+            "mangler2.generals.ea.com": "INACTIVE"
+        },
+        "1572036287": {
+            "mangler3.generals.ea.com": "INACTIVE"
+        },
+        "1572036293": {
+            "mangler4.generals.ea.com": "INACTIVE"
+        },
+        "1572036294": {
+            "mangler5.generals.ea.com": "INACTIVE",
+            "mangler6.generals.ea.com": "INACTIVE"
+        },
+        "1572036295": {
+            "mangler7.generals.ea.com": "INACTIVE"
+        },
+        "1572036296": {
+            "mangler8.generals.ea.com": "INACTIVE",
+            "mangler9.generals.ea.com": "INACTIVE"
+        },
+        "1572036297": {
+            "manntv.oewabox.at": "INACTIVE",
+            "maps-antivert58.eksuziv.net": "INACTIVE"
+        },
+        "1572036298": {
+            "maps-spyware251-300.eksuziv.net": "INACTIVE"
+        },
+        "1572036299": {
+            "marketing.beesearch.info": "INACTIVE"
+        },
+        "1572036305": {
+            "marketing-rewardpath.com": "INACTIVE",
+            "marketing.hearstmagazines.nl": "INACTIVE"
+        },
+        "1572036306": {
+            "marriottinternationa.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572036307": {
+            "mastertracks.be": "INACTIVE"
+        },
+        "1572036309": {
+            "matrix.mediavantage.de": "INACTIVE"
+        },
+        "1572036310": {
+            "ma.wp.pl": "INACTIVE"
+        },
+        "1572036316": {
+            "maxadserver.corusradionetwork.com": "INACTIVE"
+        },
+        "1572036322": {
+            "maxads.ruralpress.com": "INACTIVE"
+        },
+        "1572036323": {
+            "maxi4.firstvds.ru": "INACTIVE"
+        },
+        "1572036324": {
+            "maximumpcads.imaginemedia.com": "INACTIVE",
+            "maxmedia.sgaonline.com": "INACTIVE"
+        },
+        "1572036333": {
+            "mb.5.p2l.info": "INACTIVE",
+            "mba-online.petrovka.info": "INACTIVE"
+        },
+        "1572036334": {
+            "mbox2.offermatica.com": "INACTIVE",
+            "mbox5.offermatica.com": "INACTIVE",
+            "mbox9.offermatica.com": "INACTIVE"
+        },
+        "1572036335": {
+            "mcagbtdcwklf.com": "INACTIVE"
+        },
+        "1572036336": {
+            "mcd-su-2.mos.ru": "INACTIVE"
+        },
+        "1572036338": {
+            "m.de.2mdn.net": "INACTIVE",
+            "md.5.p2l.info": "INACTIVE"
+        },
+        "1572036340": {
+            "me.5.p2l.info": "INACTIVE",
+            "media101.sitebrand.com": "INACTIVE"
+        },
+        "1572036341": {
+            "media10.fastclick.net": "INACTIVE"
+        },
+        "1572036347": {
+            "media10.popmarker.com": "INACTIVE",
+            "media11.fastclick.net": "INACTIVE"
+        },
+        "1572036348": {
+            "media12.fastclick.net": "INACTIVE",
+            "media13.fastclick.net": "INACTIVE",
+            "media14.fastclick.net": "INACTIVE",
+            "media15.fastclick.net": "INACTIVE"
+        },
+        "1572036349": {
+            "media16.fastclick.net": "INACTIVE",
+            "media17.fastclick.net": "INACTIVE"
+        },
+        "1572036350": {
+            "media1.fastclick.net": "INACTIVE",
+            "media18.fastclick.net": "INACTIVE",
+            "media19.fastclick.net": "INACTIVE"
+        },
+        "1572036356": {
+            "media1.popmarker.com": "INACTIVE"
+        },
+        "1572036357": {
+            "media20.fastclick.net": "INACTIVE",
+            "media21.fastclick.net": "INACTIVE"
+        },
+        "1572036358": {
+            "media22.fastclick.net": "INACTIVE",
+            "media23.fastclick.net": "INACTIVE",
+            "media24.fastclick.net": "INACTIVE"
+        },
+        "1572036359": {
+            "media25.fastclick.net": "INACTIVE",
+            "media26.fastclick.net": "INACTIVE"
+        },
+        "1572036360": {
+            "media27.fastclick.net": "INACTIVE",
+            "media28.fastclick.net": "INACTIVE",
+            "media29.fastclick.net": "INACTIVE"
+        },
+        "1572036361": {
+            "media2.adshuffle.com": "INACTIVE",
+            "media2.fastclick.net": "INACTIVE"
+        },
+        "1572036367": {
+            "media2.popmarker.com": "INACTIVE"
+        },
+        "1572036373": {
+            "media2.travelzoo.com": "INACTIVE"
+        },
+        "1572036374": {
+            "media30.fastclick.net": "INACTIVE"
+        },
+        "1572036375": {
+            "media31.fastclick.net": "INACTIVE",
+            "media32.fastclick.net": "INACTIVE",
+            "media33.fastclick.net": "INACTIVE"
+        },
+        "1572036376": {
+            "media34.fastclick.net": "INACTIVE",
+            "media35.fastclick.net": "INACTIVE"
+        },
+        "1572036377": {
+            "media3.fastclick.net": "INACTIVE",
+            "media36.fastclick.net": "INACTIVE",
+            "media37.fastclick.net": "INACTIVE",
+            "media38.fastclick.net": "INACTIVE",
+            "media39.fastclick.net": "INACTIVE"
+        },
+        "1572036384": {
+            "media3.popmarker.com": "INACTIVE",
+            "media40.fastclick.net": "INACTIVE",
+            "media41.fastclick.net": "INACTIVE"
+        },
+        "1572036385": {
+            "media42.fastclick.net": "INACTIVE",
+            "media43.fastclick.net": "INACTIVE"
+        },
+        "1572036386": {
+            "media44.fastclick.net": "INACTIVE",
+            "media45.fastclick.net": "INACTIVE"
+        },
+        "1572036387": {
+            "media46.fastclick.net": "INACTIVE",
+            "media47.fastclick.net": "INACTIVE",
+            "media48.fastclick.net": "INACTIVE"
+        },
+        "1572036388": {
+            "media4.fastclick.net": "INACTIVE",
+            "media49.fastclick.net": "INACTIVE"
+        },
+        "1572036394": {
+            "media4.popmarker.com": "INACTIVE"
+        },
+        "1572036395": {
+            "media50.fastclick.net": "INACTIVE",
+            "media51.fastclick.net": "INACTIVE"
+        },
+        "1572036396": {
+            "media52.fastclick.net": "INACTIVE",
+            "media53.fastclick.net": "INACTIVE",
+            "media54.fastclick.net": "INACTIVE"
+        },
+        "1572036397": {
+            "media55.fastclick.net": "INACTIVE",
+            "media56.fastclick.net": "INACTIVE",
+            "media57.fastclick.net": "INACTIVE",
+            "media58.fastclick.net": "INACTIVE"
+        },
+        "1572036398": {
+            "media5.fastclick.net": "INACTIVE",
+            "media59.fastclick.net": "INACTIVE"
+        },
+        "1572036404": {
+            "media5.popmarker.com": "INACTIVE"
+        },
+        "1572036405": {
+            "media60.fastclick.net": "INACTIVE",
+            "media61.fastclick.net": "INACTIVE"
+        },
+        "1572036406": {
+            "media62.fastclick.net": "INACTIVE"
+        },
+        "1572036407": {
+            "media63.fastclick.net": "INACTIVE",
+            "media64.fastclick.net": "INACTIVE",
+            "media65.fastclick.net": "INACTIVE"
+        },
+        "1572036408": {
+            "media66.fastclick.net": "INACTIVE",
+            "media67.fastclick.net": "INACTIVE",
+            "media68.fastclick.net": "INACTIVE"
+        },
+        "1572036409": {
+            "media6.fastclick.net": "INACTIVE",
+            "media69.fastclick.net": "INACTIVE"
+        },
+        "1572036415": {
+            "media6.popmarker.com": "INACTIVE"
+        },
+        "1572036416": {
+            "media6.sitebrand.com": "INACTIVE",
+            "media70.fastclick.net": "INACTIVE",
+            "media71.fastclick.net": "INACTIVE"
+        },
+        "1572036417": {
+            "media72.fastclick.net": "INACTIVE",
+            "media73.fastclick.net": "INACTIVE",
+            "media74.fastclick.net": "INACTIVE",
+            "media75.fastclick.net": "INACTIVE",
+            "media76.fastclick.net": "INACTIVE"
+        },
+        "1572036418": {
+            "media77.fastclick.net": "INACTIVE",
+            "media78.fastclick.net": "INACTIVE"
+        },
+        "1572036419": {
+            "media7.fastclick.net": "INACTIVE",
+            "media79.fastclick.net": "INACTIVE"
+        },
+        "1572036425": {
+            "media7.popmarker.com": "INACTIVE",
+            "media80.fastclick.net": "INACTIVE"
+        },
+        "1572036426": {
+            "media81.fastclick.net": "INACTIVE",
+            "media82.fastclick.net": "INACTIVE",
+            "media83.fastclick.net": "INACTIVE"
+        },
+        "1572036427": {
+            "media84.fastclick.net": "INACTIVE",
+            "media85.fastclick.net": "INACTIVE"
+        },
+        "1572036428": {
+            "media86.fastclick.net": "INACTIVE",
+            "media87.fastclick.net": "INACTIVE"
+        },
+        "1572036429": {
+            "media8.fastclick.net": "INACTIVE",
+            "media88.fastclick.net": "INACTIVE",
+            "media89.fastclick.net": "INACTIVE"
+        },
+        "1572036436": {
+            "media8.popmarker.com": "INACTIVE",
+            "media90.fastclick.net": "INACTIVE",
+            "media91.fastclick.net": "INACTIVE"
+        },
+        "1572036437": {
+            "media92.fastclick.net": "INACTIVE",
+            "media93.fastclick.net": "INACTIVE",
+            "media94.fastclick.net": "INACTIVE",
+            "media95.fastclick.net": "INACTIVE"
+        },
+        "1572036438": {
+            "media96.fastclick.net": "INACTIVE",
+            "media97.fastclick.net": "INACTIVE",
+            "media98.fastclick.net": "INACTIVE"
+        },
+        "1572036439": {
+            "media9.fastclick.net": "INACTIVE",
+            "media99.fastclick.net": "INACTIVE"
+        },
+        "1572036445": {
+            "media9.popmarker.com": "INACTIVE"
+        },
+        "1572036446": {
+            "media.adcentriconline.com": "INACTIVE"
+        },
+        "1572036453": {
+            "media.adrevolver.com": "INACTIVE",
+            "media.adshadow.net": "INACTIVE"
+        },
+        "1572036454": {
+            "media.b.lead.program3.com": "INACTIVE",
+            "media.betburdaaffiliates.com": "INACTIVE"
+        },
+        "1572036460": {
+            "media.bonnint.net": "INACTIVE"
+        },
+        "1572036461": {
+            "media.charter.com": "INACTIVE"
+        },
+        "1572036463": {
+            "media.elb-kind.de": "INACTIVE"
+        },
+        "1572036464": {
+            "mediafr.247realmedia.com": "INACTIVE"
+        },
+        "1572036465": {
+            "media.hw.adxpansion.com": "INACTIVE"
+        },
+        "1572036466": {
+            "media.markethealth.com": "INACTIVE"
+        },
+        "1572036473": {
+            "media.nk-net.pl": "INACTIVE"
+        },
+        "1572036479": {
+            "media.popmarker.com": "INACTIVE"
+        },
+        "1572036496": {
+            "mediapst.adbureau.net": "INACTIVE"
+        },
+        "1572036512": {
+            "mediapst-images.adbureau.net": "INACTIVE",
+            "medias.clicks4ads.com": "INACTIVE"
+        },
+        "1572036513": {
+            "medias.europacash.com": "INACTIVE"
+        },
+        "1572036514": {
+            "media.trafficfactory.biz": "INACTIVE",
+            "mediatrack.revenue.net": "INACTIVE",
+            "mediauk.247realmedia.com": "INACTIVE"
+        },
+        "1572036515": {
+            "mediaupdate41.com": "INACTIVE"
+        },
+        "1572036516": {
+            "media.viwii.net": "INACTIVE"
+        },
+        "1572036517": {
+            "media.xxxnavy.com": "INACTIVE"
+        },
+        "1572036518": {
+            "medical-rewardpath.com": "INACTIVE"
+        },
+        "1572036519": {
+            "medpop.oewabox.at": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
