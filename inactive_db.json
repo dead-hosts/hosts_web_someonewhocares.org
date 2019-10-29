@@ -1,566 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/domains.list": {
-        "1572171979": {
-            "w112.hitbox.com": "INACTIVE"
-        },
-        "1572171980": {
-            "w113.am15.net": "INACTIVE"
-        },
-        "1572171986": {
-            "w113.hitbox.com": "INACTIVE",
-            "w114.am15.net": "INACTIVE"
-        },
-        "1572171993": {
-            "w114.hitbox.com": "INACTIVE",
-            "w115.am15.net": "INACTIVE"
-        },
-        "1572172000": {
-            "w115.hitbox.com": "INACTIVE",
-            "w116.am15.net": "INACTIVE"
-        },
-        "1572172006": {
-            "w116.hitbox.com": "INACTIVE"
-        },
-        "1572172007": {
-            "w117.am15.net": "INACTIVE"
-        },
-        "1572172013": {
-            "w117.hitbox.com": "INACTIVE"
-        },
-        "1572172014": {
-            "w118.am15.net": "INACTIVE"
-        },
-        "1572172020": {
-            "w118.hitbox.com": "INACTIVE"
-        },
-        "1572172021": {
-            "w119.am15.net": "INACTIVE"
-        },
-        "1572172027": {
-            "w119.hitbox.com": "INACTIVE"
-        },
-        "1572172028": {
-            "w11.am15.net": "INACTIVE",
-            "w11.centralmediaserver.com": "INACTIVE"
-        },
-        "1572172034": {
-            "w11.hitbox.com": "INACTIVE"
-        },
-        "1572172040": {
-            "w120.hitbox.com": "INACTIVE"
-        },
-        "1572172047": {
-            "w121.hitbox.com": "INACTIVE"
-        },
-        "1572172053": {
-            "w122.hitbox.com": "INACTIVE"
-        },
-        "1572172059": {
-            "w123.hitbox.com": "INACTIVE"
-        },
-        "1572172065": {
-            "w124.hitbox.com": "INACTIVE"
-        },
-        "1572172071": {
-            "w126.hitbox.com": "INACTIVE"
-        },
-        "1572172077": {
-            "w128.hitbox.com": "INACTIVE"
-        },
-        "1572172084": {
-            "w12.am15.net": "INACTIVE",
-            "w129.hitbox.com": "INACTIVE"
-        },
-        "1572172091": {
-            "w12.hitbox.com": "INACTIVE"
-        },
-        "1572172097": {
-            "w130.hitbox.com": "INACTIVE"
-        },
-        "1572172103": {
-            "w131.hitbox.com": "INACTIVE"
-        },
-        "1572172109": {
-            "w132.hitbox.com": "INACTIVE"
-        },
-        "1572172115": {
-            "w133.hitbox.com": "INACTIVE"
-        },
-        "1572172122": {
-            "w135.hitbox.com": "INACTIVE"
-        },
-        "1572172128": {
-            "w136.hitbox.com": "INACTIVE"
-        },
-        "1572172134": {
-            "w137.hitbox.com": "INACTIVE"
-        },
-        "1572172140": {
-            "w138.hitbox.com": "INACTIVE"
-        },
-        "1572172146": {
-            "w139.hitbox.com": "INACTIVE"
-        },
-        "1572172147": {
-            "w13.am15.net": "INACTIVE"
-        },
-        "1572172153": {
-            "w13.hitbox.com": "INACTIVE"
-        },
-        "1572172159": {
-            "w140.hitbox.com": "INACTIVE"
-        },
-        "1572172165": {
-            "w141.hitbox.com": "INACTIVE"
-        },
-        "1572172172": {
-            "w144.hitbox.com": "INACTIVE"
-        },
-        "1572172178": {
-            "w147.hitbox.com": "INACTIVE"
-        },
-        "1572172179": {
-            "w14.am15.net": "INACTIVE"
-        },
-        "1572172185": {
-            "w14.hitbox.com": "INACTIVE"
-        },
-        "1572172191": {
-            "w153.hitbox.com": "INACTIVE"
-        },
-        "1572172197": {
-            "w154.hitbox.com": "INACTIVE"
-        },
-        "1572172203": {
-            "w155.hitbox.com": "INACTIVE"
-        },
-        "1572172209": {
-            "w157.hitbox.com": "INACTIVE"
-        },
-        "1572172216": {
-            "w15.am15.net": "INACTIVE",
-            "w159.hitbox.com": "INACTIVE"
-        },
-        "1572172223": {
-            "w15.hitbox.com": "INACTIVE"
-        },
-        "1572172229": {
-            "w161.hitbox.com": "INACTIVE"
-        },
-        "1572172235": {
-            "w162.hitbox.com": "INACTIVE"
-        },
-        "1572172241": {
-            "w167.hitbox.com": "INACTIVE"
-        },
-        "1572172247": {
-            "w168.hitbox.com": "INACTIVE"
-        },
-        "1572172248": {
-            "w16.am15.net": "INACTIVE"
-        },
-        "1572172254": {
-            "w16.hitbox.com": "INACTIVE"
-        },
-        "1572172260": {
-            "w170.hitbox.com": "INACTIVE"
-        },
-        "1572172267": {
-            "w175.hitbox.com": "INACTIVE",
-            "w177.hitbox.com": "INACTIVE",
-            "w179.hitbox.com": "INACTIVE"
-        },
-        "1572172268": {
-            "w17.am15.net": "INACTIVE"
-        },
-        "1572172274": {
-            "w17.hitbox.com": "INACTIVE"
-        },
-        "1572172275": {
-            "w18.am15.net": "INACTIVE"
-        },
-        "1572172281": {
-            "w18.hitbox.com": "INACTIVE",
-            "w19.am15.net": "INACTIVE"
-        },
-        "1572172288": {
-            "w19.hitbox.com": "INACTIVE"
-        },
-        "1572172295": {
-            "w1.hitbox.com": "INACTIVE"
-        },
-        "1572172296": {
-            "w1.iyi.net": "INACTIVE",
-            "w1.tcr112.tynt.com": "INACTIVE"
-        },
-        "1572172297": {
-            "w20.am15.net": "INACTIVE"
-        },
-        "1572172303": {
-            "w20.hitbox.com": "INACTIVE"
-        },
-        "1572172304": {
-            "w21.am15.net": "INACTIVE"
-        },
-        "1572172310": {
-            "w21.hitbox.com": "INACTIVE",
-            "w22.am15.net": "INACTIVE"
-        },
-        "1572172317": {
-            "w22.hitbox.com": "INACTIVE",
-            "w23.am15.net": "INACTIVE"
-        },
-        "1572172323": {
-            "w23.hitbox.com": "INACTIVE"
-        },
-        "1572172324": {
-            "w24.am15.net": "INACTIVE"
-        },
-        "1572172330": {
-            "w24.hitbox.com": "INACTIVE"
-        },
-        "1572172331": {
-            "w25.am15.net": "INACTIVE"
-        },
-        "1572172337": {
-            "w25.hitbox.com": "INACTIVE"
-        },
-        "1572172338": {
-            "w26.am15.net": "INACTIVE"
-        },
-        "1572172344": {
-            "w26.hitbox.com": "INACTIVE"
-        },
-        "1572172345": {
-            "w27.am15.net": "INACTIVE"
-        },
-        "1572172351": {
-            "w27.hitbox.com": "INACTIVE"
-        },
-        "1572172352": {
-            "w28.am15.net": "INACTIVE"
-        },
-        "1572172358": {
-            "w28.hitbox.com": "INACTIVE"
-        },
-        "1572172359": {
-            "w29.am15.net": "INACTIVE"
-        },
-        "1572172365": {
-            "w29.hitbox.com": "INACTIVE"
-        },
-        "1572172366": {
-            "w2.extreme-dm.com": "INACTIVE"
-        },
-        "1572172372": {
-            "w2.hitbox.com": "INACTIVE"
-        },
-        "1572172373": {
-            "w30.am15.net": "INACTIVE"
-        },
-        "1572172379": {
-            "w30.hitbox.com": "INACTIVE"
-        },
-        "1572172380": {
-            "w31.am15.net": "INACTIVE"
-        },
-        "1572172386": {
-            "w31.hitbox.com": "INACTIVE"
-        },
-        "1572172387": {
-            "w32.am15.net": "INACTIVE"
-        },
-        "1572172393": {
-            "w32.hitbox.com": "INACTIVE"
-        },
-        "1572172394": {
-            "w33.am15.net": "INACTIVE"
-        },
-        "1572172400": {
-            "w33.hitbox.com": "INACTIVE",
-            "w34.am15.net": "INACTIVE"
-        },
-        "1572172401": {
-            "w34.hitbox.com": "INACTIVE",
-            "w35.am15.net": "INACTIVE"
-        },
-        "1572172402": {
-            "w35.hitbox.com": "INACTIVE",
-            "w36.am15.net": "INACTIVE"
-        },
-        "1572172408": {
-            "w36.hitbox.com": "INACTIVE"
-        },
-        "1572172409": {
-            "w37.am15.net": "INACTIVE"
-        },
-        "1572172410": {
-            "w38.am15.net": "INACTIVE"
-        },
-        "1572172411": {
-            "w3.am15.net": "INACTIVE",
-            "w39.am15.net": "INACTIVE"
-        },
-        "1572172412": {
-            "w3.extreme-dm.com": "INACTIVE"
-        },
-        "1572172418": {
-            "w3.hitbox.com": "INACTIVE"
-        },
-        "1572172419": {
-            "w40.am15.net": "INACTIVE"
-        },
-        "1572172420": {
-            "w41.am15.net": "INACTIVE",
-            "w42.am15.net": "INACTIVE"
-        },
-        "1572172421": {
-            "w43.am15.net": "INACTIVE"
-        },
-        "1572172422": {
-            "w44.am15.net": "INACTIVE",
-            "w45.am15.net": "INACTIVE"
-        },
-        "1572172423": {
-            "w46.am15.net": "INACTIVE"
-        },
-        "1572172424": {
-            "w47.am15.net": "INACTIVE",
-            "w48.am15.net": "INACTIVE"
-        },
-        "1572172425": {
-            "w49.am15.net": "INACTIVE"
-        },
-        "1572172426": {
-            "w4.am15.net": "INACTIVE",
-            "w4.extreme-dm.com": "INACTIVE"
-        },
-        "1572172432": {
-            "w4.hitbox.com": "INACTIVE"
-        },
-        "1572172433": {
-            "w50.am15.net": "INACTIVE"
-        },
-        "1572172434": {
-            "w51.am15.net": "INACTIVE",
-            "w52.am15.net": "INACTIVE"
-        },
-        "1572172435": {
-            "w53.am15.net": "INACTIVE"
-        },
-        "1572172436": {
-            "w54.am15.net": "INACTIVE",
-            "w55.am15.net": "INACTIVE"
-        },
-        "1572172437": {
-            "w56.am15.net": "INACTIVE"
-        },
-        "1572172438": {
-            "w57.am15.net": "INACTIVE",
-            "w58.am15.net": "INACTIVE"
-        },
-        "1572172439": {
-            "w59.am15.net": "INACTIVE"
-        },
-        "1572172440": {
-            "w5.am15.net": "INACTIVE",
-            "w5.extreme-dm.com": "INACTIVE"
-        },
-        "1572172446": {
-            "w5.hitbox.com": "INACTIVE"
-        },
-        "1572172447": {
-            "w60.am15.net": "INACTIVE"
-        },
-        "1572172448": {
-            "w61.am15.net": "INACTIVE",
-            "w62.am15.net": "INACTIVE"
-        },
-        "1572172449": {
-            "w63.am15.net": "INACTIVE"
-        },
-        "1572172450": {
-            "w64.am15.net": "INACTIVE",
-            "w65.am15.net": "INACTIVE"
-        },
-        "1572172451": {
-            "w66.am15.net": "INACTIVE"
-        },
-        "1572172452": {
-            "w67.am15.net": "INACTIVE",
-            "w68.am15.net": "INACTIVE"
-        },
-        "1572172453": {
-            "w69.am15.net": "INACTIVE"
-        },
-        "1572172454": {
-            "w6.am15.net": "INACTIVE",
-            "w6.extreme-dm.com": "INACTIVE"
-        },
-        "1572172460": {
-            "w6.hitbox.com": "INACTIVE"
-        },
-        "1572172461": {
-            "w70.am15.net": "INACTIVE"
-        },
-        "1572172462": {
-            "w71.am15.net": "INACTIVE",
-            "w72.am15.net": "INACTIVE"
-        },
-        "1572172463": {
-            "w73.am15.net": "INACTIVE"
-        },
-        "1572172464": {
-            "w74.am15.net": "INACTIVE",
-            "w75.am15.net": "INACTIVE"
-        },
-        "1572172465": {
-            "w76.am15.net": "INACTIVE"
-        },
-        "1572172466": {
-            "w77.am15.net": "INACTIVE"
-        },
-        "1572172467": {
-            "w78.am15.net": "INACTIVE",
-            "w79.am15.net": "INACTIVE"
-        },
-        "1572172468": {
-            "w7.am15.net": "INACTIVE",
-            "w7.extreme-dm.com": "INACTIVE"
-        },
-        "1572172475": {
-            "w7.hitbox.com": "INACTIVE",
-            "w80.am15.net": "INACTIVE"
-        },
-        "1572172476": {
-            "w81.am15.net": "INACTIVE"
-        },
-        "1572172477": {
-            "w82.am15.net": "INACTIVE",
-            "w83.am15.net": "INACTIVE"
-        },
-        "1572172478": {
-            "w84.am15.net": "INACTIVE"
-        },
-        "1572172479": {
-            "w85.am15.net": "INACTIVE",
-            "w86.am15.net": "INACTIVE"
-        },
-        "1572172480": {
-            "w87.am15.net": "INACTIVE"
-        },
-        "1572172481": {
-            "w88.am15.net": "INACTIVE",
-            "w89.am15.net": "INACTIVE"
-        },
-        "1572172482": {
-            "w8.am15.net": "INACTIVE"
-        },
-        "1572172483": {
-            "w8.extreme-dm.com": "INACTIVE"
-        },
-        "1572172489": {
-            "w8.hitbox.com": "INACTIVE",
-            "w90.am15.net": "INACTIVE"
-        },
-        "1572172596": {
-            "w91.am15.net": "INACTIVE",
-            "w92.am15.net": "INACTIVE"
-        },
-        "1572172597": {
-            "w93.am15.net": "INACTIVE"
-        },
-        "1572172598": {
-            "w94.am15.net": "INACTIVE",
-            "w95.am15.net": "INACTIVE"
-        },
-        "1572172599": {
-            "w96.am15.net": "INACTIVE"
-        },
-        "1572172600": {
-            "w97.am15.net": "INACTIVE",
-            "w98.am15.net": "INACTIVE"
-        },
-        "1572172601": {
-            "w99.am15.net": "INACTIVE"
-        },
-        "1572172602": {
-            "w9.am15.net": "INACTIVE",
-            "w9.extreme-dm.com": "INACTIVE"
-        },
-        "1572172608": {
-            "w9.hitbox.com": "INACTIVE"
-        },
-        "1572172609": {
-            "w.admob.com": "INACTIVE",
-            "wa.5.p2l.info": "INACTIVE",
-            "wac.2ddcc.alphacdn.net": "INACTIVE"
-        },
-        "1572172619": {
-            "walp.atm.youku.com": "INACTIVE"
-        },
-        "1572172620": {
-            "walternse.com": "INACTIVE"
-        },
-        "1572172622": {
-            "wap.casee.cn": "INACTIVE"
-        },
-        "1572172623": {
-            "warda.oewabox.at": "INACTIVE",
-            "warning-message.com": "INACTIVE",
-            "warp2search.us.intellitxt.com": "INACTIVE"
-        },
-        "1572172625": {
-            "w.bigames.online": "INACTIVE"
-        },
-        "1572172626": {
-            "wd.adcolony.com": "INACTIVE"
-        },
-        "1572172627": {
-            "web1.realtracker.com": "INACTIVE",
-            "web2.realtracker.com": "INACTIVE"
-        },
-        "1572172628": {
-            "web3.realtracker.com": "INACTIVE"
-        },
-        "1572172630": {
-            "webanalytics.globalthoughtz.com": "INACTIVE"
-        },
-        "1572172631": {
-            "webbug.seatreport.com": "INACTIVE"
-        },
-        "1572172633": {
-            "web-ccfr.tsinghua.edu.cn": "INACTIVE",
-            "web-counter.5u.com": "INACTIVE"
-        },
-        "1572172640": {
-            "webcounter.together.net": "INACTIVE"
-        },
-        "1572172647": {
-            "webhit.aftenposten.no": "INACTIVE",
-            "webhit.afterposten.no": "INACTIVE"
-        },
-        "1572172653": {
-            "web-hosting.hitslog.net": "INACTIVE"
-        },
-        "1572172660": {
-            "webload101.hitbox.com": "INACTIVE"
-        },
-        "1572172661": {
-            "weblogger.visilabs.com": "INACTIVE"
-        },
-        "1572172662": {
-            "weblover.info": "INACTIVE",
-            "webmasterkai.sitetracker.com": "INACTIVE",
-            "webmdcom.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572172663": {
-            "webnavegador.com": "INACTIVE"
-        },
-        "1572172664": {
-            "webnavegador.com.br": "INACTIVE",
-            "webnetra.entelnet.bo": "INACTIVE"
-        },
         "1572172665": {
             "webpdp.gator.com": "INACTIVE"
         },
@@ -17369,6 +16808,579 @@
         "1572345571": {
             "w111.hitbox.com": "INACTIVE",
             "w112.am15.net": "INACTIVE"
+        },
+        "1572345693": {
+            "w112.hitbox.com": "INACTIVE"
+        },
+        "1572345694": {
+            "w113.am15.net": "INACTIVE"
+        },
+        "1572345700": {
+            "w113.hitbox.com": "INACTIVE"
+        },
+        "1572345701": {
+            "w114.am15.net": "INACTIVE"
+        },
+        "1572345707": {
+            "w114.hitbox.com": "INACTIVE"
+        },
+        "1572345708": {
+            "w115.am15.net": "INACTIVE"
+        },
+        "1572345714": {
+            "w115.hitbox.com": "INACTIVE"
+        },
+        "1572345715": {
+            "w116.am15.net": "INACTIVE"
+        },
+        "1572345721": {
+            "w116.hitbox.com": "INACTIVE"
+        },
+        "1572345722": {
+            "w117.am15.net": "INACTIVE"
+        },
+        "1572345728": {
+            "w117.hitbox.com": "INACTIVE"
+        },
+        "1572345729": {
+            "w118.am15.net": "INACTIVE"
+        },
+        "1572345735": {
+            "w118.hitbox.com": "INACTIVE"
+        },
+        "1572345736": {
+            "w119.am15.net": "INACTIVE"
+        },
+        "1572345742": {
+            "w119.hitbox.com": "INACTIVE"
+        },
+        "1572345743": {
+            "w11.am15.net": "INACTIVE",
+            "w11.centralmediaserver.com": "INACTIVE"
+        },
+        "1572345749": {
+            "w11.hitbox.com": "INACTIVE"
+        },
+        "1572345755": {
+            "w120.hitbox.com": "INACTIVE"
+        },
+        "1572345762": {
+            "w121.hitbox.com": "INACTIVE"
+        },
+        "1572345768": {
+            "w122.hitbox.com": "INACTIVE"
+        },
+        "1572345774": {
+            "w123.hitbox.com": "INACTIVE"
+        },
+        "1572345780": {
+            "w124.hitbox.com": "INACTIVE"
+        },
+        "1572345787": {
+            "w126.hitbox.com": "INACTIVE"
+        },
+        "1572345793": {
+            "w128.hitbox.com": "INACTIVE"
+        },
+        "1572345799": {
+            "w129.hitbox.com": "INACTIVE"
+        },
+        "1572345800": {
+            "w12.am15.net": "INACTIVE"
+        },
+        "1572345806": {
+            "w12.hitbox.com": "INACTIVE"
+        },
+        "1572345812": {
+            "w130.hitbox.com": "INACTIVE"
+        },
+        "1572345818": {
+            "w131.hitbox.com": "INACTIVE"
+        },
+        "1572345825": {
+            "w132.hitbox.com": "INACTIVE"
+        },
+        "1572345831": {
+            "w133.hitbox.com": "INACTIVE"
+        },
+        "1572345837": {
+            "w135.hitbox.com": "INACTIVE"
+        },
+        "1572345843": {
+            "w136.hitbox.com": "INACTIVE"
+        },
+        "1572345850": {
+            "w137.hitbox.com": "INACTIVE"
+        },
+        "1572345856": {
+            "w138.hitbox.com": "INACTIVE"
+        },
+        "1572345862": {
+            "w139.hitbox.com": "INACTIVE"
+        },
+        "1572345863": {
+            "w13.am15.net": "INACTIVE"
+        },
+        "1572345869": {
+            "w13.hitbox.com": "INACTIVE"
+        },
+        "1572345875": {
+            "w140.hitbox.com": "INACTIVE"
+        },
+        "1572345882": {
+            "w141.hitbox.com": "INACTIVE"
+        },
+        "1572345888": {
+            "w144.hitbox.com": "INACTIVE"
+        },
+        "1572345894": {
+            "w147.hitbox.com": "INACTIVE"
+        },
+        "1572345895": {
+            "w14.am15.net": "INACTIVE"
+        },
+        "1572345901": {
+            "w14.hitbox.com": "INACTIVE"
+        },
+        "1572345907": {
+            "w153.hitbox.com": "INACTIVE"
+        },
+        "1572345913": {
+            "w154.hitbox.com": "INACTIVE"
+        },
+        "1572345920": {
+            "w155.hitbox.com": "INACTIVE"
+        },
+        "1572345926": {
+            "w157.hitbox.com": "INACTIVE"
+        },
+        "1572345932": {
+            "w159.hitbox.com": "INACTIVE"
+        },
+        "1572345933": {
+            "w15.am15.net": "INACTIVE"
+        },
+        "1572345939": {
+            "w15.hitbox.com": "INACTIVE"
+        },
+        "1572345945": {
+            "w161.hitbox.com": "INACTIVE"
+        },
+        "1572345952": {
+            "w162.hitbox.com": "INACTIVE"
+        },
+        "1572345958": {
+            "w167.hitbox.com": "INACTIVE"
+        },
+        "1572345964": {
+            "w168.hitbox.com": "INACTIVE"
+        },
+        "1572345965": {
+            "w16.am15.net": "INACTIVE"
+        },
+        "1572345971": {
+            "w16.hitbox.com": "INACTIVE"
+        },
+        "1572345977": {
+            "w170.hitbox.com": "INACTIVE"
+        },
+        "1572345984": {
+            "w175.hitbox.com": "INACTIVE",
+            "w177.hitbox.com": "INACTIVE",
+            "w179.hitbox.com": "INACTIVE"
+        },
+        "1572345985": {
+            "w17.am15.net": "INACTIVE"
+        },
+        "1572345991": {
+            "w17.hitbox.com": "INACTIVE"
+        },
+        "1572345992": {
+            "w18.am15.net": "INACTIVE"
+        },
+        "1572345998": {
+            "w18.hitbox.com": "INACTIVE"
+        },
+        "1572345999": {
+            "w19.am15.net": "INACTIVE"
+        },
+        "1572346005": {
+            "w19.hitbox.com": "INACTIVE"
+        },
+        "1572346012": {
+            "w1.hitbox.com": "INACTIVE"
+        },
+        "1572346013": {
+            "w1.iyi.net": "INACTIVE",
+            "w1.tcr112.tynt.com": "INACTIVE"
+        },
+        "1572346014": {
+            "w20.am15.net": "INACTIVE"
+        },
+        "1572346020": {
+            "w20.hitbox.com": "INACTIVE"
+        },
+        "1572346021": {
+            "w21.am15.net": "INACTIVE"
+        },
+        "1572346028": {
+            "w21.hitbox.com": "INACTIVE",
+            "w22.am15.net": "INACTIVE"
+        },
+        "1572346035": {
+            "w22.hitbox.com": "INACTIVE",
+            "w23.am15.net": "INACTIVE"
+        },
+        "1572346042": {
+            "w23.hitbox.com": "INACTIVE",
+            "w24.am15.net": "INACTIVE"
+        },
+        "1572346049": {
+            "w24.hitbox.com": "INACTIVE",
+            "w25.am15.net": "INACTIVE"
+        },
+        "1572346056": {
+            "w25.hitbox.com": "INACTIVE",
+            "w26.am15.net": "INACTIVE"
+        },
+        "1572346063": {
+            "w26.hitbox.com": "INACTIVE",
+            "w27.am15.net": "INACTIVE"
+        },
+        "1572346070": {
+            "w27.hitbox.com": "INACTIVE",
+            "w28.am15.net": "INACTIVE"
+        },
+        "1572346077": {
+            "w28.hitbox.com": "INACTIVE",
+            "w29.am15.net": "INACTIVE"
+        },
+        "1572346084": {
+            "w29.hitbox.com": "INACTIVE"
+        },
+        "1572346085": {
+            "w2.extreme-dm.com": "INACTIVE"
+        },
+        "1572346091": {
+            "w2.hitbox.com": "INACTIVE"
+        },
+        "1572346092": {
+            "w30.am15.net": "INACTIVE"
+        },
+        "1572346098": {
+            "w30.hitbox.com": "INACTIVE"
+        },
+        "1572346099": {
+            "w31.am15.net": "INACTIVE"
+        },
+        "1572346105": {
+            "w31.hitbox.com": "INACTIVE"
+        },
+        "1572346106": {
+            "w32.am15.net": "INACTIVE"
+        },
+        "1572346112": {
+            "w32.hitbox.com": "INACTIVE"
+        },
+        "1572346113": {
+            "w33.am15.net": "INACTIVE"
+        },
+        "1572346119": {
+            "w33.hitbox.com": "INACTIVE"
+        },
+        "1572346120": {
+            "w34.am15.net": "INACTIVE",
+            "w34.hitbox.com": "INACTIVE"
+        },
+        "1572346121": {
+            "w35.am15.net": "INACTIVE",
+            "w35.hitbox.com": "INACTIVE"
+        },
+        "1572346122": {
+            "w36.am15.net": "INACTIVE"
+        },
+        "1572346128": {
+            "w36.hitbox.com": "INACTIVE"
+        },
+        "1572346129": {
+            "w37.am15.net": "INACTIVE"
+        },
+        "1572346130": {
+            "w38.am15.net": "INACTIVE"
+        },
+        "1572346131": {
+            "w3.am15.net": "INACTIVE",
+            "w39.am15.net": "INACTIVE"
+        },
+        "1572346132": {
+            "w3.extreme-dm.com": "INACTIVE"
+        },
+        "1572346139": {
+            "w3.hitbox.com": "INACTIVE"
+        },
+        "1572346140": {
+            "w40.am15.net": "INACTIVE"
+        },
+        "1572346141": {
+            "w41.am15.net": "INACTIVE"
+        },
+        "1572346142": {
+            "w42.am15.net": "INACTIVE"
+        },
+        "1572346143": {
+            "w43.am15.net": "INACTIVE",
+            "w44.am15.net": "INACTIVE"
+        },
+        "1572346144": {
+            "w45.am15.net": "INACTIVE"
+        },
+        "1572346145": {
+            "w46.am15.net": "INACTIVE"
+        },
+        "1572346146": {
+            "w47.am15.net": "INACTIVE",
+            "w48.am15.net": "INACTIVE"
+        },
+        "1572346147": {
+            "w49.am15.net": "INACTIVE"
+        },
+        "1572346148": {
+            "w4.am15.net": "INACTIVE",
+            "w4.extreme-dm.com": "INACTIVE"
+        },
+        "1572346155": {
+            "w4.hitbox.com": "INACTIVE",
+            "w50.am15.net": "INACTIVE"
+        },
+        "1572346156": {
+            "w51.am15.net": "INACTIVE"
+        },
+        "1572346157": {
+            "w52.am15.net": "INACTIVE"
+        },
+        "1572346158": {
+            "w53.am15.net": "INACTIVE",
+            "w54.am15.net": "INACTIVE"
+        },
+        "1572346159": {
+            "w55.am15.net": "INACTIVE"
+        },
+        "1572346160": {
+            "w56.am15.net": "INACTIVE"
+        },
+        "1572346161": {
+            "w57.am15.net": "INACTIVE"
+        },
+        "1572346162": {
+            "w58.am15.net": "INACTIVE",
+            "w59.am15.net": "INACTIVE"
+        },
+        "1572346163": {
+            "w5.am15.net": "INACTIVE",
+            "w5.extreme-dm.com": "INACTIVE"
+        },
+        "1572346170": {
+            "w5.hitbox.com": "INACTIVE",
+            "w60.am15.net": "INACTIVE"
+        },
+        "1572346171": {
+            "w61.am15.net": "INACTIVE"
+        },
+        "1572346172": {
+            "w62.am15.net": "INACTIVE"
+        },
+        "1572346173": {
+            "w63.am15.net": "INACTIVE"
+        },
+        "1572346174": {
+            "w64.am15.net": "INACTIVE",
+            "w65.am15.net": "INACTIVE"
+        },
+        "1572346175": {
+            "w66.am15.net": "INACTIVE"
+        },
+        "1572346176": {
+            "w67.am15.net": "INACTIVE"
+        },
+        "1572346177": {
+            "w68.am15.net": "INACTIVE",
+            "w69.am15.net": "INACTIVE"
+        },
+        "1572346178": {
+            "w6.am15.net": "INACTIVE"
+        },
+        "1572346179": {
+            "w6.extreme-dm.com": "INACTIVE"
+        },
+        "1572346185": {
+            "w6.hitbox.com": "INACTIVE"
+        },
+        "1572346186": {
+            "w70.am15.net": "INACTIVE",
+            "w71.am15.net": "INACTIVE"
+        },
+        "1572346187": {
+            "w72.am15.net": "INACTIVE"
+        },
+        "1572346188": {
+            "w73.am15.net": "INACTIVE"
+        },
+        "1572346189": {
+            "w74.am15.net": "INACTIVE",
+            "w75.am15.net": "INACTIVE"
+        },
+        "1572346190": {
+            "w76.am15.net": "INACTIVE"
+        },
+        "1572346191": {
+            "w77.am15.net": "INACTIVE"
+        },
+        "1572346192": {
+            "w78.am15.net": "INACTIVE",
+            "w79.am15.net": "INACTIVE"
+        },
+        "1572346193": {
+            "w7.am15.net": "INACTIVE"
+        },
+        "1572346194": {
+            "w7.extreme-dm.com": "INACTIVE"
+        },
+        "1572346200": {
+            "w7.hitbox.com": "INACTIVE"
+        },
+        "1572346201": {
+            "w80.am15.net": "INACTIVE",
+            "w81.am15.net": "INACTIVE"
+        },
+        "1572346202": {
+            "w82.am15.net": "INACTIVE"
+        },
+        "1572346203": {
+            "w83.am15.net": "INACTIVE"
+        },
+        "1572346204": {
+            "w84.am15.net": "INACTIVE",
+            "w85.am15.net": "INACTIVE"
+        },
+        "1572346205": {
+            "w86.am15.net": "INACTIVE"
+        },
+        "1572346206": {
+            "w87.am15.net": "INACTIVE"
+        },
+        "1572346207": {
+            "w88.am15.net": "INACTIVE"
+        },
+        "1572346208": {
+            "w8.am15.net": "INACTIVE",
+            "w89.am15.net": "INACTIVE"
+        },
+        "1572346209": {
+            "w8.extreme-dm.com": "INACTIVE"
+        },
+        "1572346215": {
+            "w8.hitbox.com": "INACTIVE"
+        },
+        "1572346216": {
+            "w90.am15.net": "INACTIVE",
+            "w91.am15.net": "INACTIVE"
+        },
+        "1572346217": {
+            "w92.am15.net": "INACTIVE"
+        },
+        "1572346218": {
+            "w93.am15.net": "INACTIVE"
+        },
+        "1572346219": {
+            "w94.am15.net": "INACTIVE"
+        },
+        "1572346220": {
+            "w95.am15.net": "INACTIVE",
+            "w96.am15.net": "INACTIVE"
+        },
+        "1572346221": {
+            "w97.am15.net": "INACTIVE"
+        },
+        "1572346222": {
+            "w98.am15.net": "INACTIVE"
+        },
+        "1572346223": {
+            "w9.am15.net": "INACTIVE",
+            "w99.am15.net": "INACTIVE"
+        },
+        "1572346224": {
+            "w9.extreme-dm.com": "INACTIVE"
+        },
+        "1572346230": {
+            "w9.hitbox.com": "INACTIVE",
+            "wa.5.p2l.info": "INACTIVE"
+        },
+        "1572346231": {
+            "w.admob.com": "INACTIVE",
+            "wac.2ddcc.alphacdn.net": "INACTIVE"
+        },
+        "1572346239": {
+            "walp.atm.youku.com": "INACTIVE",
+            "walternse.com": "INACTIVE"
+        },
+        "1572346241": {
+            "wap.casee.cn": "INACTIVE"
+        },
+        "1572346242": {
+            "warda.oewabox.at": "INACTIVE",
+            "warning-message.com": "INACTIVE"
+        },
+        "1572346243": {
+            "warp2search.us.intellitxt.com": "INACTIVE"
+        },
+        "1572346245": {
+            "w.bigames.online": "INACTIVE",
+            "wd.adcolony.com": "INACTIVE"
+        },
+        "1572346246": {
+            "web1.realtracker.com": "INACTIVE"
+        },
+        "1572346247": {
+            "web2.realtracker.com": "INACTIVE",
+            "web3.realtracker.com": "INACTIVE"
+        },
+        "1572346249": {
+            "webanalytics.globalthoughtz.com": "INACTIVE"
+        },
+        "1572346250": {
+            "webbug.seatreport.com": "INACTIVE"
+        },
+        "1572346252": {
+            "web-ccfr.tsinghua.edu.cn": "INACTIVE"
+        },
+        "1572346253": {
+            "web-counter.5u.com": "INACTIVE"
+        },
+        "1572346260": {
+            "webcounter.together.net": "INACTIVE"
+        },
+        "1572346266": {
+            "webhit.aftenposten.no": "INACTIVE",
+            "webhit.afterposten.no": "INACTIVE"
+        },
+        "1572346273": {
+            "web-hosting.hitslog.net": "INACTIVE"
+        },
+        "1572346280": {
+            "webload101.hitbox.com": "INACTIVE"
+        },
+        "1572346281": {
+            "weblogger.visilabs.com": "INACTIVE",
+            "weblover.info": "INACTIVE"
+        },
+        "1572346282": {
+            "webmasterkai.sitetracker.com": "INACTIVE",
+            "webmdcom.tt.omtrdc.net": "INACTIVE",
+            "webnavegador.com": "INACTIVE"
+        },
+        "1572346283": {
+            "webnavegador.com.br": "INACTIVE",
+            "webnetra.entelnet.bo": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
