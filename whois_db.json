@@ -5930,9 +5930,9 @@
         "state": "future"
     },
     "mycamptrack.com": {
-        "epoch": "1572480000",
+        "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "mycashback.co.uk": {
         "epoch": "1581897600",
