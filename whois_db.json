@@ -6085,9 +6085,9 @@
         "state": "future"
     },
     "nbriskerry.com": {
-        "epoch": "1572480000",
+        "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "nctracking.com": {
         "epoch": "1576713600",
@@ -6185,9 +6185,9 @@
         "state": "future"
     },
     "nextlnk2.com": {
-        "epoch": "1572480000",
+        "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "nextoptim.com": {
         "epoch": "1573344000",
