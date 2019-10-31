@@ -2550,9 +2550,9 @@
         "state": "future"
     },
     "codeotel.com": {
-        "epoch": "1572480000",
+        "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "coderexception.com": {
         "epoch": 1598745600,
@@ -2590,9 +2590,9 @@
         "state": "future"
     },
     "coinhits.com": {
-        "epoch": "1572480000",
+        "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "coinhive.com": {
         "epoch": "1575158400",
