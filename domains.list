@@ -4,6 +4,7 @@ broadcasthost
 localhost
 local
 ip6-localhost
+ip6-loopback
 ip6-localnet
 ip6-mcastprefix
 ip6-allnodes
@@ -708,6 +709,7 @@ e-2dj6wjnyqkajabp.stats.esomniture.com
 easy-web-stats.com
 ecestats.theglobeandmail.com
 economisttestcollect.insightfirst.com
+e.crashlytics.com
 eds.ca.matchbox.maruhub.com
 educing.info
 ehg.fedex.com
@@ -734,8 +736,10 @@ fastwebcounter.com
 fcstats.bcentral.com
 fdbdo.com
 filezilla.fr
+firebaselogging.googleapis.com
 fi.sitestat.com
 fl01.ct2.comclick.com
+flury-ycpi.gycpi.b.yahoodns.net
 flycast.com
 forbescollect.247realmedia.com
 formalyzer.com
@@ -797,6 +801,7 @@ hud8mxdt.computerhelpmirror.top
 iccee.com
 ic.tynt.com
 idm.hit.gemius.pl
+id.sputniknews.com
 ieplugin.com
 iesnare.com
 iesnare.co.uk
@@ -988,7 +993,9 @@ mktg.actonsoftware.com
 mktrkr.com
 mmstat.com
 mng1.clickalyzer.com
+mobile.webvisor.com
 monetizer.com-01.site
+mononoteapp.firebaseio.com
 monster.gostats.com
 mpsnare.iesnare.com
 mpsnare.iesnare.co.uk
@@ -1022,6 +1029,7 @@ okcounter.com
 omniture.theglobeandmail.com
 omtrdc.net
 one.123counters.com
+onesignal.com
 open.oneplus.net
 oss-crules.marketscore.com
 oss-survey.marketscore.com
@@ -1062,6 +1070,7 @@ pong.qubitproducts.com
 postclick.adcentriconline.com
 postgazettecollect.247realmedia.com
 postmedia.us.janrainsso.com
+post.update.fbsbx.com
 precisioncounter.com
 p.reuters.com
 printmail.biz
@@ -1085,6 +1094,7 @@ raw.oggifinogi.com
 r.clickdensity.com
 redshell.io
 remotrk.com
+reports.crashlytics.com
 rightmedia.net
 rightstats.com
 rm-admin-demo.iovation.com
@@ -1247,6 +1257,8 @@ ss.tiscali.com
 ss.tiscali.it
 st1.hit.gemius.pl
 stags.peer39.net
+startup.mobile.webvisor.com
+startup.mobile.yandex.net
 stast2.gq.com
 stat1.z-stat.com
 stat3.cybermonitor.com
@@ -1283,6 +1295,7 @@ stats5.lightningcast.com
 stats6.lightningcast.net
 stats.absol.co.za
 stats.adbrite.com
+stats.adlice.com
 stats.adotube.com
 stats.adultswim.com
 stats.airfarewatchdog.com
@@ -1369,6 +1382,7 @@ stl.p.a1.traceworks.com
 straighttangerine.cz.cc
 st.sageanalyst.net
 sugoicounter.com
+s.update.fbsbx.com
 superstats.com
 sync.bfmio.com
 sync.clickonometrics.pl
@@ -1695,6 +1709,7 @@ t.senaluno.com
 t.signaletre.com
 t.signauxdeux.com
 tu.connect.wunderloop.net
+t.update.fbsbx.com
 t.yesware.com
 tynt.com
 u1817.16.spylog.com
@@ -1725,6 +1740,7 @@ ultimatecounter.com
 us.2.cqcounter.com
 usa.nedstat.net
 us.cqcounter.com
+u.startup.mobile.webvisor.com
 v1.nedstatbasic.net
 v7.stats.load.com
 v8.analytics.pinsightmedia.com
@@ -1813,6 +1829,7 @@ www.belstat.nl
 www.betcounter.com
 www.bigbadted.com
 www.bluestreak.com
+www.buglife.com
 www.c1.thecounter.de
 www.c2.thecounter.de
 www.cig-arrete.com
@@ -4231,7 +4248,9 @@ zfm.oewabox.at
 9cd76b4462bb.com
 9chrm100218dd.ru
 a01.gestionpub.com
+a.04ee395e5b8a076c7bd8592851ff8cad.com
 a.0day.kiev.ua
+a.0e4b0abb1f69821da471689f323e049b.com
 a1.greenadworks.net
 a1.interclick.com
 a.1nimo.com
@@ -4245,6 +4264,7 @@ a5.websponsors.com
 a7cleaner.com
 a98spolicies.com
 aa.agkn.com
+a.ab90be9135de1428ae387956ebd06722.com
 a.adexchangemachine.com
 a.admaxserver.com
 a.admob.com
@@ -5066,6 +5086,7 @@ ads3.realcities.com
 ads3.udc.advance.net
 ads3.virtumundo.com
 ads3.zdnet.com
+ads4.ad-center.com
 ads4.ad-flow.com
 ads4.advance.net
 ads4.advertwizard.com
@@ -6176,6 +6197,7 @@ ads.scifi.com
 ads.scorecardresearch.com
 ads.scott-sports.com
 ads.scottusa.com
+ads-script.ad-center.com
 ads.seattletimes.com
 ads.seriouswheels.com
 ads.servebom.com
@@ -7257,6 +7279,7 @@ cd8iw9mh.cricket
 c.de.msn.com
 c.dk.msn.com
 cdm.unnoticeablegangrene.com
+cdn1.ad-center.com
 cdn1.adexprt.com
 cdn1.ads.contentabc.com
 cdn1.ads.mofos.com
@@ -7266,6 +7289,7 @@ cdn1sitescout.edgesuite.net
 cdn1.smartadserver.com
 cdn1.traffichaus.com
 cdn1.xlightmedia.com
+cdn2.ad-center.com
 cdn2.adsdk.com
 cdn2.amateurmatch.com
 cdn2.emediate.eu
@@ -7852,6 +7876,7 @@ dnads.directnic.com
 dnps.com
 dnse.linkpulse.com
 dobbenetes.com
+docaz.net
 dock.inmobi.com
 doesok.top
 dolohen.com
@@ -7987,6 +8012,7 @@ errorfixing.space
 errorfixing.tech
 es.adserver.yahoo.com
 escape.insites.eu
+e.serverbid.com
 espn.footprint.net
 etad.telegraph.co.uk
 etahub.com
@@ -8344,6 +8370,7 @@ gmads.net
 gm.mmstat.com
 gm.preferences.com
 go2.hit.gemius.pl
+goa.camimbu.com
 go.adee.bbelements.com
 go.adlt.bbelements.com
 go.adlv.bbelements.com
@@ -8500,6 +8527,7 @@ hit4.hotlog.ru
 hit.8digits.com
 hk.adserver.yahoo.com
 hlcc.ca
+hlok.qertewrt.com
 hlu9tseh.men
 hm.baidu.com
 hm.l.qq.com
@@ -9010,7 +9038,17 @@ log.pladform.ru
 logs.spilgames.com
 log.tagcade.com
 l.ohmyad.co
+look.djfiln.com
+look.fjfiln.com
+look.ichlnk.com
+look.kfiopkln.com
+look.kfioplkn.com
+look.opskln.com
 looksmartcollect.247realmedia.com
+look.udncoeln.com
+look.ufinkln.com
+look.utndln.com
+look.utnldn.com
 louisvil.app.ur.gcion.com
 louisvil.ur.gcion.com
 lp1.linkpulse.com
@@ -9493,6 +9531,7 @@ nowcheck.seethisamazinguogradeswinmacawesome.win
 nowinstallupgrade.clickforultimateandbest2updatingpc.top
 nowruzbakher.com
 nowtestpc.updatenewfresh4u.top
+npmpecd.com
 nqm.blackcurranthumidifiers.site
 nrads.1host.co.il
 nrkno.linkpulse.com
@@ -9729,6 +9768,7 @@ partner.wapster.pl
 partnerwebsites.mistermedia.nl
 pathforpoints.com
 paulsnetwork.com
+payae8moon9.com
 pbid.pro-market.net
 pb.tynt.com
 pcads.ru
@@ -9818,6 +9858,7 @@ pixel-secure.solvemedia.com
 pixel.sitescout.com
 pixel.watch
 pix.revsci.net
+piz7ohhujogi.com
 pl.ads.justpremium.com
 plasmatv4free.com
 plasmatvreward.com
@@ -9847,6 +9888,8 @@ pm.w55c.net
 p.nexac.com
 pntm.adbureau.net
 pntm-images.adbureau.net
+pocofh.com
+pohs2oom.com
 poland.gift-today85.online
 pol.bbelements.com
 pole.6rooms.com
@@ -9995,6 +10038,7 @@ proximityads.flipcorp.com
 proxy.blogads.com
 prpops.com
 pr.ydp.yahoo.com
+ps4ux.com
 ps.eyeota.net
 pstatic.datafastguru.info
 ps-us.amazon-adsystem.com
@@ -10037,11 +10081,14 @@ push-ad.com
 pushno.com
 push-notification.tools
 pussl22.com
+pwdplz.com
+pwwysydh.com
 px10.net
 px.moatads.com
 q.admob.com
 q.azcentral.com
 q.b.h.cltomedia.info
+qd.admetricspro.com
 qfdn3gyfbs.com
 qip.magna.ru
 qitrck.com
@@ -10152,6 +10199,7 @@ rencontreavenue.com
 report02.adtech.de
 report02.adtech.fr
 report02.adtech.us
+report.admetricspro.com
 reporter001.adtech.de
 reporter001.adtech.fr
 reporter001.adtech.us
@@ -11592,6 +11640,7 @@ www.adblockanalytics.com
 www.adbrite.com
 www.adcanadian.com
 www.adcash.com
+www.ad-center.com
 www.addthiscdn.com
 www.addthis.com
 www.adengage.com
@@ -12644,6 +12693,7 @@ z-na.amazon-adsystem.com
 zrh.bewilderinglyalbumin.com
 zrrat.31772.club
 zu1.november-lax.com
+zulu.r867qq.net
 zuzzer5.com
 zytpirwai.net
 zzzrtrcm2.com
