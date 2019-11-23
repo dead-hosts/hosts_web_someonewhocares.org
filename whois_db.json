@@ -725,7 +725,7 @@
         "state": "future"
     },
     "adnexus.net": {
-        "epoch": "1588550400",
+        "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
         "state": "future"
     },
@@ -9300,12 +9300,12 @@
         "state": "future"
     },
     "x-hydrocodone.info": {
-        "epoch": 1593475200,
+        "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "x-phentermine.info": {
-        "epoch": 1600819200,
+        "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
         "state": "future"
     },
