@@ -7397,7 +7397,7 @@
     "sanalreklam.com": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "savings-time.com": {
         "epoch": 1582588800.0,
@@ -7435,8 +7435,8 @@
         "state": "future"
     },
     "screen-mates.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "scribus.fr": {
@@ -7725,8 +7725,8 @@
         "state": "future"
     },
     "slowmac.tech": {
-        "epoch": "1573776000",
-        "expiration_date": "15-nov-2019",
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "slowmacfaster.trade": {
