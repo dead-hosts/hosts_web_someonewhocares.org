@@ -6192,7 +6192,7 @@
     "newsprofin.com": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "newssourceoftoday.com": {
         "epoch": 1606435200.0,
@@ -6470,8 +6470,8 @@
         "state": "future"
     },
     "openload.info": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1582070400.0,
+        "expiration_date": "19-feb-2020",
         "state": "future"
     },
     "openoverflow.com": {
