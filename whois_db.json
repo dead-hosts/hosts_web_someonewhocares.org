@@ -3059,6 +3059,11 @@
         "expiration_date": "21-dec-2019",
         "state": "future"
     },
+    "dinamikus.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
+    },
     "directleads.com": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
@@ -3080,8 +3085,8 @@
         "state": "future"
     },
     "disqusads.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
         "state": "future"
     },
     "dizzcloud.com": {
@@ -3092,7 +3097,7 @@
     "djugoogs.com": {
         "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "dkspqpprnsmmte.com": {
         "epoch": "1570147200",
@@ -3370,9 +3375,9 @@
         "state": "future"
     },
     "extremblog.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
-        "state": "past"
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
     },
     "extreme-dm.com": {
         "epoch": 1603929600.0,
