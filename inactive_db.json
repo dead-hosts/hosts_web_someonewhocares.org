@@ -3,70 +3,8 @@
         "1573162331": {
             "secret.ɢoogle.com": "INACTIVE"
         },
-        "1578763720": {
-            "w177.hitbox.com": "INACTIVE",
-            "w179.hitbox.com": "INACTIVE",
-            "w34.hitbox.com": "INACTIVE",
-            "w35.hitbox.com": "INACTIVE",
-            "wss-gw-1.hitbox.com": "INACTIVE",
-            "wss-gw-3.hitbox.com": "INACTIVE"
-        },
-        "1578763721": {
-            "oacentral.cepro.com": "INACTIVE",
-            "w2.extreme-dm.com": "INACTIVE",
-            "w3.extreme-dm.com": "INACTIVE",
-            "w4.extreme-dm.com": "INACTIVE",
-            "w5.extreme-dm.com": "INACTIVE",
-            "w6.extreme-dm.com": "INACTIVE",
-            "w7.extreme-dm.com": "INACTIVE",
-            "w8.extreme-dm.com": "INACTIVE",
-            "w9.extreme-dm.com": "INACTIVE",
-            "wwb.hitbox.com": "INACTIVE",
-            "www.ehg-rr.hitbox.com": "INACTIVE",
-            "www.hitboxwireless.com": "INACTIVE",
-            "y2k.hitbox.com": "INACTIVE"
-        },
-        "1578763722": {
-            "oascentral.adageglobal.com": "INACTIVE",
-            "oascentral.alanicnewsnet.ca": "INACTIVE",
-            "oascentral.alanticnewsnet.ca": "INACTIVE",
-            "oascentral.americanheritage.com": "INACTIVE",
-            "oascentral.artistdirect.com": "INACTIVE",
-            "oascentral.artistirect.com": "INACTIVE",
-            "oascentral.aviationnow.com": "INACTIVE",
-            "oascentral.blogher.org": "INACTIVE",
-            "oascentral.bostonherald.com": "INACTIVE",
-            "oascentral.businessinsider.com": "INACTIVE",
-            "oascentral.canadaeast.com": "INACTIVE",
-            "oascentral.covers.com": "INACTIVE",
-            "oascentral.crimelibrary.com": "INACTIVE",
-            "oascentral.dailyherald.com": "INACTIVE",
-            "oascentral.dilbert.com": "INACTIVE"
-        },
-        "1578763723": {
-            "oas-central.east.realmedia.com": "INACTIVE",
-            "oascentral.encyclopedia.com": "INACTIVE",
-            "oascentral.fayettevillenc.com": "INACTIVE",
-            "oascentral.foxnews.com": "INACTIVE",
-            "oascentral.g4techtv.com": "INACTIVE",
-            "oascentral.ggl.com": "INACTIVE",
-            "oascentral.globalpost.com": "INACTIVE",
-            "oascentral.hamptonroads.com": "INACTIVE",
-            "oascentral.hamptoroads.com": "INACTIVE",
-            "oascentral.hamtoroads.com": "INACTIVE"
-        },
-        "1578765269": {
-            "oascentral.investors.com": "INACTIVE",
-            "oascentral.killsometime.com": "INACTIVE"
-        },
         "1578765270": {
             "oas-central.realmedia.com": "INACTIVE",
-            "oascentral.metro.us": "INACTIVE",
-            "oascentral.mochila.com": "INACTIVE",
-            "oascentral.motherjones.com": "INACTIVE",
-            "oascentral.nerve.com": "INACTIVE",
-            "oascentral.nowtoronto.com": "INACTIVE",
-            "oascentral.pitch.com": "INACTIVE",
             "oascentral.princetonreview.com": "INACTIVE",
             "oascentral.publicradio.org": "INACTIVE",
             "oascentral.radaronline.com": "INACTIVE",
@@ -6377,8 +6315,7 @@
             "ehg.commjun.hitbox.com": "INACTIVE"
         },
         "1578932096": {
-            "ehg-gatehoussmedia.hitbox.com": "INACTIVE",
-            "secret.xn--oogle-wmc.com": "INACTIVE"
+            "ehg-gatehoussmedia.hitbox.com": "INACTIVE"
         },
         "1578932097": {
             "ehg-newarkinone.hitbox.com.hitbox.com": "INACTIVE",
@@ -6426,6 +6363,69 @@
             "switch.hitbox.com": "INACTIVE",
             "vwr2.hitbox.com": "INACTIVE",
             "vwr3.hitbox.com": "INACTIVE"
+        },
+        "1578933263": {
+            "secret.xn--oogle-wmc.com": "INACTIVE",
+            "w177.hitbox.com": "INACTIVE"
+        },
+        "1578933264": {
+            "w179.hitbox.com": "INACTIVE",
+            "w2.extreme-dm.com": "INACTIVE",
+            "w3.extreme-dm.com": "INACTIVE",
+            "w34.hitbox.com": "INACTIVE",
+            "w35.hitbox.com": "INACTIVE",
+            "w4.extreme-dm.com": "INACTIVE",
+            "wss-gw-1.hitbox.com": "INACTIVE",
+            "wss-gw-3.hitbox.com": "INACTIVE",
+            "wwb.hitbox.com": "INACTIVE",
+            "www.ehg-rr.hitbox.com": "INACTIVE",
+            "www.hitboxwireless.com": "INACTIVE",
+            "y2k.hitbox.com": "INACTIVE"
+        },
+        "1578933265": {
+            "oacentral.cepro.com": "INACTIVE",
+            "oascentral.adageglobal.com": "INACTIVE",
+            "oascentral.alanicnewsnet.ca": "INACTIVE",
+            "oascentral.alanticnewsnet.ca": "INACTIVE",
+            "oascentral.americanheritage.com": "INACTIVE",
+            "oascentral.artistdirect.com": "INACTIVE",
+            "oascentral.artistirect.com": "INACTIVE",
+            "oascentral.aviationnow.com": "INACTIVE",
+            "oascentral.blogher.org": "INACTIVE",
+            "oascentral.bostonherald.com": "INACTIVE",
+            "oascentral.businessinsider.com": "INACTIVE",
+            "w5.extreme-dm.com": "INACTIVE",
+            "w6.extreme-dm.com": "INACTIVE",
+            "w7.extreme-dm.com": "INACTIVE",
+            "w8.extreme-dm.com": "INACTIVE",
+            "w9.extreme-dm.com": "INACTIVE"
+        },
+        "1578933266": {
+            "oas-central.east.realmedia.com": "INACTIVE",
+            "oascentral.canadaeast.com": "INACTIVE",
+            "oascentral.covers.com": "INACTIVE",
+            "oascentral.crimelibrary.com": "INACTIVE",
+            "oascentral.dailyherald.com": "INACTIVE",
+            "oascentral.dilbert.com": "INACTIVE",
+            "oascentral.encyclopedia.com": "INACTIVE",
+            "oascentral.fayettevillenc.com": "INACTIVE",
+            "oascentral.foxnews.com": "INACTIVE",
+            "oascentral.g4techtv.com": "INACTIVE",
+            "oascentral.ggl.com": "INACTIVE",
+            "oascentral.globalpost.com": "INACTIVE",
+            "oascentral.hamptonroads.com": "INACTIVE",
+            "oascentral.hamptoroads.com": "INACTIVE",
+            "oascentral.hamtoroads.com": "INACTIVE",
+            "oascentral.investors.com": "INACTIVE"
+        },
+        "1578933267": {
+            "oascentral.killsometime.com": "INACTIVE",
+            "oascentral.metro.us": "INACTIVE",
+            "oascentral.mochila.com": "INACTIVE",
+            "oascentral.motherjones.com": "INACTIVE",
+            "oascentral.nerve.com": "INACTIVE",
+            "oascentral.nowtoronto.com": "INACTIVE",
+            "oascentral.pitch.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
