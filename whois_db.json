@@ -4742,7 +4742,7 @@
     "installmac.com": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "intela.com": {
         "epoch": 1658880000.0,
@@ -6305,8 +6305,8 @@
         "state": "future"
     },
     "notepad2.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "nothing-but-value.com": {
