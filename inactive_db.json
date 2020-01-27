@@ -6282,12 +6282,6 @@
         "1579560535": {
             "secret.xn--oogle-wmc.com": "INACTIVE"
         },
-        "1580052217": {
-            "fcstats.bcentral.com": "INACTIVE"
-        },
-        "1580052218": {
-            "fi.sitestat.com": "INACTIVE"
-        },
         "1580059946": {
             "123counter.superstats.com": "INACTIVE"
         },
@@ -6476,6 +6470,10 @@
             "fastcounter.linkexchange.com": "INACTIVE",
             "fastcounter.linkexchange.nl": "INACTIVE",
             "fastcounter.onlinehoster.net": "INACTIVE"
+        },
+        "1580144551": {
+            "fcstats.bcentral.com": "INACTIVE",
+            "fi.sitestat.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
