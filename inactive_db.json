@@ -6044,13 +6044,6 @@
         },
         "1580214736": {
             "s1.thecounter.com": "INACTIVE",
-            "s13.sitemeter.com": "INACTIVE",
-            "s14.sitemeter.com": "INACTIVE",
-            "s15.sitemeter.com": "INACTIVE",
-            "s16.sitemeter.com": "INACTIVE",
-            "s17.sitemeter.com": "INACTIVE",
-            "s18.sitemeter.com": "INACTIVE",
-            "s19.sitemeter.com": "INACTIVE",
             "s2.youtube.com": "INACTIVE",
             "s20.sitemeter.com": "INACTIVE",
             "s21.sitemeter.com": "INACTIVE",
@@ -6500,6 +6493,17 @@
             "s10.sitemeter.com": "INACTIVE",
             "s11.sitemeter.com": "INACTIVE",
             "s12.sitemeter.com": "INACTIVE"
+        },
+        "1580328551": {
+            "s13.sitemeter.com": "INACTIVE",
+            "s14.sitemeter.com": "INACTIVE"
+        },
+        "1580328552": {
+            "s15.sitemeter.com": "INACTIVE",
+            "s16.sitemeter.com": "INACTIVE",
+            "s17.sitemeter.com": "INACTIVE",
+            "s18.sitemeter.com": "INACTIVE",
+            "s19.sitemeter.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
