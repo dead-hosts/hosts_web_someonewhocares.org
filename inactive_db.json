@@ -6044,14 +6044,6 @@
         },
         "1580214735": {
             "p.twitter.com": "INACTIVE",
-            "proxy.ia2.marketscore.com": "INACTIVE",
-            "proxy.ia3.marketscore.com": "INACTIVE",
-            "proxy.ia4.marketscore.com": "INACTIVE",
-            "proxy.or3.marketscore.com": "INACTIVE",
-            "proxy.or4.marketscore.com": "INACTIVE",
-            "proxy.sj3.marketscore.com": "INACTIVE",
-            "proxy.sj4.marketscore.com": "INACTIVE",
-            "proxycfg.marketscore.com": "INACTIVE",
             "quareclk.com": "INACTIVE",
             "raw.oggifinogi.com": "INACTIVE",
             "remotrk.com": "INACTIVE",
@@ -6165,10 +6157,6 @@
             "ss.tiscali.com": "INACTIVE",
             "stast2.gq.com": "INACTIVE",
             "stat3.cybermonitor.com": "INACTIVE"
-        },
-        "1580218388": {
-            "oralse.ca": "INACTIVE",
-            "www.oralse.ca": "INACTIVE"
         },
         "1580222158": {
             "count.xhit.com": "INACTIVE",
@@ -6494,6 +6482,20 @@
             "counter.times.lv": "INACTIVE",
             "counters.gigya.com": "INACTIVE",
             "counters.xaraonline.com": "INACTIVE"
+        },
+        "1580308801": {
+            "oralse.ca": "INACTIVE",
+            "www.oralse.ca": "INACTIVE"
+        },
+        "1580308806": {
+            "proxy.ia2.marketscore.com": "INACTIVE",
+            "proxy.ia3.marketscore.com": "INACTIVE",
+            "proxy.ia4.marketscore.com": "INACTIVE",
+            "proxy.or3.marketscore.com": "INACTIVE",
+            "proxy.or4.marketscore.com": "INACTIVE",
+            "proxy.sj3.marketscore.com": "INACTIVE",
+            "proxy.sj4.marketscore.com": "INACTIVE",
+            "proxycfg.marketscore.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
