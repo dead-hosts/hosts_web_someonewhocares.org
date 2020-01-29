@@ -6180,10 +6180,6 @@
             "stats5.lightningcast.com": "INACTIVE",
             "stats6.lightningcast.net": "INACTIVE"
         },
-        "1580233622": {
-            "fcstats.bcentral.com": "INACTIVE",
-            "fi.sitestat.com": "INACTIVE"
-        },
         "1580233624": {
             "stats.directnic.com": "INACTIVE",
             "stats.f-secure.com": "INACTIVE",
@@ -6498,6 +6494,10 @@
         "1580318142": {
             "fastcounter.linkexchange.nl": "INACTIVE",
             "fastcounter.onlinehoster.net": "INACTIVE"
+        },
+        "1580321654": {
+            "fcstats.bcentral.com": "INACTIVE",
+            "fi.sitestat.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
