@@ -6139,15 +6139,6 @@
             "stats.nowpublic.com": "INACTIVE"
         },
         "1580302456": {
-            "metric.thenation.com": "INACTIVE",
-            "metrics.mms.mavenapps.net": "INACTIVE",
-            "metrics.mpora.com": "INACTIVE",
-            "metrics.olivegarden.com": "INACTIVE",
-            "metrics.parallels.com": "INACTIVE",
-            "metrics.performancing.com": "INACTIVE",
-            "metrics.premiere.com": "INACTIVE",
-            "metrics.technologyreview.com": "INACTIVE",
-            "mobile.webvisor.com": "INACTIVE",
             "mpsnare.iesnare.co.uk": "INACTIVE"
         },
         "1580302457": {
@@ -6187,9 +6178,6 @@
             "proxy.sj3.marketscore.com": "INACTIVE",
             "proxy.sj4.marketscore.com": "INACTIVE",
             "proxycfg.marketscore.com": "INACTIVE"
-        },
-        "1580314630": {
-            "economisttestcollect.insightfirst.com": "INACTIVE"
         },
         "1580318141": {
             "educing.info": "INACTIVE",
@@ -6510,6 +6498,20 @@
             "ds.amateurmatch.com": "INACTIVE",
             "dv-fw-a-nat.iovation.com": "INACTIVE",
             "dwclick.com": "INACTIVE"
+        },
+        "1580402522": {
+            "economisttestcollect.insightfirst.com": "INACTIVE"
+        },
+        "1580402523": {
+            "metric.thenation.com": "INACTIVE",
+            "metrics.mms.mavenapps.net": "INACTIVE",
+            "metrics.mpora.com": "INACTIVE",
+            "metrics.olivegarden.com": "INACTIVE",
+            "metrics.parallels.com": "INACTIVE",
+            "metrics.performancing.com": "INACTIVE",
+            "metrics.premiere.com": "INACTIVE",
+            "metrics.technologyreview.com": "INACTIVE",
+            "mobile.webvisor.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
