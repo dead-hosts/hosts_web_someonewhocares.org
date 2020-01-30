@@ -6138,16 +6138,7 @@
             "stats.millanusa.com": "INACTIVE",
             "stats.nowpublic.com": "INACTIVE"
         },
-        "1580302456": {
-            "mpsnare.iesnare.co.uk": "INACTIVE"
-        },
         "1580302457": {
-            "mtv.247realmedia.com": "INACTIVE",
-            "multi1.rmuk.co.uk": "INACTIVE",
-            "mvs.mediavantage.de": "INACTIVE",
-            "mx.iesnare.com": "INACTIVE",
-            "mx.iovation.com": "INACTIVE",
-            "nedstat.s0.nl": "INACTIVE",
             "oss-crules.marketscore.com": "INACTIVE",
             "oss-survey.marketscore.com": "INACTIVE",
             "ostats.mozilla.com": "INACTIVE",
@@ -6178,10 +6169,6 @@
             "proxy.sj3.marketscore.com": "INACTIVE",
             "proxy.sj4.marketscore.com": "INACTIVE",
             "proxycfg.marketscore.com": "INACTIVE"
-        },
-        "1580321654": {
-            "fcstats.bcentral.com": "INACTIVE",
-            "fi.sitestat.com": "INACTIVE"
         },
         "1580324588": {
             "p.twitter.com": "INACTIVE",
@@ -6510,6 +6497,19 @@
             "fastcounter.linkexchange.com": "INACTIVE",
             "fastcounter.linkexchange.nl": "INACTIVE",
             "fastcounter.onlinehoster.net": "INACTIVE"
+        },
+        "1580410265": {
+            "fcstats.bcentral.com": "INACTIVE",
+            "fi.sitestat.com": "INACTIVE"
+        },
+        "1580410266": {
+            "mpsnare.iesnare.co.uk": "INACTIVE",
+            "mtv.247realmedia.com": "INACTIVE",
+            "multi1.rmuk.co.uk": "INACTIVE",
+            "mvs.mediavantage.de": "INACTIVE",
+            "mx.iesnare.com": "INACTIVE",
+            "mx.iovation.com": "INACTIVE",
+            "nedstat.s0.nl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
