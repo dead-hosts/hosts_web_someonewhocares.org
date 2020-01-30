@@ -6138,22 +6138,7 @@
             "stats.millanusa.com": "INACTIVE",
             "stats.nowpublic.com": "INACTIVE"
         },
-        "1580302458": {
-            "printmail.biz": "INACTIVE"
-        },
-        "1580308806": {
-            "proxy.ia2.marketscore.com": "INACTIVE",
-            "proxy.ia3.marketscore.com": "INACTIVE",
-            "proxy.ia4.marketscore.com": "INACTIVE",
-            "proxy.or3.marketscore.com": "INACTIVE",
-            "proxy.or4.marketscore.com": "INACTIVE",
-            "proxy.sj3.marketscore.com": "INACTIVE",
-            "proxy.sj4.marketscore.com": "INACTIVE",
-            "proxycfg.marketscore.com": "INACTIVE"
-        },
         "1580324588": {
-            "p.twitter.com": "INACTIVE",
-            "quareclk.com": "INACTIVE",
             "raw.oggifinogi.com": "INACTIVE",
             "remotrk.com": "INACTIVE",
             "rm-admin-demo.iovation.com": "INACTIVE",
@@ -6510,6 +6495,19 @@
             "pong.qubitproducts.com": "INACTIVE",
             "postclick.adcentriconline.com": "INACTIVE",
             "postgazettecollect.247realmedia.com": "INACTIVE"
+        },
+        "1580420751": {
+            "p.twitter.com": "INACTIVE",
+            "printmail.biz": "INACTIVE",
+            "proxy.ia2.marketscore.com": "INACTIVE",
+            "proxy.ia3.marketscore.com": "INACTIVE",
+            "proxy.ia4.marketscore.com": "INACTIVE",
+            "proxy.or3.marketscore.com": "INACTIVE",
+            "proxy.or4.marketscore.com": "INACTIVE",
+            "proxy.sj3.marketscore.com": "INACTIVE",
+            "proxy.sj4.marketscore.com": "INACTIVE",
+            "proxycfg.marketscore.com": "INACTIVE",
+            "quareclk.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
