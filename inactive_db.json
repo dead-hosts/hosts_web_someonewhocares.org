@@ -6261,14 +6261,6 @@
             "mx.iovation.com": "INACTIVE",
             "nedstat.s0.nl": "INACTIVE"
         },
-        "1580684668": {
-            "logc25.xiti.com": "INACTIVE"
-        },
-        "1580684669": {
-            "log.clickstream.co.za": "INACTIVE",
-            "log.hankooki.com": "INACTIVE",
-            "logs.comics.com": "INACTIVE"
-        },
         "1580692917": {
             "log.statistici.ro": "INACTIVE",
             "logv.xiti.com": "INACTIVE",
@@ -6511,6 +6503,12 @@
             "liapentruromania.ro": "INACTIVE",
             "log1.countomat.com": "INACTIVE",
             "log4.quintelligence.com": "INACTIVE"
+        },
+        "1580776462": {
+            "log.clickstream.co.za": "INACTIVE",
+            "log.hankooki.com": "INACTIVE",
+            "logc25.xiti.com": "INACTIVE",
+            "logs.comics.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
