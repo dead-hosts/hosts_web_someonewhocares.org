@@ -6254,17 +6254,7 @@
             "nedstat.s0.nl": "INACTIVE"
         },
         "1580869103": {
-            "metric.thenation.com": "INACTIVE",
-            "metrics.technologyreview.com": "INACTIVE",
-            "mobile.webvisor.com": "INACTIVE",
             "mpsnare.iesnare.co.uk": "INACTIVE"
-        },
-        "1580894349": {
-            "metrics.fandome.com": "INACTIVE",
-            "metrics.ioffer.com": "INACTIVE"
-        },
-        "1580901897": {
-            "amer.rel.msn.com": "INACTIVE"
         },
         "1580920827": {
             "dclk.haaretz.co.il": "INACTIVE"
@@ -6532,6 +6522,13 @@
         },
         "1580985154": {
             "insightxe.looksmart.com": "INACTIVE"
+        },
+        "1580989792": {
+            "metric.thenation.com": "INACTIVE",
+            "metrics.fandome.com": "INACTIVE",
+            "metrics.ioffer.com": "INACTIVE",
+            "metrics.technologyreview.com": "INACTIVE",
+            "mobile.webvisor.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
