@@ -6251,15 +6251,6 @@
             "mx.iovation.com": "INACTIVE",
             "nedstat.s0.nl": "INACTIVE"
         },
-        "1580920827": {
-            "dclk.haaretz.co.il": "INACTIVE"
-        },
-        "1580925099": {
-            "metrics.ksl.com": "INACTIVE",
-            "metrics.maxim.com": "INACTIVE",
-            "metrics.mms.mavenapps.net": "INACTIVE",
-            "metrics.mpora.com": "INACTIVE"
-        },
         "1580936903": {
             "api.adsymptotic.com": "INACTIVE"
         },
@@ -6535,6 +6526,15 @@
         },
         "1580998513": {
             "data.murdoog.com": "INACTIVE"
+        },
+        "1581011840": {
+            "dclk.haaretz.co.il": "INACTIVE"
+        },
+        "1581011841": {
+            "metrics.ksl.com": "INACTIVE",
+            "metrics.maxim.com": "INACTIVE",
+            "metrics.mms.mavenapps.net": "INACTIVE",
+            "metrics.mpora.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
