@@ -6204,25 +6204,11 @@
             "scrooge.click10.com": "INACTIVE",
             "scrooge.clickondetroit.com": "INACTIVE"
         },
-        "1581092194": {
-            "oss-crules.marketscore.com": "INACTIVE",
-            "oss-survey.marketscore.com": "INACTIVE"
-        },
-        "1581092195": {
-            "ostats.mozilla.com": "INACTIVE",
-            "out.true-counter.com": "INACTIVE"
-        },
         "1581101342": {
             "api.tumra.com": "INACTIVE"
         },
         "1581101343": {
             "dclk.haaretz.co.il": "INACTIVE"
-        },
-        "1581101345": {
-            "metrics.ksl.com": "INACTIVE",
-            "metrics.maxim.com": "INACTIVE",
-            "metrics.mms.mavenapps.net": "INACTIVE",
-            "metrics.mpora.com": "INACTIVE"
         },
         "1581113019": {
             "p.iovation.com": "INACTIVE",
@@ -6528,6 +6514,16 @@
             "mx.iesnare.com": "INACTIVE",
             "mx.iovation.com": "INACTIVE",
             "nedstat.s0.nl": "INACTIVE"
+        },
+        "1581187897": {
+            "metrics.ksl.com": "INACTIVE",
+            "metrics.maxim.com": "INACTIVE",
+            "metrics.mms.mavenapps.net": "INACTIVE",
+            "metrics.mpora.com": "INACTIVE",
+            "oss-crules.marketscore.com": "INACTIVE",
+            "oss-survey.marketscore.com": "INACTIVE",
+            "ostats.mozilla.com": "INACTIVE",
+            "out.true-counter.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
