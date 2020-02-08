@@ -6205,10 +6205,6 @@
             "scrooge.clickondetroit.com": "INACTIVE"
         },
         "1581092194": {
-            "mvs.mediavantage.de": "INACTIVE",
-            "mx.iesnare.com": "INACTIVE",
-            "mx.iovation.com": "INACTIVE",
-            "nedstat.s0.nl": "INACTIVE",
             "oss-crules.marketscore.com": "INACTIVE",
             "oss-survey.marketscore.com": "INACTIVE"
         },
@@ -6526,6 +6522,12 @@
         },
         "1581176617": {
             "affiliate.irotracker.com": "INACTIVE"
+        },
+        "1581180677": {
+            "mvs.mediavantage.de": "INACTIVE",
+            "mx.iesnare.com": "INACTIVE",
+            "mx.iovation.com": "INACTIVE",
+            "nedstat.s0.nl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
