@@ -6146,11 +6146,6 @@
             "scrooge.click10.com": "INACTIVE",
             "scrooge.clickondetroit.com": "INACTIVE"
         },
-        "1581269762": {
-            "raw.oggifinogi.com": "INACTIVE",
-            "remotrk.com": "INACTIVE",
-            "rm-admin-demo.iovation.com": "INACTIVE"
-        },
         "1581277650": {
             "metrics.ksl.com": "INACTIVE",
             "metrics.maxim.com": "INACTIVE",
@@ -6515,6 +6510,11 @@
             "mx.iesnare.com": "INACTIVE",
             "mx.iovation.com": "INACTIVE",
             "nedstat.s0.nl": "INACTIVE"
+        },
+        "1581362675": {
+            "raw.oggifinogi.com": "INACTIVE",
+            "remotrk.com": "INACTIVE",
+            "rm-admin-demo.iovation.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
