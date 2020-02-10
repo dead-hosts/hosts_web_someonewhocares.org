@@ -6146,18 +6146,6 @@
             "scrooge.click10.com": "INACTIVE",
             "scrooge.clickondetroit.com": "INACTIVE"
         },
-        "1581246339": {
-            "p.twitter.com": "INACTIVE",
-            "proxy.ia2.marketscore.com": "INACTIVE",
-            "proxy.ia3.marketscore.com": "INACTIVE",
-            "proxy.ia4.marketscore.com": "INACTIVE",
-            "proxy.or3.marketscore.com": "INACTIVE",
-            "proxy.or4.marketscore.com": "INACTIVE",
-            "proxy.sj3.marketscore.com": "INACTIVE",
-            "proxy.sj4.marketscore.com": "INACTIVE",
-            "proxycfg.marketscore.com": "INACTIVE",
-            "quareclk.com": "INACTIVE"
-        },
         "1581254098": {
             "logv.xiti.com": "INACTIVE",
             "lycoscollect.247realmedia.com": "INACTIVE",
@@ -6506,6 +6494,20 @@
         "1581331557": {
             "c0.adalyser.com": "INACTIVE",
             "c10.statcounter.com": "INACTIVE"
+        },
+        "1581335353": {
+            "proxycfg.marketscore.com": "INACTIVE"
+        },
+        "1581335354": {
+            "p.twitter.com": "INACTIVE",
+            "proxy.ia2.marketscore.com": "INACTIVE",
+            "proxy.ia3.marketscore.com": "INACTIVE",
+            "proxy.ia4.marketscore.com": "INACTIVE",
+            "proxy.or3.marketscore.com": "INACTIVE",
+            "proxy.or4.marketscore.com": "INACTIVE",
+            "proxy.sj3.marketscore.com": "INACTIVE",
+            "proxy.sj4.marketscore.com": "INACTIVE",
+            "quareclk.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
