@@ -6146,16 +6146,6 @@
             "scrooge.click10.com": "INACTIVE",
             "scrooge.clickondetroit.com": "INACTIVE"
         },
-        "1581277650": {
-            "metrics.ksl.com": "INACTIVE",
-            "metrics.maxim.com": "INACTIVE",
-            "metrics.mms.mavenapps.net": "INACTIVE",
-            "metrics.mpora.com": "INACTIVE",
-            "oss-crules.marketscore.com": "INACTIVE",
-            "oss-survey.marketscore.com": "INACTIVE",
-            "ostats.mozilla.com": "INACTIVE",
-            "out.true-counter.com": "INACTIVE"
-        },
         "1581281205": {
             "dclk.haaretz.co.il": "INACTIVE"
         },
@@ -6515,6 +6505,16 @@
             "raw.oggifinogi.com": "INACTIVE",
             "remotrk.com": "INACTIVE",
             "rm-admin-demo.iovation.com": "INACTIVE"
+        },
+        "1581366435": {
+            "metrics.ksl.com": "INACTIVE",
+            "metrics.maxim.com": "INACTIVE",
+            "metrics.mms.mavenapps.net": "INACTIVE",
+            "metrics.mpora.com": "INACTIVE",
+            "oss-crules.marketscore.com": "INACTIVE",
+            "oss-survey.marketscore.com": "INACTIVE",
+            "ostats.mozilla.com": "INACTIVE",
+            "out.true-counter.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
