@@ -6146,10 +6146,6 @@
             "scrooge.clickondetroit.com": "INACTIVE"
         },
         "1581312461": {
-            "s20.sitemeter.com": "INACTIVE",
-            "s21.sitemeter.com": "INACTIVE",
-            "s22.sitemeter.com": "INACTIVE",
-            "s23.sitemeter.com": "INACTIVE",
             "s24.sitemeter.com": "INACTIVE",
             "s25.sitemeter.com": "INACTIVE"
         },
@@ -6179,14 +6175,6 @@
         },
         "1581312463": {
             "s47.sitemeter.com": "INACTIVE"
-        },
-        "1581362675": {
-            "raw.oggifinogi.com": "INACTIVE",
-            "remotrk.com": "INACTIVE",
-            "rm-admin-demo.iovation.com": "INACTIVE"
-        },
-        "1581370661": {
-            "dclk.haaretz.co.il": "INACTIVE"
         },
         "1581370663": {
             "s48.sitemeter.com": "INACTIVE"
@@ -6518,6 +6506,20 @@
             "oss-survey.marketscore.com": "INACTIVE",
             "ostats.mozilla.com": "INACTIVE",
             "out.true-counter.com": "INACTIVE"
+        },
+        "1581457518": {
+            "dclk.haaretz.co.il": "INACTIVE"
+        },
+        "1581457520": {
+            "raw.oggifinogi.com": "INACTIVE",
+            "remotrk.com": "INACTIVE",
+            "rm-admin-demo.iovation.com": "INACTIVE",
+            "s20.sitemeter.com": "INACTIVE",
+            "s21.sitemeter.com": "INACTIVE",
+            "s22.sitemeter.com": "INACTIVE"
+        },
+        "1581457521": {
+            "s23.sitemeter.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
