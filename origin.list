@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 28 Jan 2020 at 05:16:18 GMT
+# Last updated: Tue, 11 Feb 2020 at 06:14:27 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1857,6 +1857,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 trk.cachemetracking.com
 0.0.0.0 trk.kissmetrics.com
 0.0.0.0 trkrpoint.com
+0.0.0.0 trk.securesmrt-dt.com
 0.0.0.0 trk.tidaltv.com
 0.0.0.0 true-counter.com
 0.0.0.0 truecrypt.fr
@@ -2209,7 +2210,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 badmactogoodmac.space
 0.0.0.0 badmactogoodmac.tech
 0.0.0.0 beloysoff.ru
-0.0.0.0 best.aliexpress.com
 0.0.0.0 bestreview.site
 0.0.0.0 bgl1dr1-a-fixed.sancharnet.in
 0.0.0.0 bgl1pp1-a-fixed.sancharnet.in
@@ -7117,6 +7117,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 baiduccdn1.com
 0.0.0.0 baidutv.baidu.com
 0.0.0.0 bakkecske.net
+0.0.0.0 baldehydesupe.info
 0.0.0.0 b.am15.net
 0.0.0.0 bamulat.blogspot.hu
 0.0.0.0 bananacashback.com
@@ -8008,6 +8009,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 data.flurry.com
 0.0.0.0 data.namesakeoscilloscopemarquis.com
 0.0.0.0 data.netscope.marktest.pt
+0.0.0.0 date.and-have.fun
 0.0.0.0 datedate.today
 0.0.0.0 date.ventivmedia.com
 0.0.0.0 datingadvertising.com
@@ -8128,6 +8130,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 dra.amazon-adsystem.com
 0.0.0.0 drecentreshu.info
 0.0.0.0 drmcmm.baidu.com
+0.0.0.0 drovederuifswfe.info
 0.0.0.0 drowle.com
 0.0.0.0 dr.soso.com
 0.0.0.0 ds.contextweb.com
@@ -10006,6 +10009,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 pb.tynt.com
 0.0.0.0 pcads.ru
 0.0.0.0 pc-gizmos-ssl.com
+0.0.0.0 pcmuzic.com
 0.0.0.0 pcookie.aliexpress.com
 0.0.0.0 pc-virus-d0l92j2.pw
 0.0.0.0 peaky.tags.yield-atx.com
@@ -10375,6 +10379,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 realizmobi.com
 0.0.0.0 realmedia-a800.d4p.net
 0.0.0.0 realmedia.advance.net
+0.0.0.0 realplayz.com
 0.0.0.0 rebevengwas.com
 0.0.0.0 reboot.sitescout.com
 0.0.0.0 recommendedforyou.xyz
@@ -11422,6 +11427,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 usatravel-specials.com
 0.0.0.0 usatravel-specials.net
 0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 uscarefusedshi.info
 0.0.0.0 us-choicevalue.com
 0.0.0.0 usdk.batmobi.net
 0.0.0.0 usd.sierra-boa.com
@@ -12855,6 +12861,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 xml.explorads.com
 0.0.0.0 xmlheads.com
 0.0.0.0 xml.mediashakers.com
+0.0.0.0 xml.realtime-bid.com
 0.0.0.0 xml.yepmedia.com
 0.0.0.0 x.mochiads.com
 0.0.0.0 xn--lt-68s.com
@@ -14700,4 +14707,4 @@ ff02::3		ip6-allhosts
 # Russell O'Connor for OS/2 information
 # kwadronaut for Windows 7 and Vista information
 # John Mueller and Lawrence H Smith for Mac Pre-OSX information
-# Jesse Baird for the Cisco IOS script
+# Jesse B
