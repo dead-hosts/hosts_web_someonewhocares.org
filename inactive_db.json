@@ -6043,7 +6043,6 @@
             "secret.xn--oogle-wmc.com": "INACTIVE"
         },
         "1580214738": {
-            "scrooge.nbc4columbus.com": "INACTIVE",
             "scrooge.thebostonchannel.com": "INACTIVE",
             "scrooge.thekansascitychannel.com": "INACTIVE",
             "scrooge.themilwaukeechannel.com": "INACTIVE",
@@ -6137,31 +6136,6 @@
             "stats.manticoretechnology.com": "INACTIVE",
             "stats.millanusa.com": "INACTIVE",
             "stats.nowpublic.com": "INACTIVE"
-        },
-        "1580343670": {
-            "sa.jumptap.com": "INACTIVE",
-            "scrooge.channelcincinnati.com": "INACTIVE",
-            "scrooge.channeloklahoma.com": "INACTIVE",
-            "scrooge.click10.com": "INACTIVE",
-            "scrooge.clickondetroit.com": "INACTIVE"
-        },
-        "1581312462": {
-            "s41.sitemeter.com": "INACTIVE",
-            "s42.sitemeter.com": "INACTIVE",
-            "s43.sitemeter.com": "INACTIVE",
-            "s44.sitemeter.com": "INACTIVE",
-            "s45.sitemeter.com": "INACTIVE",
-            "s46.sitemeter.com": "INACTIVE"
-        },
-        "1581312463": {
-            "s47.sitemeter.com": "INACTIVE"
-        },
-        "1581370663": {
-            "s48.sitemeter.com": "INACTIVE"
-        },
-        "1581472678": {
-            "006.free-counter.co.uk": "INACTIVE",
-            "cdn.fastclick.net": "INACTIVE"
         },
         "1581480335": {
             "oralse.ca": "INACTIVE",
@@ -6512,6 +6486,22 @@
             "pix02.revsci.net": "INACTIVE",
             "pix03.revsci.net": "INACTIVE",
             "pix04.revsci.net": "INACTIVE"
+        },
+        "1581559718": {
+            "s41.sitemeter.com": "INACTIVE",
+            "s42.sitemeter.com": "INACTIVE",
+            "s43.sitemeter.com": "INACTIVE",
+            "s44.sitemeter.com": "INACTIVE",
+            "s45.sitemeter.com": "INACTIVE",
+            "s46.sitemeter.com": "INACTIVE",
+            "s47.sitemeter.com": "INACTIVE",
+            "s48.sitemeter.com": "INACTIVE",
+            "sa.jumptap.com": "INACTIVE",
+            "scrooge.channelcincinnati.com": "INACTIVE",
+            "scrooge.channeloklahoma.com": "INACTIVE",
+            "scrooge.click10.com": "INACTIVE",
+            "scrooge.clickondetroit.com": "INACTIVE",
+            "scrooge.nbc4columbus.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
