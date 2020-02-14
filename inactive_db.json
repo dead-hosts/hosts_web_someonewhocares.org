@@ -6193,14 +6193,6 @@
             "s26.sitemeter.com": "INACTIVE",
             "s27.sitemeter.com": "INACTIVE"
         },
-        "1581620796": {
-            "mvs.mediavantage.de": "INACTIVE",
-            "mx.iovation.com": "INACTIVE"
-        },
-        "1581620797": {
-            "mx.iesnare.com": "INACTIVE",
-            "nedstat.s0.nl": "INACTIVE"
-        },
         "1581624715": {
             "s28.sitemeter.com": "INACTIVE"
         },
@@ -6514,6 +6506,14 @@
             "proxy.sj3.marketscore.com": "INACTIVE",
             "proxy.sj4.marketscore.com": "INACTIVE",
             "quareclk.com": "INACTIVE"
+        },
+        "1581710357": {
+            "mvs.mediavantage.de": "INACTIVE"
+        },
+        "1581710358": {
+            "mx.iesnare.com": "INACTIVE",
+            "mx.iovation.com": "INACTIVE",
+            "nedstat.s0.nl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
