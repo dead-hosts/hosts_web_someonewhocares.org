@@ -6173,19 +6173,6 @@
             "rr4.xxxcounter.com": "INACTIVE",
             "rr5.xxxcounter.com": "INACTIVE"
         },
-        "1581601566": {
-            "p.twitter.com": "INACTIVE",
-            "printmail.biz": "INACTIVE",
-            "proxy.ia2.marketscore.com": "INACTIVE",
-            "proxy.ia3.marketscore.com": "INACTIVE",
-            "proxy.ia4.marketscore.com": "INACTIVE",
-            "proxy.or3.marketscore.com": "INACTIVE",
-            "proxy.or4.marketscore.com": "INACTIVE",
-            "proxy.sj3.marketscore.com": "INACTIVE",
-            "proxy.sj4.marketscore.com": "INACTIVE",
-            "proxycfg.marketscore.com": "INACTIVE",
-            "quareclk.com": "INACTIVE"
-        },
         "1581605290": {
             "rr7.xxxcounter.com": "INACTIVE",
             "s10.sitemeter.com": "INACTIVE",
@@ -6205,16 +6192,6 @@
             "s25.sitemeter.com": "INACTIVE",
             "s26.sitemeter.com": "INACTIVE",
             "s27.sitemeter.com": "INACTIVE"
-        },
-        "1581616863": {
-            "metric.thenation.com": "INACTIVE",
-            "metrics.technologyreview.com": "INACTIVE",
-            "mobile.webvisor.com": "INACTIVE",
-            "mpsnare.iesnare.co.uk": "INACTIVE"
-        },
-        "1581616864": {
-            "mtv.247realmedia.com": "INACTIVE",
-            "multi1.rmuk.co.uk": "INACTIVE"
         },
         "1581620796": {
             "mvs.mediavantage.de": "INACTIVE",
@@ -6516,6 +6493,27 @@
             "metrics.fandome.com": "INACTIVE",
             "metrics.ioffer.com": "INACTIVE",
             "metrics2.pricegrabber.com": "INACTIVE"
+        },
+        "1581706285": {
+            "metric.thenation.com": "INACTIVE",
+            "metrics.technologyreview.com": "INACTIVE",
+            "mobile.webvisor.com": "INACTIVE",
+            "mpsnare.iesnare.co.uk": "INACTIVE",
+            "mtv.247realmedia.com": "INACTIVE",
+            "multi1.rmuk.co.uk": "INACTIVE",
+            "printmail.biz": "INACTIVE",
+            "proxy.ia2.marketscore.com": "INACTIVE",
+            "proxy.ia3.marketscore.com": "INACTIVE",
+            "proxy.ia4.marketscore.com": "INACTIVE",
+            "proxycfg.marketscore.com": "INACTIVE"
+        },
+        "1581706286": {
+            "p.twitter.com": "INACTIVE",
+            "proxy.or3.marketscore.com": "INACTIVE",
+            "proxy.or4.marketscore.com": "INACTIVE",
+            "proxy.sj3.marketscore.com": "INACTIVE",
+            "proxy.sj4.marketscore.com": "INACTIVE",
+            "quareclk.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
