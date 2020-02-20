@@ -6194,16 +6194,6 @@
         "1581962642": {
             "s10.sitemeter.com": "INACTIVE"
         },
-        "1582052275": {
-            "rr7.xxxcounter.com": "INACTIVE"
-        },
-        "1582091161": {
-            "partner.alerts.aol.com": "INACTIVE",
-            "partners.pantheranetwork.com": "INACTIVE"
-        },
-        "1582091162": {
-            "paxito.sitetracker.com": "INACTIVE"
-        },
         "1582098638": {
             "api.gameanalytics.com": "INACTIVE",
             "api.infinario.com": "INACTIVE"
@@ -6529,6 +6519,12 @@
             "proxycfg.marketscore.com": "INACTIVE",
             "quareclk.com": "INACTIVE",
             "rr5.xxxcounter.com": "INACTIVE"
+        },
+        "1582180355": {
+            "partner.alerts.aol.com": "INACTIVE",
+            "partners.pantheranetwork.com": "INACTIVE",
+            "paxito.sitetracker.com": "INACTIVE",
+            "rr7.xxxcounter.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
