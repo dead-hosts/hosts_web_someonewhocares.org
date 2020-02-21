@@ -6143,14 +6143,6 @@
             "scrooge.clickondetroit.com": "INACTIVE",
             "scrooge.nbc4columbus.com": "INACTIVE"
         },
-        "1582155819": {
-            "mvs.mediavantage.de": "INACTIVE",
-            "mx.iesnare.com": "INACTIVE",
-            "mx.iovation.com": "INACTIVE"
-        },
-        "1582155820": {
-            "nedstat.s0.nl": "INACTIVE"
-        },
         "1582163255": {
             "metrics.ksl.com": "INACTIVE",
             "metrics.maxim.com": "INACTIVE",
@@ -6517,6 +6509,12 @@
             "s48.sitemeter.com": "INACTIVE",
             "sa.jumptap.com": "INACTIVE",
             "scrooge.channelcincinnati.com": "INACTIVE"
+        },
+        "1582245663": {
+            "mvs.mediavantage.de": "INACTIVE",
+            "mx.iesnare.com": "INACTIVE",
+            "mx.iovation.com": "INACTIVE",
+            "nedstat.s0.nl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
