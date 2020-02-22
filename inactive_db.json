@@ -6183,12 +6183,6 @@
             "sa.jumptap.com": "INACTIVE",
             "scrooge.channelcincinnati.com": "INACTIVE"
         },
-        "1582245663": {
-            "mvs.mediavantage.de": "INACTIVE",
-            "mx.iesnare.com": "INACTIVE",
-            "mx.iovation.com": "INACTIVE",
-            "nedstat.s0.nl": "INACTIVE"
-        },
         "1582252086": {
             "metrics.ksl.com": "INACTIVE",
             "metrics.maxim.com": "INACTIVE",
@@ -6522,6 +6516,14 @@
             "rm-admin-demo.iovation.com": "INACTIVE",
             "rmcentre.bigfilmproduction.com": "INACTIVE",
             "roskatrack.roskadirect.com": "INACTIVE"
+        },
+        "1582333964": {
+            "mvs.mediavantage.de": "INACTIVE",
+            "mx.iesnare.com": "INACTIVE",
+            "mx.iovation.com": "INACTIVE"
+        },
+        "1582333965": {
+            "nedstat.s0.nl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
