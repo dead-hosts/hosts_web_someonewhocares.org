@@ -6229,10 +6229,6 @@
             "rr3.xxxcounter.com": "INACTIVE"
         },
         "1582506943": {
-            "metric.thenation.com": "INACTIVE",
-            "metrics.fandome.com": "INACTIVE",
-            "metrics.ioffer.com": "INACTIVE",
-            "metrics.technologyreview.com": "INACTIVE",
             "mobile.webvisor.com": "INACTIVE",
             "mpsnare.iesnare.co.uk": "INACTIVE",
             "mtv.247realmedia.com": "INACTIVE",
@@ -6512,6 +6508,14 @@
             "mediatrack.revenue.net": "INACTIVE",
             "metric.10best.com": "INACTIVE",
             "metrics2.pricegrabber.com": "INACTIVE"
+        },
+        "1582595158": {
+            "metrics.fandome.com": "INACTIVE",
+            "metrics.ioffer.com": "INACTIVE"
+        },
+        "1582595159": {
+            "metric.thenation.com": "INACTIVE",
+            "metrics.technologyreview.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
