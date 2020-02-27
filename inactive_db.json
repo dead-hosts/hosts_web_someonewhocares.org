@@ -6159,8 +6159,6 @@
             "scrooge.channelcincinnati.com": "INACTIVE"
         },
         "1582275033": {
-            "rr5.xxxcounter.com": "INACTIVE",
-            "rr7.xxxcounter.com": "INACTIVE",
             "s10.sitemeter.com": "INACTIVE",
             "s11.sitemeter.com": "INACTIVE",
             "s12.sitemeter.com": "INACTIVE",
@@ -6180,7 +6178,6 @@
             "s21.sitemeter.com": "INACTIVE"
         },
         "1582341108": {
-            "rr4.xxxcounter.com": "INACTIVE",
             "s-39.predictvideo.com": "INACTIVE",
             "s2.youtube.com": "INACTIVE",
             "s22.sitemeter.com": "INACTIVE",
@@ -6501,6 +6498,11 @@
         },
         "1582821373": {
             "rr3.xxxcounter.com": "INACTIVE"
+        },
+        "1582823985": {
+            "rr4.xxxcounter.com": "INACTIVE",
+            "rr5.xxxcounter.com": "INACTIVE",
+            "rr7.xxxcounter.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
