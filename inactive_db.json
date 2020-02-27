@@ -6228,19 +6228,7 @@
             "roskatrack.roskadirect.com": "INACTIVE",
             "rr3.xxxcounter.com": "INACTIVE"
         },
-        "1582539741": {
-            "oss-crules.marketscore.com": "INACTIVE",
-            "oss-survey.marketscore.com": "INACTIVE",
-            "ostats.mozilla.com": "INACTIVE",
-            "out.true-counter.com": "INACTIVE",
-            "partner.alerts.aol.com": "INACTIVE",
-            "partners.pantheranetwork.com": "INACTIVE"
-        },
         "1582574720": {
-            "p.iovation.com": "INACTIVE",
-            "paxito.sitetracker.com": "INACTIVE",
-            "performancetrck.com": "INACTIVE",
-            "perso.estat.com": "INACTIVE",
             "pix02.revsci.net": "INACTIVE",
             "pix03.revsci.net": "INACTIVE",
             "pix04.revsci.net": "INACTIVE",
@@ -6248,15 +6236,6 @@
             "pong.qubitproducts.com": "INACTIVE",
             "postclick.adcentriconline.com": "INACTIVE",
             "postgazettecollect.247realmedia.com": "INACTIVE"
-        },
-        "1582599167": {
-            "mpsnare.iesnare.co.uk": "INACTIVE",
-            "mtv.247realmedia.com": "INACTIVE",
-            "multi1.rmuk.co.uk": "INACTIVE",
-            "mvs.mediavantage.de": "INACTIVE",
-            "mx.iesnare.com": "INACTIVE",
-            "mx.iovation.com": "INACTIVE",
-            "nedstat.s0.nl": "INACTIVE"
         },
         "1582790625": {
             "copyright-reform.info": "INACTIVE",
@@ -6499,6 +6478,27 @@
         },
         "1582801085": {
             "abscbn.spinbox.net": "INACTIVE"
+        },
+        "1582804651": {
+            "mpsnare.iesnare.co.uk": "INACTIVE",
+            "mtv.247realmedia.com": "INACTIVE",
+            "multi1.rmuk.co.uk": "INACTIVE",
+            "mvs.mediavantage.de": "INACTIVE"
+        },
+        "1582804652": {
+            "mx.iesnare.com": "INACTIVE",
+            "mx.iovation.com": "INACTIVE",
+            "nedstat.s0.nl": "INACTIVE",
+            "oss-crules.marketscore.com": "INACTIVE",
+            "oss-survey.marketscore.com": "INACTIVE",
+            "ostats.mozilla.com": "INACTIVE",
+            "out.true-counter.com": "INACTIVE",
+            "p.iovation.com": "INACTIVE",
+            "partner.alerts.aol.com": "INACTIVE",
+            "partners.pantheranetwork.com": "INACTIVE",
+            "paxito.sitetracker.com": "INACTIVE",
+            "performancetrck.com": "INACTIVE",
+            "perso.estat.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
