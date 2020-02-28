@@ -6043,10 +6043,6 @@
             "secret.xn--oogle-wmc.com": "INACTIVE"
         },
         "1580214738": {
-            "scrooge.thebostonchannel.com": "INACTIVE",
-            "scrooge.thekansascitychannel.com": "INACTIVE",
-            "scrooge.themilwaukeechannel.com": "INACTIVE",
-            "scrooge.theomahachannel.com": "INACTIVE",
             "scrooge.wftv.com": "INACTIVE",
             "scrooge.wsoctv.com": "INACTIVE",
             "scrooge.wtov9.com": "INACTIVE",
@@ -6136,15 +6132,6 @@
             "stats.manticoretechnology.com": "INACTIVE",
             "stats.millanusa.com": "INACTIVE",
             "stats.nowpublic.com": "INACTIVE"
-        },
-        "1581559718": {
-            "scrooge.channeloklahoma.com": "INACTIVE",
-            "scrooge.click10.com": "INACTIVE",
-            "scrooge.clickondetroit.com": "INACTIVE",
-            "scrooge.nbc4columbus.com": "INACTIVE"
-        },
-        "1582242262": {
-            "scrooge.channelcincinnati.com": "INACTIVE"
         },
         "1582790625": {
             "copyright-reform.info": "INACTIVE",
@@ -6503,6 +6490,17 @@
             "s47.sitemeter.com": "INACTIVE",
             "s48.sitemeter.com": "INACTIVE",
             "sa.jumptap.com": "INACTIVE"
+        },
+        "1582876457": {
+            "scrooge.channelcincinnati.com": "INACTIVE",
+            "scrooge.channeloklahoma.com": "INACTIVE",
+            "scrooge.click10.com": "INACTIVE",
+            "scrooge.clickondetroit.com": "INACTIVE",
+            "scrooge.nbc4columbus.com": "INACTIVE",
+            "scrooge.thebostonchannel.com": "INACTIVE",
+            "scrooge.thekansascitychannel.com": "INACTIVE",
+            "scrooge.themilwaukeechannel.com": "INACTIVE",
+            "scrooge.theomahachannel.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
