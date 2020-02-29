@@ -6134,9 +6134,6 @@
             "stats.nowpublic.com": "INACTIVE"
         },
         "1582815372": {
-            "p.twitter.com": "INACTIVE",
-            "proxy.sj4.marketscore.com": "INACTIVE",
-            "quareclk.com": "INACTIVE",
             "raw.oggifinogi.com": "INACTIVE"
         },
         "1582818574": {
@@ -6507,6 +6504,11 @@
         },
         "1582934827": {
             "click.payserve.com": "INACTIVE"
+        },
+        "1582941903": {
+            "p.twitter.com": "INACTIVE",
+            "proxy.sj4.marketscore.com": "INACTIVE",
+            "quareclk.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
