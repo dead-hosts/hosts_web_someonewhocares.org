@@ -6207,12 +6207,6 @@
             "rr5.xxxcounter.com": "INACTIVE",
             "rr7.xxxcounter.com": "INACTIVE"
         },
-        "1583084587": {
-            "ostats.mozilla.com": "INACTIVE",
-            "out.true-counter.com": "INACTIVE",
-            "partner.alerts.aol.com": "INACTIVE",
-            "partners.pantheranetwork.com": "INACTIVE"
-        },
         "1583084588": {
             "paxito.sitetracker.com": "INACTIVE"
         },
@@ -6502,6 +6496,12 @@
         "1583180944": {
             "www.nimp.org": "INACTIVE",
             "www.on.nimp.org": "INACTIVE"
+        },
+        "1583185286": {
+            "ostats.mozilla.com": "INACTIVE",
+            "out.true-counter.com": "INACTIVE",
+            "partner.alerts.aol.com": "INACTIVE",
+            "partners.pantheranetwork.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
