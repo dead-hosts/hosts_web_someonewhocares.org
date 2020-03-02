@@ -6197,9 +6197,6 @@
         "1583019480": {
             "proxy.sj3.marketscore.com": "INACTIVE"
         },
-        "1583023815": {
-            "on.nimp.org": "INACTIVE"
-        },
         "1583027804": {
             "raw.oggifinogi.com": "INACTIVE",
             "remotrk.com": "INACTIVE"
@@ -6505,6 +6502,9 @@
             "proxy.or3.marketscore.com": "INACTIVE",
             "proxy.or4.marketscore.com": "INACTIVE",
             "proxycfg.marketscore.com": "INACTIVE"
+        },
+        "1583113721": {
+            "on.nimp.org": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
