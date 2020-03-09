@@ -6152,17 +6152,8 @@
             "scrooge.themilwaukeechannel.com": "INACTIVE",
             "scrooge.theomahachannel.com": "INACTIVE"
         },
-        "1583676959": {
-            "oss-crules.marketscore.com": "INACTIVE",
-            "oss-survey.marketscore.com": "INACTIVE",
-            "ostats.mozilla.com": "INACTIVE",
-            "out.true-counter.com": "INACTIVE"
-        },
         "1583685003": {
             "p.iovation.com": "INACTIVE",
-            "partner.alerts.aol.com": "INACTIVE",
-            "partners.pantheranetwork.com": "INACTIVE",
-            "paxito.sitetracker.com": "INACTIVE",
             "performancetrck.com": "INACTIVE",
             "perso.estat.com": "INACTIVE",
             "pmg.ad-logics.com": "INACTIVE",
@@ -6184,9 +6175,6 @@
         },
         "1583700719": {
             "quareclk.com": "INACTIVE"
-        },
-        "1583704728": {
-            "on.nimp.org": "INACTIVE"
         },
         "1583708788": {
             "raw.oggifinogi.com": "INACTIVE",
@@ -6499,6 +6487,15 @@
             "ds.amateurmatch.com": "INACTIVE",
             "dv-fw-a-nat.iovation.com": "INACTIVE",
             "dwclick.com": "INACTIVE"
+        },
+        "1583795599": {
+            "oss-crules.marketscore.com": "INACTIVE",
+            "oss-survey.marketscore.com": "INACTIVE",
+            "ostats.mozilla.com": "INACTIVE",
+            "out.true-counter.com": "INACTIVE",
+            "partner.alerts.aol.com": "INACTIVE",
+            "partners.pantheranetwork.com": "INACTIVE",
+            "paxito.sitetracker.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
