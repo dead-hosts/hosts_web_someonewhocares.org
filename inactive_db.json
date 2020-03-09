@@ -6153,7 +6153,6 @@
             "scrooge.theomahachannel.com": "INACTIVE"
         },
         "1583676959": {
-            "nedstat.s0.nl": "INACTIVE",
             "oss-crules.marketscore.com": "INACTIVE",
             "oss-survey.marketscore.com": "INACTIVE",
             "ostats.mozilla.com": "INACTIVE",
@@ -6502,6 +6501,9 @@
             "clicktracker.postmasterglobal.com": "INACTIVE",
             "clicktracks.webmetro.com": "INACTIVE",
             "clk.aboxdeal.com": "INACTIVE"
+        },
+        "1583774426": {
+            "nedstat.s0.nl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
