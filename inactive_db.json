@@ -6211,15 +6211,6 @@
             "rr4.xxxcounter.com": "INACTIVE",
             "rr5.xxxcounter.com": "INACTIVE"
         },
-        "1583884135": {
-            "oss-crules.marketscore.com": "INACTIVE",
-            "oss-survey.marketscore.com": "INACTIVE",
-            "ostats.mozilla.com": "INACTIVE",
-            "out.true-counter.com": "INACTIVE",
-            "partner.alerts.aol.com": "INACTIVE",
-            "partners.pantheranetwork.com": "INACTIVE",
-            "paxito.sitetracker.com": "INACTIVE"
-        },
         "1583891910": {
             "performancetrck.com": "INACTIVE"
         },
@@ -6502,6 +6493,15 @@
         },
         "1583967388": {
             "www.nimp.org": "INACTIVE"
+        },
+        "1583971213": {
+            "oss-crules.marketscore.com": "INACTIVE",
+            "oss-survey.marketscore.com": "INACTIVE",
+            "ostats.mozilla.com": "INACTIVE",
+            "out.true-counter.com": "INACTIVE",
+            "partner.alerts.aol.com": "INACTIVE",
+            "partners.pantheranetwork.com": "INACTIVE",
+            "paxito.sitetracker.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
