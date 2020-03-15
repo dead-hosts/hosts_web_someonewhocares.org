@@ -6230,11 +6230,6 @@
             "proxy.sj3.marketscore.com": "INACTIVE",
             "proxy.sj4.marketscore.com": "INACTIVE"
         },
-        "1584208005": {
-            "logv.xiti.com": "INACTIVE",
-            "lycoscollect.247realmedia.com": "INACTIVE",
-            "lycoscollect.realmedia.com": "INACTIVE"
-        },
         "1584211881": {
             "oralse.ca": "INACTIVE",
             "www.oralse.ca": "INACTIVE"
@@ -6520,6 +6515,11 @@
             "log4.quintelligence.com": "INACTIVE",
             "logc25.xiti.com": "INACTIVE",
             "logs.comics.com": "INACTIVE"
+        },
+        "1584298009": {
+            "logv.xiti.com": "INACTIVE",
+            "lycoscollect.247realmedia.com": "INACTIVE",
+            "lycoscollect.realmedia.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
