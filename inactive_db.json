@@ -6214,14 +6214,6 @@
         "1584095286": {
             "quareclk.com": "INACTIVE"
         },
-        "1584163300": {
-            "printmail.biz": "INACTIVE",
-            "proxy.ia2.marketscore.com": "INACTIVE",
-            "proxy.ia3.marketscore.com": "INACTIVE",
-            "proxy.ia4.marketscore.com": "INACTIVE",
-            "proxy.or3.marketscore.com": "INACTIVE",
-            "proxycfg.marketscore.com": "INACTIVE"
-        },
         "1584163301": {
             "p.twitter.com": "INACTIVE",
             "proxy.or4.marketscore.com": "INACTIVE",
@@ -6519,6 +6511,14 @@
         "1584335881": {
             "ostats.mozilla.com": "INACTIVE",
             "out.true-counter.com": "INACTIVE"
+        },
+        "1584339900": {
+            "printmail.biz": "INACTIVE",
+            "proxy.ia2.marketscore.com": "INACTIVE",
+            "proxy.ia3.marketscore.com": "INACTIVE",
+            "proxy.ia4.marketscore.com": "INACTIVE",
+            "proxy.or3.marketscore.com": "INACTIVE",
+            "proxycfg.marketscore.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
