@@ -6228,12 +6228,6 @@
             "proxy.sj3.marketscore.com": "INACTIVE",
             "proxy.sj4.marketscore.com": "INACTIVE"
         },
-        "1584248193": {
-            "oss-crules.marketscore.com": "INACTIVE",
-            "oss-survey.marketscore.com": "INACTIVE",
-            "ostats.mozilla.com": "INACTIVE",
-            "out.true-counter.com": "INACTIVE"
-        },
         "1584256045": {
             "www.on.nimp.org": "INACTIVE"
         },
@@ -6517,6 +6511,14 @@
         },
         "1584332085": {
             "on.nimp.org": "INACTIVE"
+        },
+        "1584335880": {
+            "oss-crules.marketscore.com": "INACTIVE",
+            "oss-survey.marketscore.com": "INACTIVE"
+        },
+        "1584335881": {
+            "ostats.mozilla.com": "INACTIVE",
+            "out.true-counter.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
