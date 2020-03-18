@@ -6204,27 +6204,6 @@
             "rr4.xxxcounter.com": "INACTIVE",
             "rr5.xxxcounter.com": "INACTIVE"
         },
-        "1584339900": {
-            "proxy.ia2.marketscore.com": "INACTIVE",
-            "proxy.ia3.marketscore.com": "INACTIVE",
-            "proxy.ia4.marketscore.com": "INACTIVE",
-            "proxy.or3.marketscore.com": "INACTIVE",
-            "proxycfg.marketscore.com": "INACTIVE"
-        },
-        "1584363652": {
-            "proxy.or4.marketscore.com": "INACTIVE",
-            "proxy.sj4.marketscore.com": "INACTIVE"
-        },
-        "1584363653": {
-            "p.twitter.com": "INACTIVE",
-            "proxy.sj3.marketscore.com": "INACTIVE",
-            "quareclk.com": "INACTIVE",
-            "raw.oggifinogi.com": "INACTIVE",
-            "remotrk.com": "INACTIVE",
-            "rm-admin-demo.iovation.com": "INACTIVE",
-            "rmcentre.bigfilmproduction.com": "INACTIVE",
-            "roskatrack.roskadirect.com": "INACTIVE"
-        },
         "1584431430": {
             "partner.alerts.aol.com": "INACTIVE",
             "partners.pantheranetwork.com": "INACTIVE",
@@ -6516,6 +6495,25 @@
             "pong.qubitproducts.com": "INACTIVE",
             "postclick.adcentriconline.com": "INACTIVE",
             "postgazettecollect.247realmedia.com": "INACTIVE"
+        },
+        "1584515287": {
+            "proxy.ia2.marketscore.com": "INACTIVE",
+            "proxy.ia3.marketscore.com": "INACTIVE",
+            "proxy.ia4.marketscore.com": "INACTIVE",
+            "proxy.or3.marketscore.com": "INACTIVE",
+            "proxycfg.marketscore.com": "INACTIVE"
+        },
+        "1584515288": {
+            "p.twitter.com": "INACTIVE",
+            "proxy.or4.marketscore.com": "INACTIVE",
+            "proxy.sj3.marketscore.com": "INACTIVE",
+            "proxy.sj4.marketscore.com": "INACTIVE",
+            "quareclk.com": "INACTIVE",
+            "raw.oggifinogi.com": "INACTIVE",
+            "remotrk.com": "INACTIVE",
+            "rm-admin-demo.iovation.com": "INACTIVE",
+            "rmcentre.bigfilmproduction.com": "INACTIVE",
+            "roskatrack.roskadirect.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
