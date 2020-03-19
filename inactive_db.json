@@ -6199,18 +6199,6 @@
         "1583727959": {
             "s43.sitemeter.com": "INACTIVE"
         },
-        "1584511794": {
-            "oss-crules.marketscore.com": "INACTIVE",
-            "oss-survey.marketscore.com": "INACTIVE",
-            "ostats.mozilla.com": "INACTIVE",
-            "out.true-counter.com": "INACTIVE",
-            "pmg.ad-logics.com": "INACTIVE"
-        },
-        "1584511795": {
-            "pong.qubitproducts.com": "INACTIVE",
-            "postclick.adcentriconline.com": "INACTIVE",
-            "postgazettecollect.247realmedia.com": "INACTIVE"
-        },
         "1584515287": {
             "proxy.ia2.marketscore.com": "INACTIVE",
             "proxy.ia3.marketscore.com": "INACTIVE",
@@ -6511,6 +6499,16 @@
         },
         "1584589159": {
             "nedstat.s0.nl": "INACTIVE"
+        },
+        "1584600424": {
+            "oss-crules.marketscore.com": "INACTIVE",
+            "oss-survey.marketscore.com": "INACTIVE",
+            "ostats.mozilla.com": "INACTIVE",
+            "out.true-counter.com": "INACTIVE",
+            "pmg.ad-logics.com": "INACTIVE",
+            "pong.qubitproducts.com": "INACTIVE",
+            "postclick.adcentriconline.com": "INACTIVE",
+            "postgazettecollect.247realmedia.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
