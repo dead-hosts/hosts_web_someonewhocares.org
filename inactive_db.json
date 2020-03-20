@@ -6202,18 +6202,10 @@
             "rr5.xxxcounter.com": "INACTIVE"
         },
         "1584600424": {
-            "oss-crules.marketscore.com": "INACTIVE",
-            "oss-survey.marketscore.com": "INACTIVE",
-            "ostats.mozilla.com": "INACTIVE",
-            "out.true-counter.com": "INACTIVE",
             "pmg.ad-logics.com": "INACTIVE",
             "pong.qubitproducts.com": "INACTIVE",
             "postclick.adcentriconline.com": "INACTIVE",
             "postgazettecollect.247realmedia.com": "INACTIVE"
-        },
-        "1584608187": {
-            "hits.nextstat.com": "INACTIVE",
-            "hits.webstat.com": "INACTIVE"
         },
         "1584615407": {
             "partner.alerts.aol.com": "INACTIVE",
@@ -6519,6 +6511,12 @@
         },
         "1584690000": {
             "counter.surfcounters.com": "INACTIVE"
+        },
+        "1584697528": {
+            "oss-crules.marketscore.com": "INACTIVE",
+            "oss-survey.marketscore.com": "INACTIVE",
+            "ostats.mozilla.com": "INACTIVE",
+            "out.true-counter.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
