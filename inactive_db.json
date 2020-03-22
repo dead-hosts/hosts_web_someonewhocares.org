@@ -6202,10 +6202,6 @@
             "rr5.xxxcounter.com": "INACTIVE"
         },
         "1584638904": {
-            "p.twitter.com": "INACTIVE",
-            "proxy.or4.marketscore.com": "INACTIVE",
-            "proxy.sj3.marketscore.com": "INACTIVE",
-            "proxy.sj4.marketscore.com": "INACTIVE",
             "quareclk.com": "INACTIVE",
             "raw.oggifinogi.com": "INACTIVE"
         },
@@ -6215,10 +6211,6 @@
             "rmcentre.bigfilmproduction.com": "INACTIVE",
             "roskatrack.roskadirect.com": "INACTIVE",
             "rr7.xxxcounter.com": "INACTIVE"
-        },
-        "1584807818": {
-            "partner.alerts.aol.com": "INACTIVE",
-            "partners.pantheranetwork.com": "INACTIVE"
         },
         "1584823673": {
             "economisttestcollect.insightfirst.com": "INACTIVE",
@@ -6498,6 +6490,16 @@
         },
         "1584888735": {
             "proxy.ia4.marketscore.com": "INACTIVE"
+        },
+        "1584897123": {
+            "partner.alerts.aol.com": "INACTIVE",
+            "partners.pantheranetwork.com": "INACTIVE",
+            "proxy.or4.marketscore.com": "INACTIVE",
+            "proxy.sj4.marketscore.com": "INACTIVE"
+        },
+        "1584897124": {
+            "p.twitter.com": "INACTIVE",
+            "proxy.sj3.marketscore.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
