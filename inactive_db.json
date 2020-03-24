@@ -6204,20 +6204,6 @@
         "1584642700": {
             "rr7.xxxcounter.com": "INACTIVE"
         },
-        "1584888734": {
-            "proxy.or3.marketscore.com": "INACTIVE"
-        },
-        "1584888735": {
-            "proxy.ia4.marketscore.com": "INACTIVE"
-        },
-        "1584897123": {
-            "proxy.or4.marketscore.com": "INACTIVE",
-            "proxy.sj4.marketscore.com": "INACTIVE"
-        },
-        "1584897124": {
-            "p.twitter.com": "INACTIVE",
-            "proxy.sj3.marketscore.com": "INACTIVE"
-        },
         "1584905642": {
             "quareclk.com": "INACTIVE",
             "raw.oggifinogi.com": "INACTIVE",
@@ -6225,9 +6211,6 @@
             "rm-admin-demo.iovation.com": "INACTIVE",
             "rmcentre.bigfilmproduction.com": "INACTIVE",
             "roskatrack.roskadirect.com": "INACTIVE"
-        },
-        "1584966226": {
-            "clicks.emarketmakers.com": "INACTIVE"
         },
         "1584970179": {
             "abscbn.spinbox.net": "INACTIVE"
@@ -6521,6 +6504,14 @@
         "1585044341": {
             "performancetrck.com": "INACTIVE",
             "perso.estat.com": "INACTIVE"
+        },
+        "1585053776": {
+            "p.twitter.com": "INACTIVE",
+            "proxy.ia4.marketscore.com": "INACTIVE",
+            "proxy.or3.marketscore.com": "INACTIVE",
+            "proxy.or4.marketscore.com": "INACTIVE",
+            "proxy.sj3.marketscore.com": "INACTIVE",
+            "proxy.sj4.marketscore.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
