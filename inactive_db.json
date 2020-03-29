@@ -6215,14 +6215,6 @@
         "1585391082": {
             "raw.oggifinogi.com": "INACTIVE"
         },
-        "1585432196": {
-            "oss-crules.marketscore.com": "INACTIVE",
-            "oss-survey.marketscore.com": "INACTIVE",
-            "ostats.mozilla.com": "INACTIVE"
-        },
-        "1585432197": {
-            "paxito.sitetracker.com": "INACTIVE"
-        },
         "1585443799": {
             "economisttestcollect.insightfirst.com": "INACTIVE",
             "educing.info": "INACTIVE",
@@ -6519,6 +6511,14 @@
         },
         "1585510947": {
             "nedstat.s0.nl": "INACTIVE"
+        },
+        "1585519526": {
+            "oss-crules.marketscore.com": "INACTIVE",
+            "oss-survey.marketscore.com": "INACTIVE"
+        },
+        "1585519527": {
+            "ostats.mozilla.com": "INACTIVE",
+            "paxito.sitetracker.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
