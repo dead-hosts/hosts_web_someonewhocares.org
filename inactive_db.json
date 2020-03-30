@@ -6196,14 +6196,6 @@
         "1583727959": {
             "s43.sitemeter.com": "INACTIVE"
         },
-        "1585519526": {
-            "oss-crules.marketscore.com": "INACTIVE",
-            "oss-survey.marketscore.com": "INACTIVE"
-        },
-        "1585519527": {
-            "ostats.mozilla.com": "INACTIVE",
-            "paxito.sitetracker.com": "INACTIVE"
-        },
         "1585532098": {
             "economisttestcollect.insightfirst.com": "INACTIVE",
             "educing.info": "INACTIVE",
@@ -6514,6 +6506,12 @@
             "proxy.sj4.marketscore.com": "INACTIVE",
             "proxycfg.marketscore.com": "INACTIVE",
             "quareclk.com": "INACTIVE"
+        },
+        "1585607444": {
+            "oss-crules.marketscore.com": "INACTIVE",
+            "oss-survey.marketscore.com": "INACTIVE",
+            "ostats.mozilla.com": "INACTIVE",
+            "paxito.sitetracker.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
