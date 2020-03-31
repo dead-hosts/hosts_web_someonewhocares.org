@@ -6214,12 +6214,6 @@
             "proxycfg.marketscore.com": "INACTIVE",
             "quareclk.com": "INACTIVE"
         },
-        "1585607444": {
-            "oss-crules.marketscore.com": "INACTIVE",
-            "oss-survey.marketscore.com": "INACTIVE",
-            "ostats.mozilla.com": "INACTIVE",
-            "paxito.sitetracker.com": "INACTIVE"
-        },
         "1585621020": {
             "economisttestcollect.insightfirst.com": "INACTIVE",
             "educing.info": "INACTIVE",
@@ -6516,6 +6510,12 @@
         },
         "1585687925": {
             "nedstat.s0.nl": "INACTIVE"
+        },
+        "1585695924": {
+            "oss-crules.marketscore.com": "INACTIVE",
+            "oss-survey.marketscore.com": "INACTIVE",
+            "ostats.mozilla.com": "INACTIVE",
+            "paxito.sitetracker.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
