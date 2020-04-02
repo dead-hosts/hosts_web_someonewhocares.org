@@ -6216,24 +6216,6 @@
         "1585715277": {
             "quareclk.com": "INACTIVE"
         },
-        "1585729760": {
-            "metrics.parallels.com": "INACTIVE",
-            "metrics.performancing.com": "INACTIVE"
-        },
-        "1585737307": {
-            "on.nimp.org": "INACTIVE"
-        },
-        "1585737308": {
-            "cnt.xcounter.com": "INACTIVE",
-            "collector.newsx.cc": "INACTIVE"
-        },
-        "1585737309": {
-            "counter.123counts.com": "INACTIVE",
-            "counter.1stblaze.com": "INACTIVE"
-        },
-        "1585737310": {
-            "metrics.premiere.com": "INACTIVE"
-        },
         "1585742170": {
             "www.nimp.org": "INACTIVE"
         },
@@ -6518,6 +6500,17 @@
             "counter.webcom.com": "INACTIVE",
             "counters.gigya.com": "INACTIVE",
             "counters.xaraonline.com": "INACTIVE"
+        },
+        "1585828084": {
+            "cnt.xcounter.com": "INACTIVE",
+            "collector.newsx.cc": "INACTIVE",
+            "counter.123counts.com": "INACTIVE",
+            "counter.1stblaze.com": "INACTIVE"
+        },
+        "1585828086": {
+            "metrics.parallels.com": "INACTIVE",
+            "metrics.performancing.com": "INACTIVE",
+            "metrics.premiere.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
