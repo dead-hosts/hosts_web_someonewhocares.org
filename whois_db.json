@@ -2902,7 +2902,7 @@
     "cyberscat.com": {
         "epoch": 1585872000.0,
         "expiration_date": "03-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "cydoor.com": {
         "epoch": 1599696000.0,
@@ -4780,8 +4780,8 @@
         "state": "future"
     },
     "iplogger.org": {
-        "epoch": 1585872000.0,
-        "expiration_date": "03-apr-2020",
+        "epoch": 1648944000.0,
+        "expiration_date": "03-apr-2022",
         "state": "future"
     },
     "irony.world": {

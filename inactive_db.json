@@ -6205,12 +6205,6 @@
         "1585715277": {
             "quareclk.com": "INACTIVE"
         },
-        "1585785294": {
-            "oss-crules.marketscore.com": "INACTIVE",
-            "oss-survey.marketscore.com": "INACTIVE",
-            "ostats.mozilla.com": "INACTIVE",
-            "paxito.sitetracker.com": "INACTIVE"
-        },
         "1585785295": {
             "raw.oggifinogi.com": "INACTIVE",
             "remotrk.com": "INACTIVE",
@@ -6510,6 +6504,12 @@
             "proxy.sj3.marketscore.com": "INACTIVE",
             "proxy.sj4.marketscore.com": "INACTIVE",
             "proxycfg.marketscore.com": "INACTIVE"
+        },
+        "1585872510": {
+            "oss-crules.marketscore.com": "INACTIVE",
+            "oss-survey.marketscore.com": "INACTIVE",
+            "ostats.mozilla.com": "INACTIVE",
+            "paxito.sitetracker.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
