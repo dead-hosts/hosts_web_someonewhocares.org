@@ -6201,26 +6201,11 @@
             "rr5.xxxcounter.com": "INACTIVE",
             "rr7.xxxcounter.com": "INACTIVE"
         },
-        "1585865798": {
-            "p.iovation.com": "INACTIVE",
-            "pmg.ad-logics.com": "INACTIVE"
-        },
-        "1585869412": {
-            "pong.qubitproducts.com": "INACTIVE",
-            "postclick.adcentriconline.com": "INACTIVE",
-            "postgazettecollect.247realmedia.com": "INACTIVE",
-            "printmail.biz": "INACTIVE"
-        },
         "1585869413": {
             "p.twitter.com": "INACTIVE",
-            "proxy.ia2.marketscore.com": "INACTIVE",
-            "proxy.ia3.marketscore.com": "INACTIVE",
-            "proxy.ia4.marketscore.com": "INACTIVE",
-            "proxy.or3.marketscore.com": "INACTIVE",
             "proxy.or4.marketscore.com": "INACTIVE",
             "proxy.sj3.marketscore.com": "INACTIVE",
-            "proxy.sj4.marketscore.com": "INACTIVE",
-            "proxycfg.marketscore.com": "INACTIVE"
+            "proxy.sj4.marketscore.com": "INACTIVE"
         },
         "1585872510": {
             "oss-crules.marketscore.com": "INACTIVE",
@@ -6514,6 +6499,21 @@
         },
         "1585953203": {
             "nedstat.s0.nl": "INACTIVE"
+        },
+        "1585956478": {
+            "p.iovation.com": "INACTIVE",
+            "pmg.ad-logics.com": "INACTIVE",
+            "pong.qubitproducts.com": "INACTIVE",
+            "postclick.adcentriconline.com": "INACTIVE",
+            "postgazettecollect.247realmedia.com": "INACTIVE",
+            "printmail.biz": "INACTIVE",
+            "proxy.ia2.marketscore.com": "INACTIVE",
+            "proxycfg.marketscore.com": "INACTIVE"
+        },
+        "1585956479": {
+            "proxy.ia3.marketscore.com": "INACTIVE",
+            "proxy.ia4.marketscore.com": "INACTIVE",
+            "proxy.or3.marketscore.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
