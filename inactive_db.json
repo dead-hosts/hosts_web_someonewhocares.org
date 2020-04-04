@@ -6207,12 +6207,6 @@
             "proxy.sj3.marketscore.com": "INACTIVE",
             "proxy.sj4.marketscore.com": "INACTIVE"
         },
-        "1585872510": {
-            "oss-crules.marketscore.com": "INACTIVE",
-            "oss-survey.marketscore.com": "INACTIVE",
-            "ostats.mozilla.com": "INACTIVE",
-            "paxito.sitetracker.com": "INACTIVE"
-        },
         "1585882521": {
             "quareclk.com": "INACTIVE",
             "raw.oggifinogi.com": "INACTIVE",
@@ -6517,6 +6511,14 @@
         },
         "1585959997": {
             "www.goat.cx": "INACTIVE"
+        },
+        "1585963539": {
+            "oss-crules.marketscore.com": "INACTIVE",
+            "oss-survey.marketscore.com": "INACTIVE",
+            "ostats.mozilla.com": "INACTIVE"
+        },
+        "1585963540": {
+            "paxito.sitetracker.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
