@@ -6208,11 +6208,6 @@
             "rr3.xxxcounter.com": "INACTIVE"
         },
         "1586050558": {
-            "oss-crules.marketscore.com": "INACTIVE",
-            "oss-survey.marketscore.com": "INACTIVE",
-            "ostats.mozilla.com": "INACTIVE",
-            "p.iovation.com": "INACTIVE",
-            "paxito.sitetracker.com": "INACTIVE",
             "pmg.ad-logics.com": "INACTIVE",
             "pong.qubitproducts.com": "INACTIVE",
             "postclick.adcentriconline.com": "INACTIVE",
@@ -6514,6 +6509,13 @@
         },
         "1586138033": {
             "www.goat.cx": "INACTIVE"
+        },
+        "1586145735": {
+            "oss-crules.marketscore.com": "INACTIVE",
+            "oss-survey.marketscore.com": "INACTIVE",
+            "ostats.mozilla.com": "INACTIVE",
+            "p.iovation.com": "INACTIVE",
+            "paxito.sitetracker.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
