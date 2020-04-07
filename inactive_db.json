@@ -6207,23 +6207,7 @@
             "roskatrack.roskadirect.com": "INACTIVE",
             "rr3.xxxcounter.com": "INACTIVE"
         },
-        "1586050558": {
-            "printmail.biz": "INACTIVE"
-        },
-        "1586079328": {
-            "proxy.ia2.marketscore.com": "INACTIVE",
-            "proxy.ia3.marketscore.com": "INACTIVE",
-            "proxy.ia4.marketscore.com": "INACTIVE",
-            "proxy.or3.marketscore.com": "INACTIVE",
-            "proxycfg.marketscore.com": "INACTIVE"
-        },
         "1586079329": {
-            "p.twitter.com": "INACTIVE",
-            "proxy.or4.marketscore.com": "INACTIVE",
-            "proxy.sj3.marketscore.com": "INACTIVE",
-            "proxy.sj4.marketscore.com": "INACTIVE",
-            "quareclk.com": "INACTIVE",
-            "raw.oggifinogi.com": "INACTIVE",
             "remotrk.com": "INACTIVE"
         },
         "1586173558": {
@@ -6524,6 +6508,22 @@
             "clicktracker.postmasterglobal.com": "INACTIVE",
             "clicktracks.webmetro.com": "INACTIVE",
             "clk.aboxdeal.com": "INACTIVE"
+        },
+        "1586257593": {
+            "p.twitter.com": "INACTIVE",
+            "printmail.biz": "INACTIVE",
+            "proxy.ia2.marketscore.com": "INACTIVE",
+            "proxy.ia3.marketscore.com": "INACTIVE",
+            "proxy.ia4.marketscore.com": "INACTIVE",
+            "proxy.or3.marketscore.com": "INACTIVE",
+            "proxy.or4.marketscore.com": "INACTIVE",
+            "proxy.sj3.marketscore.com": "INACTIVE",
+            "proxy.sj4.marketscore.com": "INACTIVE",
+            "proxycfg.marketscore.com": "INACTIVE"
+        },
+        "1586257594": {
+            "quareclk.com": "INACTIVE",
+            "raw.oggifinogi.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
