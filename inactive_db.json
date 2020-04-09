@@ -6212,10 +6212,6 @@
         },
         "1586257593": {
             "p.twitter.com": "INACTIVE",
-            "proxy.ia4.marketscore.com": "INACTIVE",
-            "proxy.or3.marketscore.com": "INACTIVE",
-            "proxy.or4.marketscore.com": "INACTIVE",
-            "proxy.sj3.marketscore.com": "INACTIVE",
             "proxy.sj4.marketscore.com": "INACTIVE"
         },
         "1586257594": {
@@ -6499,6 +6495,12 @@
         },
         "1586401194": {
             "www.ads234.com": "INACTIVE"
+        },
+        "1586414743": {
+            "proxy.ia4.marketscore.com": "INACTIVE",
+            "proxy.or3.marketscore.com": "INACTIVE",
+            "proxy.or4.marketscore.com": "INACTIVE",
+            "proxy.sj3.marketscore.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
