@@ -6241,7 +6241,6 @@
             "proxy.sj4.marketscore.com": "INACTIVE"
         },
         "1586454373": {
-            "metric.thenation.com": "INACTIVE",
             "mobile.webvisor.com": "INACTIVE",
             "monetizer.com-01.site": "INACTIVE",
             "mpsnare.iesnare.co.uk": "INACTIVE",
@@ -6516,6 +6515,12 @@
         },
         "1586553017": {
             "metrics.technologyreview.com": "INACTIVE"
+        },
+        "1586557189": {
+            "counter.webtrends.com": "INACTIVE"
+        },
+        "1586557191": {
+            "metric.thenation.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
