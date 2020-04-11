@@ -6262,18 +6262,6 @@
             "p.iovation.com": "INACTIVE",
             "perso.estat.com": "INACTIVE"
         },
-        "1586541105": {
-            "log.clickstream.co.za": "INACTIVE",
-            "log.hankooki.com": "INACTIVE",
-            "logc25.xiti.com": "INACTIVE"
-        },
-        "1586541106": {
-            "log.statistici.ro": "INACTIVE",
-            "logs.comics.com": "INACTIVE",
-            "logv.xiti.com": "INACTIVE",
-            "lycoscollect.247realmedia.com": "INACTIVE",
-            "lycoscollect.realmedia.com": "INACTIVE"
-        },
         "1586545150": {
             "mailcheckisp.biz": "INACTIVE",
             "mailtrack1313.com": "INACTIVE",
@@ -6536,6 +6524,18 @@
             "liapentruromania.ro": "INACTIVE",
             "log1.countomat.com": "INACTIVE",
             "log4.quintelligence.com": "INACTIVE"
+        },
+        "1586633379": {
+            "logc25.xiti.com": "INACTIVE"
+        },
+        "1586633380": {
+            "log.clickstream.co.za": "INACTIVE",
+            "log.hankooki.com": "INACTIVE",
+            "log.statistici.ro": "INACTIVE",
+            "logs.comics.com": "INACTIVE",
+            "logv.xiti.com": "INACTIVE",
+            "lycoscollect.247realmedia.com": "INACTIVE",
+            "lycoscollect.realmedia.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
