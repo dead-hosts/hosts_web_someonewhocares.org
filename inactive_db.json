@@ -6313,9 +6313,6 @@
             "mpsnare.iesnare.co.uk": "INACTIVE"
         },
         "1586722434": {
-            "impsnare.iesnare.com": "INACTIVE",
-            "int.sitestat.com": "INACTIVE",
-            "ioit.iovation.com": "INACTIVE",
             "iprocollect.realmedia.com": "INACTIVE"
         },
         "1586727002": {
@@ -6534,6 +6531,14 @@
         },
         "1586811879": {
             "api.tumra.com": "INACTIVE"
+        },
+        "1586817012": {
+            "emea.rel.msn.com": "INACTIVE"
+        },
+        "1586817013": {
+            "impsnare.iesnare.com": "INACTIVE",
+            "int.sitestat.com": "INACTIVE",
+            "ioit.iovation.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
