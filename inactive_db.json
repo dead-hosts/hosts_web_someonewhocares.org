@@ -6272,11 +6272,7 @@
         "1586615719": {
             "nedstat.s0.nl": "INACTIVE"
         },
-        "1586633379": {
-            "logc25.xiti.com": "INACTIVE"
-        },
         "1586633380": {
-            "log.clickstream.co.za": "INACTIVE",
             "log.hankooki.com": "INACTIVE",
             "log.statistici.ro": "INACTIVE",
             "logs.comics.com": "INACTIVE",
@@ -6537,6 +6533,10 @@
         },
         "1586826019": {
             "jsonlinecollect.247realmedia.com": "INACTIVE"
+        },
+        "1586830437": {
+            "log.clickstream.co.za": "INACTIVE",
+            "logc25.xiti.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_someonewhocares.org/host.list": {
