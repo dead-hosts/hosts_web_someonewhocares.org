@@ -2376,8 +2376,8 @@
         "stats.directnic.com": {
             "included_at_epoch": 1587944902.543983,
             "included_at_iso": "2020-04-26T23:48:22.543983",
-            "last_retested_at_epoch": 1587944902.543983,
-            "last_retested_at_iso": "2020-04-26T23:48:22.543983",
+            "last_retested_at_epoch": 1588066130.382106,
+            "last_retested_at_iso": "2020-04-28T09:28:50.382106",
             "status": "INACTIVE"
         },
         "stats.f-secure.com": {
@@ -2469,13 +2469,6 @@
             "included_at_iso": "2020-04-27T15:19:52.352881",
             "last_retested_at_epoch": 1588000792.352881,
             "last_retested_at_iso": "2020-04-27T15:19:52.352881",
-            "status": "INACTIVE"
-        },
-        "www.ads234.com": {
-            "included_at_epoch": 1587975750.70668,
-            "included_at_iso": "2020-04-27T08:22:30.706680",
-            "last_retested_at_epoch": 1587975750.70668,
-            "last_retested_at_iso": "2020-04-27T08:22:30.706680",
             "status": "INACTIVE"
         },
         "www.ads345.com": {
