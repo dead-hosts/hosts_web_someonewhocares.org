@@ -840,6 +840,13 @@
             "last_retested_at_iso": "2020-04-28T20:11:01.664068",
             "status": "INACTIVE"
         },
+        "e-2dj6wjlougazmao.stats.esomniture.com": {
+            "included_at_epoch": 1588174039.397566,
+            "included_at_iso": "2020-04-29T15:27:19.397566",
+            "last_retested_at_epoch": 1588174039.397566,
+            "last_retested_at_iso": "2020-04-29T15:27:19.397566",
+            "status": "INACTIVE"
+        },
         "economisttestcollect.insightfirst.com": {
             "included_at_epoch": 1587162640.0,
             "included_at_iso": "2020-04-17T22:30:40",
@@ -950,13 +957,6 @@
             "included_at_iso": "2020-04-17T23:51:24",
             "last_retested_at_epoch": 1588108925.698954,
             "last_retested_at_iso": "2020-04-28T21:22:05.698954",
-            "status": "INACTIVE"
-        },
-        "gcounter.hosting4u.net": {
-            "included_at_epoch": 1588083498.733123,
-            "included_at_iso": "2020-04-28T14:18:18.733123",
-            "last_retested_at_epoch": 1588083498.733123,
-            "last_retested_at_iso": "2020-04-28T14:18:18.733123",
             "status": "INACTIVE"
         },
         "gkkzngresullts.com": {
