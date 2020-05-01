@@ -392,6 +392,13 @@
             "last_retested_at_iso": "2020-04-30T12:09:58.774681",
             "status": "INACTIVE"
         },
+        "cgicounter.onlinehome.de": {
+            "included_at_epoch": 1588316369.985119,
+            "included_at_iso": "2020-05-01T06:59:29.985119",
+            "last_retested_at_epoch": 1588316369.985119,
+            "last_retested_at_iso": "2020-05-01T06:59:29.985119",
+            "status": "INACTIVE"
+        },
         "ci-accountlock.iovation.com": {
             "included_at_epoch": 1587157995.0,
             "included_at_iso": "2020-04-17T21:13:15",
