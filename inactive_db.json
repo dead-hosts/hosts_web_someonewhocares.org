@@ -2548,6 +2548,20 @@
             "last_retested_at_iso": "2020-04-30T22:25:50.128307",
             "status": "INACTIVE"
         },
+        "stats.video.search.yahoo.com": {
+            "included_at_epoch": 1588297291.868954,
+            "included_at_iso": "2020-05-01T01:41:31.868954",
+            "last_retested_at_epoch": 1588297291.868954,
+            "last_retested_at_iso": "2020-05-01T01:41:31.868954",
+            "status": "INACTIVE"
+        },
+        "stats.vodpod.com": {
+            "included_at_epoch": 1588297291.948661,
+            "included_at_iso": "2020-05-01T01:41:31.948661",
+            "last_retested_at_epoch": 1588297291.948661,
+            "last_retested_at_iso": "2020-05-01T01:41:31.948661",
+            "status": "INACTIVE"
+        },
         "www.2girls1cup-free.com": {
             "included_at_epoch": 1588252217.54524,
             "included_at_iso": "2020-04-30T13:10:17.545240",
