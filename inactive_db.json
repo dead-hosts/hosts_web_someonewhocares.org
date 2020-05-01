@@ -2597,6 +2597,13 @@
             "last_retested_at_iso": "2020-05-01T04:48:38.381853",
             "status": "INACTIVE"
         },
+        "stats5.lightningcast.com": {
+            "included_at_epoch": 1588324007.705497,
+            "included_at_iso": "2020-05-01T09:06:47.705497",
+            "last_retested_at_epoch": 1588324007.705497,
+            "last_retested_at_iso": "2020-05-01T09:06:47.705497",
+            "status": "INACTIVE"
+        },
         "www.2girls1cup-free.com": {
             "included_at_epoch": 1588252217.54524,
             "included_at_iso": "2020-04-30T13:10:17.545240",
