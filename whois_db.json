@@ -305,8 +305,8 @@
         "state": "future"
     },
     "abclnks.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "abetterinternet.com": {
@@ -2585,9 +2585,9 @@
         "state": "future"
     },
     "clownsong.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
-        "state": "past"
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
     },
     "cltrkr.com": {
         "epoch": 1604448000.0,
@@ -4377,7 +4377,7 @@
     "hai2u.com": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "hajoopteg.com": {
         "epoch": 1607299200.0,
@@ -8122,7 +8122,7 @@
     "sourmath.com": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "sousay.info": {
         "epoch": 1592697600.0,
