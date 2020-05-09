@@ -3477,7 +3477,7 @@
     "errx049.icu": {
         "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "etahub.com": {
         "epoch": 1604966400.0,
@@ -3865,9 +3865,9 @@
         "state": "future"
     },
     "freedailydownload.com": {
-        "epoch": 1582070400.0,
-        "expiration_date": "19-feb-2020",
-        "state": "past"
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
     },
     "freefoodprovider.com": {
         "epoch": 1590969600.0,
@@ -4440,8 +4440,8 @@
         "state": "future"
     },
     "hallaert.online": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "haouzy.info": {
