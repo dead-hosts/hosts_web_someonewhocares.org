@@ -31430,11 +31430,25 @@
             "last_retested_at_iso": "2020-07-04T15:11:03.717876",
             "status": "INACTIVE"
         },
+        "track.msadcenter.vcf.com": {
+            "included_at_epoch": 1593944693.080333,
+            "included_at_iso": "2020-07-05T10:24:53.080333",
+            "last_retested_at_epoch": 1593944693.080333,
+            "last_retested_at_iso": "2020-07-05T10:24:53.080333",
+            "status": "INACTIVE"
+        },
         "track.msadcenter.vyp.com": {
             "included_at_epoch": 1593531388.005499,
             "included_at_iso": "2020-06-30T15:36:28.005499",
             "last_retested_at_epoch": 1593875464.020361,
             "last_retested_at_iso": "2020-07-04T15:11:04.020361",
+            "status": "INACTIVE"
+        },
+        "track.msadcenter.wdm.com": {
+            "included_at_epoch": 1593944693.233106,
+            "included_at_iso": "2020-07-05T10:24:53.233106",
+            "last_retested_at_epoch": 1593944693.233106,
+            "last_retested_at_iso": "2020-07-05T10:24:53.233106",
             "status": "INACTIVE"
         },
         "track.msadcenter.won.com": {
