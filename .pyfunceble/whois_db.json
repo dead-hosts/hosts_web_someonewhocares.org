@@ -7029,8 +7029,9 @@
         "state": "future"
     },
     "phoenixads.co.in": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "phonejapan.com": {
@@ -7149,8 +7150,9 @@
         "state": "future"
     },
     "pocofh.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pohs2oom.com": {
@@ -7614,8 +7616,9 @@
         "state": "future"
     },
     "remekcikkek.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rencontreavenue.com": {
@@ -8166,6 +8169,7 @@
     "slowmacfaster.trade": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
+        "server": "whois.nic.trade",
         "state": "past"
     },
     "smart-scripts.com": {
