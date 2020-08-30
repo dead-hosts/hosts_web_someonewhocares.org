@@ -2754,6 +2754,7 @@
     "combinationsmart.bid": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
+        "server": "whois.nic.bid",
         "state": "past"
     },
     "compolice.com": {
@@ -2907,8 +2908,9 @@
         "state": "future"
     },
     "cpmadvisors.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cpxdeliv.com": {
@@ -3492,8 +3494,9 @@
         "state": "future"
     },
     "entertainment-specials.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "erdekeshirek.club": {
@@ -3757,8 +3760,9 @@
         "state": "future"
     },
     "fin.tips": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.nic.tips",
         "state": "future"
     },
     "findmenow.info": {
@@ -4669,6 +4673,7 @@
     "hirvilag.co": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
+        "server": "whois.nic.co",
         "state": "past"
     },
     "hirzona24.com": {
@@ -5654,6 +5659,7 @@
     "mackeeper-center.club": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "macleaner.space": {
@@ -5684,7 +5690,8 @@
     "magyarkozosseg.net": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "magyarnep.me": {
         "epoch": 1610064000.0,
