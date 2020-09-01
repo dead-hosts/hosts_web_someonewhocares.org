@@ -5630,8 +5630,9 @@
         "state": "future"
     },
     "maaxmarket.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "macads.net": {
@@ -5691,10 +5692,10 @@
         "state": "future"
     },
     "magyarkozosseg.net": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "magyarnep.me": {
         "epoch": 1610064000.0,
@@ -7327,7 +7328,8 @@
     "productresearchpanel.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "producttestpanel.com": {
         "epoch": 1624924800.0,
