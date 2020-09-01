@@ -10118,8 +10118,8 @@
         "bonuscashh.com": {
             "included_at_epoch": 1598458143.035608,
             "included_at_iso": "2020-08-26T16:09:03.035608",
-            "last_retested_at_epoch": 1598801533.930284,
-            "last_retested_at_iso": "2020-08-30T15:32:13.930284",
+            "last_retested_at_epoch": 1598974378.090696,
+            "last_retested_at_iso": "2020-09-01T15:32:58.090696",
             "status": "INACTIVE"
         },
         "bookclub-offer.com": {
@@ -16992,8 +16992,8 @@
         "iframecash.biz": {
             "included_at_epoch": 1598458142.900976,
             "included_at_iso": "2020-08-26T16:09:02.900976",
-            "last_retested_at_epoch": 1598801534.080697,
-            "last_retested_at_iso": "2020-08-30T15:32:14.080697",
+            "last_retested_at_epoch": 1598974377.903624,
+            "last_retested_at_iso": "2020-09-01T15:32:57.903624",
             "status": "INACTIVE"
         },
         "ifwry.yeslaptop.win": {
@@ -20762,6 +20762,13 @@
             "last_retested_at_iso": "2020-08-28T18:13:09.968583",
             "status": "INACTIVE"
         },
+        "mac-os.apple.com-secured.online": {
+            "included_at_epoch": 1598974378.648455,
+            "included_at_iso": "2020-09-01T15:32:58.648455",
+            "last_retested_at_epoch": 1598974378.648455,
+            "last_retested_at_iso": "2020-09-01T15:32:58.648455",
+            "status": "INACTIVE"
+        },
         "mac-protection.info": {
             "included_at_epoch": 1598458152.647075,
             "included_at_iso": "2020-08-26T16:09:12.647075",
@@ -22442,6 +22449,13 @@
             "last_retested_at_iso": "2020-08-28T15:14:14.071400",
             "status": "INACTIVE"
         },
+        "mobile-antivirus.club": {
+            "included_at_epoch": 1598974378.85844,
+            "included_at_iso": "2020-09-01T15:32:58.858440",
+            "last_retested_at_epoch": 1598974378.85844,
+            "last_retested_at_iso": "2020-09-01T15:32:58.858440",
+            "status": "INACTIVE"
+        },
         "mobile-browser.me": {
             "included_at_epoch": 1598467530.61729,
             "included_at_iso": "2020-08-26T18:45:30.617290",
@@ -23406,6 +23420,13 @@
             "included_at_iso": "2020-08-14T18:32:56.685049",
             "last_retested_at_epoch": 1598640173.480907,
             "last_retested_at_iso": "2020-08-28T18:42:53.480907",
+            "status": "INACTIVE"
+        },
+        "notification-system.tools": {
+            "included_at_epoch": 1598974379.057073,
+            "included_at_iso": "2020-09-01T15:32:59.057073",
+            "last_retested_at_epoch": 1598974379.057073,
+            "last_retested_at_iso": "2020-09-01T15:32:59.057073",
             "status": "INACTIVE"
         },
         "notori.oewabox.at": {
