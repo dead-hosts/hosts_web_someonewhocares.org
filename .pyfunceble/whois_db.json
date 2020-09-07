@@ -1999,8 +1999,9 @@
         "state": "future"
     },
     "blw4-1.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bodelen.com": {
@@ -5941,8 +5942,9 @@
         "state": "future"
     },
     "microsoftsecurity-experts7565.xyz": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "microsoftsupport.xyz": {
@@ -9798,7 +9800,8 @@
     "willysy.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "win-phone-14.com": {
         "epoch": 1625961600.0,
