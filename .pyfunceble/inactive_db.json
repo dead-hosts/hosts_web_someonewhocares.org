@@ -2436,11 +2436,25 @@
             "last_retested_at_iso": "2020-08-28T16:53:37.846967",
             "status": "INACTIVE"
         },
+        "admerize.be": {
+            "included_at_epoch": 1599494106.541907,
+            "included_at_iso": "2020-09-07T15:55:06.541907",
+            "last_retested_at_epoch": 1599494106.541907,
+            "last_retested_at_iso": "2020-09-07T15:55:06.541907",
+            "status": "INACTIVE"
+        },
         "admeta.vo.llnwd.net": {
             "included_at_epoch": 1598460667.203907,
             "included_at_iso": "2020-08-26T16:51:07.203907",
             "last_retested_at_epoch": 1598633618.041093,
             "last_retested_at_iso": "2020-08-28T16:53:38.041093",
+            "status": "INACTIVE"
+        },
+        "admin.digitalacre.com": {
+            "included_at_epoch": 1599494106.692038,
+            "included_at_iso": "2020-09-07T15:55:06.692038",
+            "last_retested_at_epoch": 1599494106.692038,
+            "last_retested_at_iso": "2020-09-07T15:55:06.692038",
             "status": "INACTIVE"
         },
         "admin.iesnare.co.uk": {
@@ -3290,6 +3304,13 @@
             "last_retested_at_iso": "2020-08-28T16:53:56.826764",
             "status": "INACTIVE"
         },
+        "ads.digitalacre.com": {
+            "included_at_epoch": 1599494107.441735,
+            "included_at_iso": "2020-09-07T15:55:07.441735",
+            "last_retested_at_epoch": 1599494107.441735,
+            "last_retested_at_iso": "2020-09-07T15:55:07.441735",
+            "status": "INACTIVE"
+        },
         "ads.digitalhealthcare.com": {
             "included_at_epoch": 1598461719.153029,
             "included_at_iso": "2020-08-26T17:08:39.153029",
@@ -3645,6 +3666,13 @@
             "included_at_iso": "2020-08-26T17:08:46.603644",
             "last_retested_at_epoch": 1598633645.025054,
             "last_retested_at_iso": "2020-08-28T16:54:05.025054",
+            "status": "INACTIVE"
+        },
+        "ads.i-am-bored.com": {
+            "included_at_epoch": 1599494107.862013,
+            "included_at_iso": "2020-09-07T15:55:07.862013",
+            "last_retested_at_epoch": 1599494107.862013,
+            "last_retested_at_iso": "2020-09-07T15:55:07.862013",
             "status": "INACTIVE"
         },
         "ads.i12.de": {
@@ -8200,8 +8228,8 @@
         "andpolice.com": {
             "included_at_epoch": 1598459581.96213,
             "included_at_iso": "2020-08-26T16:33:01.962130",
-            "last_retested_at_epoch": 1599493037.535138,
-            "last_retested_at_iso": "2020-09-07T15:37:17.535138",
+            "last_retested_at_epoch": 1599494104.127265,
+            "last_retested_at_iso": "2020-09-07T15:55:04.127265",
             "status": "INACTIVE"
         },
         "andrionmobileapp.bid": {
@@ -12113,8 +12141,8 @@
         "cmrpolice.com": {
             "included_at_epoch": 1598459582.307403,
             "included_at_iso": "2020-08-26T16:33:02.307403",
-            "last_retested_at_epoch": 1599493037.71773,
-            "last_retested_at_iso": "2020-09-07T15:37:17.717730",
+            "last_retested_at_epoch": 1599494104.299534,
+            "last_retested_at_iso": "2020-09-07T15:55:04.299534",
             "status": "INACTIVE"
         },
         "cn.ad.adon.vpon.com": {
@@ -13765,8 +13793,8 @@
         "egypolice.net": {
             "included_at_epoch": 1598459582.508067,
             "included_at_iso": "2020-08-26T16:33:02.508067",
-            "last_retested_at_epoch": 1599493037.871391,
-            "last_retested_at_iso": "2020-09-07T15:37:17.871391",
+            "last_retested_at_epoch": 1599494104.461161,
+            "last_retested_at_iso": "2020-09-07T15:55:04.461161",
             "status": "INACTIVE"
         },
         "ehg-associatenewmedia.hitbox.com": {
@@ -15186,8 +15214,8 @@
         "fvid.atm.youku.com": {
             "included_at_epoch": 1598459582.668474,
             "included_at_iso": "2020-08-26T16:33:02.668474",
-            "last_retested_at_epoch": 1599493038.024232,
-            "last_retested_at_iso": "2020-09-07T15:37:18.024232",
+            "last_retested_at_epoch": 1599494104.652675,
+            "last_retested_at_iso": "2020-09-07T15:55:04.652675",
             "status": "INACTIVE"
         },
         "fw433.npic.ac.cn": {
@@ -16145,8 +16173,8 @@
         "gumpolice.com": {
             "included_at_epoch": 1598459582.830114,
             "included_at_iso": "2020-08-26T16:33:02.830114",
-            "last_retested_at_epoch": 1599493038.173715,
-            "last_retested_at_iso": "2020-09-07T15:37:18.173715",
+            "last_retested_at_epoch": 1599494104.804837,
+            "last_retested_at_iso": "2020-09-07T15:55:04.804837",
             "status": "INACTIVE"
         },
         "guptamedianetwork.com": {
@@ -17342,8 +17370,8 @@
         "indpolice.com": {
             "included_at_epoch": 1598459583.006201,
             "included_at_iso": "2020-08-26T16:33:03.006201",
-            "last_retested_at_epoch": 1599493038.325731,
-            "last_retested_at_iso": "2020-09-07T15:37:18.325731",
+            "last_retested_at_epoch": 1599494104.958079,
+            "last_retested_at_iso": "2020-09-07T15:55:04.958079",
             "status": "INACTIVE"
         },
         "induweb.oewabox.at": {
@@ -21220,8 +21248,8 @@
         "mcopolice.com": {
             "included_at_epoch": 1598459583.167547,
             "included_at_iso": "2020-08-26T16:33:03.167547",
-            "last_retested_at_epoch": 1599493038.479163,
-            "last_retested_at_iso": "2020-09-07T15:37:18.479163",
+            "last_retested_at_epoch": 1599494105.111683,
+            "last_retested_at_iso": "2020-09-07T15:55:05.111683",
             "status": "INACTIVE"
         },
         "mds.centrport.net": {
@@ -27345,15 +27373,15 @@
         "ruspolice.com": {
             "included_at_epoch": 1598459583.48771,
             "included_at_iso": "2020-08-26T16:33:03.487710",
-            "last_retested_at_epoch": 1599493038.777891,
-            "last_retested_at_iso": "2020-09-07T15:37:18.777891",
+            "last_retested_at_epoch": 1599494105.269217,
+            "last_retested_at_iso": "2020-09-07T15:55:05.269217",
             "status": "INACTIVE"
         },
         "ruspolice.net": {
             "included_at_epoch": 1598459583.346774,
             "included_at_iso": "2020-08-26T16:33:03.346774",
-            "last_retested_at_epoch": 1599493038.631676,
-            "last_retested_at_iso": "2020-09-07T15:37:18.631676",
+            "last_retested_at_epoch": 1599494105.420514,
+            "last_retested_at_iso": "2020-09-07T15:55:05.420514",
             "status": "INACTIVE"
         },
         "russ-shalavy.ru": {
