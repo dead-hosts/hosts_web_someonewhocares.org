@@ -5543,7 +5543,8 @@
     "listennewsnetwork.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "loading321.com": {
         "epoch": 1623542400.0,
