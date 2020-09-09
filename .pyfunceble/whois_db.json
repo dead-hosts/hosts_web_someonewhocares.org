@@ -8592,7 +8592,8 @@
     "swinon.site": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
-        "state": "future"
+        "server": "whois.nic.site",
+        "state": "past"
     },
     "symbiosting.com": {
         "epoch": 1577836800.0,
