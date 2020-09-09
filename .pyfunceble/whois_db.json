@@ -1019,7 +1019,8 @@
     "adspirit.net": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "adspiro.pl": {
         "epoch": "1563926400",
