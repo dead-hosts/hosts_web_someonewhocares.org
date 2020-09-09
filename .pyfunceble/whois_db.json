@@ -3099,8 +3099,9 @@
         "state": "future"
     },
     "datedate.today": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.nic.today",
         "state": "future"
     },
     "datingadvertising.com": {
@@ -5544,10 +5545,10 @@
         "state": "future"
     },
     "listennewsnetwork.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "loading321.com": {
         "epoch": 1623542400.0,
