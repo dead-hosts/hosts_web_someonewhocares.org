@@ -8460,6 +8460,12 @@
         "expiration_date": "05-may-2021",
         "state": "future"
     },
+    "storeoverlylatestapplication.best": {
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
+        "server": "whois.nic.best",
+        "state": "future"
+    },
     "strawpoii.me": {
         "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
@@ -8667,8 +8673,9 @@
         "state": "future"
     },
     "targetctracker.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "targetnet.com": {
@@ -9273,8 +9280,9 @@
         "state": "future"
     },
     "tudnodkell.info": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "tuniaf.com": {
