@@ -1017,10 +1017,10 @@
         "state": "future"
     },
     "adspirit.net": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "adspiro.pl": {
         "epoch": "1563926400",
@@ -1485,8 +1485,9 @@
         "state": "future"
     },
     "appnexus.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1662854400.0,
+        "expiration_date": "11-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "appodeal.com": {

@@ -7518,6 +7518,20 @@
             "last_retested_at_iso": "2020-08-28T17:36:04.977949",
             "status": "INACTIVE"
         },
+        "adverteren.vakmedianet.nl": {
+            "included_at_epoch": 1599840773.5256,
+            "included_at_iso": "2020-09-11T16:12:53.525600",
+            "last_retested_at_epoch": 1599840773.5256,
+            "last_retested_at_iso": "2020-09-11T16:12:53.525600",
+            "status": "INACTIVE"
+        },
+        "adverterenbijnh.nl": {
+            "included_at_epoch": 1599840773.672947,
+            "included_at_iso": "2020-09-11T16:12:53.672947",
+            "last_retested_at_epoch": 1599840773.672947,
+            "last_retested_at_iso": "2020-09-11T16:12:53.672947",
+            "status": "INACTIVE"
+        },
         "adverterenbijsbs.nl": {
             "included_at_epoch": 1597426220.950212,
             "included_at_iso": "2020-08-14T17:30:20.950212",
@@ -7565,6 +7579,13 @@
             "included_at_iso": "2020-08-26T17:39:16.663262",
             "last_retested_at_epoch": 1598636166.166886,
             "last_retested_at_iso": "2020-08-28T17:36:06.166886",
+            "status": "INACTIVE"
+        },
+        "adverts.ecn.co.uk": {
+            "included_at_epoch": 1599840773.884359,
+            "included_at_iso": "2020-09-11T16:12:53.884359",
+            "last_retested_at_epoch": 1599840773.884359,
+            "last_retested_at_iso": "2020-09-11T16:12:53.884359",
             "status": "INACTIVE"
         },
         "adverts.im4ges.com": {
@@ -8242,8 +8263,8 @@
         "andpolice.com": {
             "included_at_epoch": 1598459581.96213,
             "included_at_iso": "2020-08-26T16:33:01.962130",
-            "last_retested_at_epoch": 1599839737.185121,
-            "last_retested_at_iso": "2020-09-11T15:55:37.185121",
+            "last_retested_at_epoch": 1599840770.368452,
+            "last_retested_at_iso": "2020-09-11T16:12:50.368452",
             "status": "INACTIVE"
         },
         "andrionmobileapp.bid": {
@@ -12169,8 +12190,8 @@
         "cmrpolice.com": {
             "included_at_epoch": 1598459582.307403,
             "included_at_iso": "2020-08-26T16:33:02.307403",
-            "last_retested_at_epoch": 1599839737.34454,
-            "last_retested_at_iso": "2020-09-11T15:55:37.344540",
+            "last_retested_at_epoch": 1599840770.53262,
+            "last_retested_at_iso": "2020-09-11T16:12:50.532620",
             "status": "INACTIVE"
         },
         "cn.ad.adon.vpon.com": {
@@ -13562,8 +13583,8 @@
         "egypolice.net": {
             "included_at_epoch": 1598459582.508067,
             "included_at_iso": "2020-08-26T16:33:02.508067",
-            "last_retested_at_epoch": 1599839737.506014,
-            "last_retested_at_iso": "2020-09-11T15:55:37.506014",
+            "last_retested_at_epoch": 1599840770.725492,
+            "last_retested_at_iso": "2020-09-11T16:12:50.725492",
             "status": "INACTIVE"
         },
         "ehg-associatenewmedia.hitbox.com": {
@@ -14906,8 +14927,8 @@
         "fvid.atm.youku.com": {
             "included_at_epoch": 1598459582.668474,
             "included_at_iso": "2020-08-26T16:33:02.668474",
-            "last_retested_at_epoch": 1599839737.69802,
-            "last_retested_at_iso": "2020-09-11T15:55:37.698020",
+            "last_retested_at_epoch": 1599840770.873553,
+            "last_retested_at_iso": "2020-09-11T16:12:50.873553",
             "status": "INACTIVE"
         },
         "fw433.npic.ac.cn": {
@@ -15844,8 +15865,8 @@
         "gumpolice.com": {
             "included_at_epoch": 1598459582.830114,
             "included_at_iso": "2020-08-26T16:33:02.830114",
-            "last_retested_at_epoch": 1599839737.994043,
-            "last_retested_at_iso": "2020-09-11T15:55:37.994043",
+            "last_retested_at_epoch": 1599840771.018265,
+            "last_retested_at_iso": "2020-09-11T16:12:51.018265",
             "status": "INACTIVE"
         },
         "guptamedianetwork.com": {
@@ -16978,8 +16999,8 @@
         "indpolice.com": {
             "included_at_epoch": 1598459583.006201,
             "included_at_iso": "2020-08-26T16:33:03.006201",
-            "last_retested_at_epoch": 1599839737.844377,
-            "last_retested_at_iso": "2020-09-11T15:55:37.844377",
+            "last_retested_at_epoch": 1599840771.173308,
+            "last_retested_at_iso": "2020-09-11T16:12:51.173308",
             "status": "INACTIVE"
         },
         "induweb.oewabox.at": {
@@ -20779,8 +20800,8 @@
         "mcopolice.com": {
             "included_at_epoch": 1598459583.167547,
             "included_at_iso": "2020-08-26T16:33:03.167547",
-            "last_retested_at_epoch": 1599839738.152693,
-            "last_retested_at_iso": "2020-09-11T15:55:38.152693",
+            "last_retested_at_epoch": 1599840771.334522,
+            "last_retested_at_iso": "2020-09-11T16:12:51.334522",
             "status": "INACTIVE"
         },
         "mds.centrport.net": {
@@ -26827,15 +26848,15 @@
         "ruspolice.com": {
             "included_at_epoch": 1598459583.48771,
             "included_at_iso": "2020-08-26T16:33:03.487710",
-            "last_retested_at_epoch": 1599839738.305205,
-            "last_retested_at_iso": "2020-09-11T15:55:38.305205",
+            "last_retested_at_epoch": 1599840771.493321,
+            "last_retested_at_iso": "2020-09-11T16:12:51.493321",
             "status": "INACTIVE"
         },
         "ruspolice.net": {
             "included_at_epoch": 1598459583.346774,
             "included_at_iso": "2020-08-26T16:33:03.346774",
-            "last_retested_at_epoch": 1599839738.458372,
-            "last_retested_at_iso": "2020-09-11T15:55:38.458372",
+            "last_retested_at_epoch": 1599840771.637983,
+            "last_retested_at_iso": "2020-09-11T16:12:51.637983",
             "status": "INACTIVE"
         },
         "russ-shalavy.ru": {
@@ -35418,13 +35439,6 @@
             "included_at_iso": "2020-08-26T20:30:42.098093",
             "last_retested_at_epoch": 1598645335.238277,
             "last_retested_at_iso": "2020-08-28T20:08:55.238277",
-            "status": "INACTIVE"
-        },
-        "www.clickspring.net": {
-            "included_at_epoch": 1597419724.313975,
-            "included_at_iso": "2020-08-14T15:42:04.313975",
-            "last_retested_at_epoch": 1598629408.137078,
-            "last_retested_at_iso": "2020-08-28T15:43:28.137078",
             "status": "INACTIVE"
         },
         "www.clicktilluwin.com": {
