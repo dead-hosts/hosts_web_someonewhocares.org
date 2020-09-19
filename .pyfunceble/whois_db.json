@@ -299,6 +299,12 @@
         "expiration_date": "22-mar-2021",
         "state": "future"
     },
+    "aarth.net": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "ab913aa797e78b3.com": {
         "epoch": 1624579200.0,
         "expiration_date": "25-jun-2021",
@@ -327,6 +333,12 @@
     "abruzzoinitaly.co.uk": {
         "epoch": 1641600000.0,
         "expiration_date": "08-jan-2022",
+        "state": "future"
+    },
+    "accessfreevpn.com": {
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "acglgoa.com": {
@@ -412,6 +424,12 @@
     "ad-plus.cn": {
         "epoch": 1619136000.0,
         "expiration_date": "23-apr-2021",
+        "state": "future"
+    },
+    "ad-score.com": {
+        "epoch": 1817078400.0,
+        "expiration_date": "01-aug-2027",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ad-server.co.za": {
@@ -6292,9 +6310,10 @@
         "state": "future"
     },
     "my-uq.com": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
-        "state": "past"
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "myanyone.net": {
         "epoch": 1619740800.0,
@@ -7109,8 +7128,9 @@
         "state": "future"
     },
     "phormlabs.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "phox2ey.bid": {
@@ -8975,8 +8995,9 @@
         "state": "future"
     },
     "tomorrownewstoday.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tons-to-see.com": {
@@ -9960,8 +9981,9 @@
         "state": "future"
     },
     "xen-media.com": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "xgames-04.com": {
