@@ -6747,7 +6747,8 @@
     "nicappazaza.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "nickleplatedads.com": {
         "epoch": 1588464000.0,
@@ -6976,8 +6977,9 @@
         "state": "future"
     },
     "only2date.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "onmypc.net": {
@@ -7298,6 +7300,12 @@
     "piz7ohhujogi.com": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
+    "plasmatv4free.com": {
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "platads.com": {
