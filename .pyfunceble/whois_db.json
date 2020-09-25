@@ -4822,8 +4822,9 @@
         "state": "future"
     },
     "hitboxbenchmarker.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hitboxcentral.com": {
@@ -10273,6 +10274,12 @@
     "youfck.com": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
+    "your-gift-zone.com": {
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "yourdvdplayer.com": {
