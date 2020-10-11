@@ -4691,6 +4691,12 @@
         "expiration_date": "02-apr-2021",
         "state": "future"
     },
+    "highscanprotect.com": {
+        "epoch": 1633651200.0,
+        "expiration_date": "08-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "hightrafficads.com": {
         "epoch": 1607990400.0,
         "expiration_date": "15-dec-2020",
@@ -5185,6 +5191,12 @@
     "itempana.site": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
+    "itnuzleafan.com": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "itrackerpro.com": {
