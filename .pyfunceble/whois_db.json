@@ -1132,10 +1132,10 @@
         "state": "future"
     },
     "adtext.pl": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "adthru.com": {
         "epoch": 1603497600.0,
@@ -1902,8 +1902,9 @@
         "state": "future"
     },
     "bigbrandpromotions.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bigbrandrewards.com": {
