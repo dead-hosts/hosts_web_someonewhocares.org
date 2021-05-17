@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 14 May 2021 at 07:11:22 GMT
+# Last updated: Mon, 17 May 2021 at 02:59:14 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6999,6 +6999,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 aka-cdn.adtechus.com
+0.0.0.0 aka.ms-ads.co
 0.0.0.0 akaads-espn.starwave.com
 0.0.0.0 akamai.invitemedia.com
 0.0.0.0 ako.cc
