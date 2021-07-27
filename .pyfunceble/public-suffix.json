@@ -1130,6 +1130,7 @@
         "googleapis.com",
         "googlecode.com",
         "gotdns.com",
+        "gotpantheon.com",
         "gr.com",
         "health-carereform.com",
         "herokuapp.com",
@@ -1498,7 +1499,6 @@
         "2ix.de",
         "4lima.de",
         "barsy.de",
-        "bir.ru",
         "blogspot.de",
         "bplaced.de",
         "com.de",
@@ -1922,6 +1922,7 @@
         "edu.gy",
         "gov.gy",
         "net.gy",
+        "nym.gy",
         "org.gy"
     ],
     "health": [
@@ -2187,7 +2188,6 @@
         "ghost.io",
         "github.io",
         "gitlab.io",
-        "gotpantheon.com",
         "hasura-app.io",
         "hostyhosting.io",
         "hzc.io",
@@ -4735,6 +4735,9 @@
         "dweb.link",
         "mypep.link"
     ],
+    "live": [
+        "hlx.live"
+    ],
     "lk": [
         "ac.lk",
         "assn.lk",
@@ -6814,7 +6817,6 @@
         "merseine.nu",
         "mine.nu",
         "nom.nu",
-        "nym.gy",
         "shacknet.nu"
     ],
     "nz": [
@@ -6858,7 +6860,9 @@
         "under.one"
     ],
     "online": [
-        "barsy.online"
+        "barsy.online",
+        "eero-stage.online",
+        "eero.online"
     ],
     "org": [
         "accesscam.org",
@@ -7053,6 +7057,8 @@
         "sld.pa"
     ],
     "page": [
+        "hlx.page",
+        "hlx3.page",
         "magnet.page",
         "pdns.page",
         "plesk.page",
