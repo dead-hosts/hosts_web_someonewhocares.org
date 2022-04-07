@@ -1,10 +1,32 @@
 {
     "counter": {
+        "ARDIS-SU": 2,
         "Cloudflare, Inc.": 1,
-        "total": 1
+        "DYNADOT, LLC": 1,
+        "Dynadot LLC": 1,
+        "Eranet International Limited": 2,
+        "Name.com, Inc.": 1,
+        "NameCheap, Inc.": 9,
+        "NameSilo, LLC": 1,
+        "NameSilo,LLC": 1,
+        "OVH": 1,
+        "REGRU-SU": 1,
+        "Sea Wasp, LLC": 1,
+        "total": 22
     },
     "percentage": {
-        "Cloudflare, Inc.": 100.0,
-        "total": 100.0
+        "ARDIS-SU": 9.090909090909092,
+        "Cloudflare, Inc.": 4.545454545454546,
+        "DYNADOT, LLC": 4.545454545454546,
+        "Dynadot LLC": 4.545454545454546,
+        "Eranet International Limited": 9.090909090909092,
+        "Name.com, Inc.": 4.545454545454546,
+        "NameCheap, Inc.": 40.90909090909091,
+        "NameSilo, LLC": 4.545454545454546,
+        "NameSilo,LLC": 4.545454545454546,
+        "OVH": 4.545454545454546,
+        "REGRU-SU": 4.545454545454546,
+        "Sea Wasp, LLC": 4.545454545454546,
+        "total": 100.00000000000001
     }
 }
