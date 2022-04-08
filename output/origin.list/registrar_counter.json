@@ -2,13 +2,17 @@
     "counter": {
         "Above.com Pty Ltd": 1,
         "Amazon Registrar, Inc.": 1,
-        "GoDaddy.com, LLC": 2,
-        "total": 4
+        "GoDaddy.com, LLC": 3,
+        "Key-Systems GmbH": 1,
+        "NameCheap, Inc.": 4,
+        "total": 10
     },
     "percentage": {
-        "Above.com Pty Ltd": 25.0,
-        "Amazon Registrar, Inc.": 25.0,
-        "GoDaddy.com, LLC": 50.0,
+        "Above.com Pty Ltd": 10.0,
+        "Amazon Registrar, Inc.": 10.0,
+        "GoDaddy.com, LLC": 30.0,
+        "Key-Systems GmbH": 10.0,
+        "NameCheap, Inc.": 40.0,
         "total": 100.0
     }
 }
