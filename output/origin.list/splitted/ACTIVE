@@ -9452,3 +9452,67 @@ db3aqu.atdmt.com                                                                
 reports.wes.df.telemetry.microsoft.com                                                               ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 wes.df.telemetry.microsoft.com                                                                       ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ads.lmmob.com                                                                                        ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adssl01.adtech.fr                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ads.adhostingsolutions.com                                                                           ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+bitburg.adtech.fr                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+adssl02.adtech.fr                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+burns.adtech.fr                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+dqs001.adtech.fr                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+corba.adtech.fr                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+imageserv.adtech.fr                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+imserv002.adtech.fr                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+imserv004.adtech.fr                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+help.adtech.fr                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+imserv003.adtech.fr                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+hyperion.adtech.fr                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+imserv001.adtech.fr                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+imssl01.adtech.fr                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+imserv005.adtech.fr                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+imserv006.adtech.fr                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+imserv00x.adtech.fr                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ipacc1.adtech.fr                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ipdata.adtech.fr                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+iq001.adtech.fr                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ldglob01.adtech.fr                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ldimage01.adtech.fr                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ldglob02.adtech.fr                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ldserv02.adtech.fr                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ldimage02.adtech.fr                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+manage001.adtech.fr                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ldserv01.adtech.fr                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+linuxpark.adtech.fr                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+susi.adtech.fr                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+upload.adtech.fr                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+xml.adtech.fr                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+adserv001.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserv002.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserv003.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserv004.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserv005.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserv006.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserv007.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserv008.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.adtech.fr                                                                                   ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+pix521.adtech.fr                                                                                     ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+pix522.adtech.fr                                                                                     ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+reporter.adtech.fr                                                                                   ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+report02.adtech.fr                                                                                   ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+reporter001.adtech.fr                                                                                ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+schumacher.adtech.fr                                                                                 ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+reportimage.adtech.fr                                                                                ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+secserv.adtech.fr                                                                                    ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+secimage.adtech.fr                                                                                   ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+select001.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+select002.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+select003.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+select004.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+service.adtech.fr                                                                                    ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+service001.adtech.fr                                                                                 ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+service003.adtech.fr                                                                                 ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+services1.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+service004.adtech.fr                                                                                 ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+service00x.adtech.fr                                                                                 ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+sokrates.adtech.fr                                                                                   ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+service002.adtech.fr                                                                                 ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+sgs001.adtech.fr                                                                                     ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+services.adtech.fr                                                                                   ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
