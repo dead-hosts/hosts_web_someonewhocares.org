@@ -164,3 +164,9 @@ y:
         http: null
         https: null
     rules: []
+share_logs: false
+user_agent:
+    browser: chrome
+    custom: null
+    platform: linux
+verify_ssl_certificate: false
