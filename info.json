@@ -14,7 +14,13 @@
     "name": "hosts_web_someonewhocares.org",
     "own_management": false,
     "ping": [],
+    "platform_container_id": null,
+    "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
+    "platform_optout": false,
+    "platform_remote_source_id": null,
+    "platform_shortname": "hosts_web_someonewhocares-org",
     "raw_link": "http://someonewhocares.org/hosts/zero/hosts",
+    "repo": "dead-hosts/hosts_web_someonewhocares.org",
     "start_datetime": "2020-10-21T16:06:16.946326",
     "start_timestamp": 1603296376.946326
 }
